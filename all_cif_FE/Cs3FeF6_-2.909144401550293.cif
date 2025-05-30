@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs3FeF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.74991322
+_cell_length_b   6.75777292
+_cell_length_c   6.74555445
+_cell_angle_alpha   60.05131149
+_cell_angle_beta   60.00704193
+_cell_angle_gamma   60.15254211
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3FeF6
+_chemical_formula_sum   'Cs3 Fe1 F6'
+_cell_volume   217.91860362
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.98368186  0.11095485  0.94092917  1
+  Cs  Cs1  1  0.48460573  0.60954970  0.43973261  1
+  Cs  Cs2  1  0.73469937  0.86137807  0.69083554  1
+  Fe  Fe3  1  0.23505785  0.36027038  0.19006526  1
+  F  F4  1  0.03066083  0.56203121  0.39441466  1
+  F  F5  1  0.43758091  0.15918560  0.98853672  1
+  F  F6  1  0.43740326  0.56307894  0.98895252  1
+  F  F7  1  0.02998208  0.56438333  0.98819476  1
+  F  F8  1  0.43709001  0.15792748  0.39439830  1
+  F  F9  1  0.03045831  0.15853581  0.39408967  1

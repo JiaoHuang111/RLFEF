@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cr4CoNiS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50308132
+_cell_length_b   6.53774500
+_cell_length_c   6.62971544
+_cell_angle_alpha   105.23574066
+_cell_angle_beta   105.72644806
+_cell_angle_gamma   118.13208008
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr4CoNiS8
+_chemical_formula_sum   'Cr4 Co1 Ni1 S8'
+_cell_volume   212.42811387
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.80184060  0.99004632  0.28383154  1
+  Cr  Cr1  1  0.55591369  0.22862557  0.77912879  1
+  Cr  Cr2  1  0.80700576  0.96637350  0.76151615  1
+  Cr  Cr3  1  0.30632704  0.49436116  0.78938842  1
+  Co  Co4  1  0.32080853  0.47138360  0.27991188  1
+  Ni  Ni5  1  0.05829445  0.72977877  0.27998862  1
+  S  S6  1  0.26881436  0.19119105  0.94555610  1
+  S  S7  1  0.86144245  0.27528158  0.11121450  1
+  S  S8  1  0.75736648  0.68670899  0.94482595  1
+  S  S9  1  0.34643567  0.76203305  0.12185962  1
+  S  S10  1  0.35047737  0.76399195  0.59895843  1
+  S  S11  1  0.75908488  0.67836630  0.42766693  1
+  S  S12  1  0.84709597  0.27013242  0.61501646  1
+  S  S13  1  0.25411913  0.18524817  0.44470826  1

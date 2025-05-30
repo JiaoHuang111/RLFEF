@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoAlRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47010851
+_cell_length_b   7.20618010
+_cell_length_c   7.26925707
+_cell_angle_alpha   90.00717163
+_cell_angle_beta   89.90357971
+_cell_angle_gamma   90.03148651
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoAlRh
+_chemical_formula_sum   'Ho4 Al4 Rh4'
+_cell_volume   234.15989828
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.46137378  0.73302501  0.93121588  1
+  Ho  Ho1  1  0.96197677  0.11442549  0.94664198  1
+  Ho  Ho2  1  0.96200973  0.23374841  0.44606999  1
+  Ho  Ho3  1  0.46228984  0.61406809  0.43150717  1
+  Al  Al4  1  0.46181735  0.33449608  0.76609385  1
+  Al  Al5  1  0.96230954  0.51097840  0.11514261  1
+  Al  Al6  1  0.96162075  0.83436865  0.61571270  1
+  Al  Al7  1  0.46145833  0.01139085  0.26413032  1
+  Rh  Rh8  1  0.46166977  0.00675142  0.62500304  1
+  Rh  Rh9  1  0.46165830  0.33619058  0.12829119  1
+  Rh  Rh10  1  0.96180552  0.83645308  0.24806403  1
+  Rh  Rh11  1  0.96149611  0.50519580  0.74648213  1

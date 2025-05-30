@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_UBiSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40629292
+_cell_length_b   4.41320467
+_cell_length_c   8.95985031
+_cell_angle_alpha   89.75689697
+_cell_angle_beta   89.81024933
+_cell_angle_gamma   90.07372284
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UBiSb
+_chemical_formula_sum   'U2 Bi2 Sb2'
+_cell_volume   174.22943533
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.57181317  0.19505252  0.14137550  1
+  U  U1  1  0.07168177  0.69476217  0.69736552  1
+  Bi  Bi2  1  0.57156610  0.69508481  0.41552532  1
+  Bi  Bi3  1  0.57158232  0.19509684  0.77818817  1
+  Sb  Sb4  1  0.07191647  0.69482708  0.05540816  1
+  Sb  Sb5  1  0.07159103  0.19525547  0.41577217  1

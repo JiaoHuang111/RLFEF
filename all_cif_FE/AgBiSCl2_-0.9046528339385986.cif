@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_AgBiSCl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67599916
+_cell_length_b   7.28713894
+_cell_length_c   7.90319252
+_cell_angle_alpha   104.50367737
+_cell_angle_beta   90.20051575
+_cell_angle_gamma   113.29480743
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgBiSCl2
+_chemical_formula_sum   'Ag2 Bi2 S2 Cl4'
+_cell_volume   288.73547057
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.83009511  0.83092409  0.43547332  1
+  Ag  Ag1  1  0.82908142  0.83145177  0.85877937  1
+  Bi  Bi2  1  0.49970615  0.16392885  0.33731031  1
+  Bi  Bi3  1  0.15935104  0.49146059  0.12151873  1
+  S  S4  1  0.99645895  0.16659522  0.27560854  1
+  S  S5  1  0.32666239  0.82839066  0.43088147  1
+  Cl  Cl6  1  0.00689128  0.19083583  0.78286874  1
+  Cl  Cl7  1  0.66330135  0.51118255  0.59246063  1
+  Cl  Cl8  1  0.65209937  0.48980561  0.11700793  1
+  Cl  Cl9  1  0.32898366  0.83333957  0.94505966  1

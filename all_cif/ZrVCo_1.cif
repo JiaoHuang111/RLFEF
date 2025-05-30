@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrVCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03271198
+_cell_length_b   5.03540421
+_cell_length_c   8.15001869
+_cell_angle_alpha   89.86482239
+_cell_angle_beta   89.79969788
+_cell_angle_gamma   119.52192688
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrVCo
+_chemical_formula_sum   'Zr4 V4 Co4'
+_cell_volume   179.71746679
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.94396645  0.32334685  0.54678261  1
+  Zr  Zr1  1  0.27754220  0.99088246  0.04445497  1
+  Zr  Zr2  1  0.27753940  0.99147910  0.67210037  1
+  Zr  Zr3  1  0.94376546  0.32342133  0.16944370  1
+  V  V4  1  0.59651417  0.65860617  0.61088985  1
+  V  V5  1  0.94967067  0.82599455  0.35886475  1
+  V  V6  1  0.77886289  0.48945373  0.86035758  1
+  V  V7  1  0.59799260  0.65956503  0.11252166  1
+  Co  Co8  1  0.44235757  0.31669107  0.35910836  1
+  Co  Co9  1  0.77814639  0.99420363  0.86012536  1
+  Co  Co10  1  0.27451676  0.48918256  0.85935938  1
+  Co  Co11  1  0.44189164  0.82501912  0.35927454  1

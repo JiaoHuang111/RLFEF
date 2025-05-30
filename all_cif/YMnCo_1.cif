@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_YMnCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.74819660
+_cell_length_b   4.70334435
+_cell_length_c   4.83764839
+_cell_angle_alpha   90.62900543
+_cell_angle_beta   90.66981506
+_cell_angle_gamma   89.86834717
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YMnCo
+_chemical_formula_sum   'Y2 Mn2 Co2'
+_cell_volume   108.02217001
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.29420030  0.47646442  0.86610866  1
+  Y  Y1  1  0.79449868  0.97595686  0.86582845  1
+  Mn  Mn2  1  0.54389286  0.22650237  0.36579439  1
+  Mn  Mn3  1  0.04385972  0.72653127  0.36543959  1
+  Co  Co4  1  0.04347941  0.22656430  0.36604732  1
+  Co  Co5  1  0.54390931  0.72633159  0.36661953  1

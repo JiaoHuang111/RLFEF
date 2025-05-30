@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Rb2CuF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75068045
+_cell_length_b   5.98781109
+_cell_length_c   5.84974480
+_cell_angle_alpha   62.81515884
+_cell_angle_beta   91.35252380
+_cell_angle_gamma   118.52895355
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2CuF6
+_chemical_formula_sum   'Rb2 Cu1 F6'
+_cell_volume   152.46479892
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.96903688  0.74991190  0.81653428  1
+  Rb  Rb1  1  0.48342812  0.24650720  0.31595781  1
+  Cu  Cu2  1  0.22363743  0.50191694  0.56712359  1
+  F  F3  1  0.01003388  0.28202450  0.34884492  1
+  F  F4  1  0.44579041  0.72033632  0.78509545  1
+  F  F5  1  0.44611874  0.28327033  0.78203356  1
+  F  F6  1  0.44866380  0.72126257  0.34678766  1
+  F  F7  1  0.00870323  0.28321066  0.78771830  1
+  F  F8  1  0.00981908  0.72153187  0.34884876  1

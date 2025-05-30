@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_PrZnNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86920929
+_cell_length_b   7.17561340
+_cell_length_c   7.18261909
+_cell_angle_alpha   120.09823608
+_cell_angle_beta   89.97732544
+_cell_angle_gamma   90.04759979
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrZnNi
+_chemical_formula_sum   'Pr3 Zn3 Ni3'
+_cell_volume   172.52967943
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.23811164  0.63368315  0.42147377  1
+  Pr  Pr1  1  0.23860781  0.22047526  0.59429020  1
+  Pr  Pr2  1  0.23817107  0.04655266  0.00864791  1
+  Zn  Zn3  1  0.73782706  0.63302284  0.77208424  1
+  Zn  Zn4  1  0.73835552  0.39598152  0.00960915  1
+  Zn  Zn5  1  0.73800838  0.86815184  0.24167170  1
+  Ni  Ni6  1  0.73801780  0.29839543  0.34101892  1
+  Ni  Ni7  1  0.73831385  0.96567792  0.67244381  1
+  Ni  Ni8  1  0.23815966  0.63319969  0.00850440  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Dy3TmMn8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37658611
+_cell_length_b   5.37658682
+_cell_length_c   8.59598235
+_cell_angle_alpha   71.77566556
+_cell_angle_beta   71.77566862
+_cell_angle_gamma   59.99999562
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy3TmMn8
+_chemical_formula_sum   'Dy3 Tm1 Mn8'
+_cell_volume   200.67691247
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.62584700  0.62584700  0.12245900  1.0
+  Dy  Dy1  1  0.99914900  0.99914900  0.00255300  1.0
+  Dy  Dy2  1  0.49884300  0.49884400  0.50346900  1.0
+  Tm  Tm3  1  0.12585600  0.12585500  0.62243300  1.0
+  Mn  Mn4  1  0.56293100  0.06310700  0.81103100  1.0
+  Mn  Mn5  1  0.06264800  0.56103100  0.31367300  1.0
+  Mn  Mn6  1  0.06310600  0.56293200  0.81103100  1.0
+  Mn  Mn7  1  0.56103100  0.06264800  0.31367300  1.0
+  Mn  Mn8  1  0.81244700  0.81244700  0.56265900  1.0
+  Mn  Mn9  1  0.31256100  0.31256100  0.06231700  1.0
+  Mn  Mn10  1  0.56293100  0.56293100  0.81103100  1.0
+  Mn  Mn11  1  0.06264800  0.06264800  0.31367300  1.0

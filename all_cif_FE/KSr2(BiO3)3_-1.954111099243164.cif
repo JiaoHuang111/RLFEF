@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_KSr2(BiO3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83256555
+_cell_length_b   6.83486795
+_cell_length_c   10.77387333
+_cell_angle_alpha   95.00595856
+_cell_angle_beta   90.03347778
+_cell_angle_gamma   106.21897125
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSr2(BiO3)3
+_chemical_formula_sum   'K1 Sr2 Bi3 O9'
+_cell_volume   269.86481240
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.98667604  0.15669915  0.24833368  1
+  Sr  Sr1  1  0.94826365  0.08776230  0.90100127  1
+  Sr  Sr2  1  0.17005391  0.52532524  0.72196078  1
+  Bi  Bi3  1  0.42831957  0.04719254  0.61288023  1
+  Bi  Bi4  1  0.73243785  0.64716530  0.40379876  1
+  Bi  Bi5  1  0.24912804  0.69343436  0.09656565  1
+  O  O6  1  0.99803180  0.18081740  0.59965658  1
+  O  O7  1  0.31572077  0.81317288  0.43405539  1
+  O  O8  1  0.58524436  0.36946926  0.35081908  1
+  O  O9  1  0.77071142  0.73047036  0.20614408  1
+  O  O10  1  0.35056913  0.89573717  0.76275027  1
+  O  O11  1  0.10437519  0.39650998  0.04864111  1
+  O  O12  1  0.55927593  0.30926657  0.80272806  1
+  O  O13  1  0.39479932  0.97163659  0.04175279  1
+  O  O14  1  0.73177224  0.64510745  0.60084391  1

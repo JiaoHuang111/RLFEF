@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sc2GaB2Ir5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.20653534
+_cell_length_b   9.20485783
+_cell_length_c   9.19380569
+_cell_angle_alpha   89.80810547
+_cell_angle_beta   90.06229401
+_cell_angle_gamma   90.03256226
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2GaB2Ir5
+_chemical_formula_sum   'Sc4 Ga2 B4 Ir10'
+_cell_volume   271.35990274
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.51264006  0.73684603  0.31616688  1
+  Sc  Sc1  1  0.51284254  0.08552175  0.96642178  1
+  Sc  Sc2  1  0.51329517  0.23565529  0.46514028  1
+  Sc  Sc3  1  0.51307249  0.58412278  0.81560200  1
+  Ga  Ga4  1  0.51311964  0.90982604  0.63934761  1
+  Ga  Ga5  1  0.51231343  0.41038549  0.13953024  1
+  B  B6  1  0.51311833  0.53462291  0.51421815  1
+  B  B7  1  0.51303518  0.28397951  0.76401621  1
+  B  B8  1  0.51307338  0.78473610  0.01425017  1
+  B  B9  1  0.51312989  0.03493809  0.26362810  1
+  Ir  Ir10  1  0.01277992  0.19368778  0.21084827  1
+  Ir  Ir11  1  0.01294764  0.12538745  0.71161473  1
+  Ir  Ir12  1  0.01309559  0.62464339  0.06830926  1
+  Ir  Ir13  1  0.01271379  0.98108590  0.42272639  1
+  Ir  Ir14  1  0.01297581  0.69400001  0.56866366  1
+  Ir  Ir15  1  0.01306669  0.90991467  0.13951266  1
+  Ir  Ir16  1  0.01300931  0.40906146  0.63944370  1
+  Ir  Ir17  1  0.01308283  0.33823061  0.92338502  1
+  Ir  Ir18  1  0.01305112  0.48078573  0.35399050  1
+  Ir  Ir19  1  0.01261153  0.83763456  0.85404098  1

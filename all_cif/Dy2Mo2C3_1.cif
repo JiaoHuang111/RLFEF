@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Dy2Mo2C3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.34889841
+_cell_length_b   5.66663933
+_cell_length_c   5.69338846
+_cell_angle_alpha   97.56392670
+_cell_angle_beta   89.86492920
+_cell_angle_gamma   90.06626129
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2Mo2C3
+_chemical_formula_sum   'Dy2 Mo2 C3'
+_cell_volume   107.10296524
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.95224029  0.99813741  0.80566877  1
+  Dy  Dy1  1  0.95267534  0.40921932  0.38185513  1
+  Mo  Mo2  1  0.45253837  0.52011353  0.90595526  1
+  Mo  Mo3  1  0.45292979  0.88471496  0.26925772  1
+  C  C4  1  0.45238635  0.20553176  0.09059522  1
+  C  C5  1  0.45258453  0.70624602  0.59054059  1
+  C  C6  1  0.95247263  0.70461494  0.09119517  1

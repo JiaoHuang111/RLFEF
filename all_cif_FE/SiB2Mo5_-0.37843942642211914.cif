@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SiB2Mo5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.89969349
+_cell_length_b   5.89058638
+_cell_length_c   7.04643345
+_cell_angle_alpha   114.62282562
+_cell_angle_beta   114.27146912
+_cell_angle_gamma   90.27855682
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiB2Mo5
+_chemical_formula_sum   'Si2 B4 Mo10'
+_cell_volume   198.30156810
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.10969289  0.36956680  0.85284770  1
+  Si  Si1  1  0.85515666  0.62722051  0.35415041  1
+  B  B2  1  0.45795378  0.01738895  0.35343930  1
+  B  B3  1  0.61155868  0.86903930  0.85323822  1
+  B  B4  1  0.24473961  0.22950692  0.35378432  1
+  B  B5  1  0.96027642  0.86959350  0.85343581  1
+  Mo  Mo6  1  0.53383964  0.66881818  0.05413597  1
+  Mo  Mo7  1  0.37966752  0.12701145  0.05531277  1
+  Mo  Mo8  1  0.03404847  0.79304880  0.10373690  1
+  Mo  Mo9  1  0.67197227  0.45680341  0.63071394  1
+  Mo  Mo10  1  0.76353014  0.96181291  0.62974155  1
+  Mo  Mo11  1  0.85100424  0.13458198  0.35531667  1
+  Mo  Mo12  1  0.18091203  0.60485011  0.65139323  1
+  Mo  Mo13  1  0.88483834  0.26909053  0.05474199  1
+  Mo  Mo14  1  0.30010340  0.07761274  0.62734193  1
+  Mo  Mo15  1  0.35471582  0.61079496  0.34950966  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Lu(Ni2P)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.63751984
+_cell_length_b   7.12808990
+_cell_length_c   7.14323330
+_cell_angle_alpha   99.17527008
+_cell_angle_beta   89.89238739
+_cell_angle_gamma   90.00864410
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu(Ni2P)2
+_chemical_formula_sum   'Lu2 Ni8 P4'
+_cell_volume   182.84371154
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.28027940  0.85106236  0.15944797  1
+  Lu  Lu1  1  0.28033301  0.34352210  0.91097021  1
+  Ni  Ni2  1  0.78027916  0.10497843  0.39234567  1
+  Ni  Ni3  1  0.27991009  0.01461129  0.60157609  1
+  Ni  Ni4  1  0.27981666  0.70481956  0.74702150  1
+  Ni  Ni5  1  0.28004435  0.29116642  0.30407587  1
+  Ni  Ni6  1  0.78019017  0.51841521  0.21534610  1
+  Ni  Ni7  1  0.78007984  0.96327311  0.86578184  1
+  Ni  Ni8  1  0.78025329  0.78045750  0.49454242  1
+  Ni  Ni9  1  0.77998942  0.46074572  0.59749496  1
+  P  P10  1  0.78047967  0.17575490  0.12509224  1
+  P  P11  1  0.28030387  0.59327829  0.42915139  1
+  P  P12  1  0.77981687  0.64913511  0.92806935  1
+  P  P13  1  0.77980745  0.17691872  0.67705697  1

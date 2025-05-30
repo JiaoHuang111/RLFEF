@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_GdCo4Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.75650048
+_cell_length_b   5.03674173
+_cell_length_c   5.02276468
+_cell_angle_alpha   119.78848267
+_cell_angle_beta   90.26484680
+_cell_angle_gamma   90.21726227
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdCo4Si
+_chemical_formula_sum   'Gd1 Co4 Si1'
+_cell_volume   82.47322510
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.57073081  0.30457732  0.28835586  1
+  Co  Co1  1  0.07050968  0.80514801  0.78694373  1
+  Co  Co2  1  0.07104392  0.80480075  0.28789532  1
+  Co  Co3  1  0.57072002  0.63790834  0.95171630  1
+  Co  Co4  1  0.07026809  0.30384508  0.78753978  1
+  Si  Si5  1  0.57067913  0.96994156  0.62203181  1

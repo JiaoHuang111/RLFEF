@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2ErCuCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.29729080
+_cell_length_b   7.31697607
+_cell_length_c   7.30877209
+_cell_angle_alpha   59.86946106
+_cell_angle_beta   59.81705475
+_cell_angle_gamma   59.75572586
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2ErCuCl6
+_chemical_formula_sum   'K2 Er1 Cu1 Cl6'
+_cell_volume   274.78003611
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.17941448  0.19105820  0.08657984  1
+  K  K1  1  0.67973191  0.69210893  0.58628047  1
+  Er  Er2  1  0.42921594  0.44143084  0.33685526  1
+  Cu  Cu3  1  0.92901081  0.94156247  0.83681095  1
+  Cl  Cl4  1  0.17571454  0.69555771  0.08298167  1
+  Cl  Cl5  1  0.68211198  0.19000503  0.58823472  1
+  Cl  Cl6  1  0.17607482  0.19017307  0.58791006  1
+  Cl  Cl7  1  0.68153065  0.69514221  0.08314991  1
+  Cl  Cl8  1  0.17666240  0.69525313  0.58822793  1
+  Cl  Cl9  1  0.68164003  0.19012092  0.08312789  1

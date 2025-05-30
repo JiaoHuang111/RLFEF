@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ho(GaCo)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04913521
+_cell_length_b   6.49777985
+_cell_length_c   6.52580881
+_cell_angle_alpha   81.04080963
+_cell_angle_beta   67.00143433
+_cell_angle_gamma   67.07689667
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho(GaCo)6
+_chemical_formula_sum   'Ho1 Ga6 Co6'
+_cell_volume   181.51656268
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.89752299  0.27534637  0.24059661  1
+  Ga  Ga1  1  0.62222797  0.04972085  0.00915072  1
+  Ga  Ga2  1  0.39689612  0.51030099  0.00417995  1
+  Ga  Ga3  1  0.39666060  0.04270513  0.47523266  1
+  Ga  Ga4  1  0.89697373  0.62231523  0.88723511  1
+  Ga  Ga5  1  0.17270291  0.50262260  0.45996889  1
+  Ga  Ga6  1  0.89676040  0.92945397  0.58846033  1
+  Co  Co7  1  0.54731458  0.62781596  0.59079665  1
+  Co  Co8  1  0.89790440  0.27632213  0.73976415  1
+  Co  Co9  1  0.24935022  0.91999394  0.88512266  1
+  Co  Co10  1  0.39667764  0.77693987  0.24000640  1
+  Co  Co11  1  0.89641476  0.77718943  0.23850748  1
+  Co  Co12  1  0.39692897  0.27752227  0.73958516  1

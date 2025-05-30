@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Rb3InO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52168989
+_cell_length_b   6.74922514
+_cell_length_c   7.65032482
+_cell_angle_alpha   89.85404968
+_cell_angle_beta   89.71715546
+_cell_angle_gamma   99.64391327
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3InO3
+_chemical_formula_sum   'Rb6 In2 O6'
+_cell_volume   331.97458652
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.94290370  0.89684302  0.84476662  1
+  Rb  Rb1  1  0.94125092  0.89464974  0.34462237  1
+  Rb  Rb2  1  0.68410099  0.41969779  0.09687105  1
+  Rb  Rb3  1  0.19254510  0.38900435  0.84483248  1
+  Rb  Rb4  1  0.68061018  0.41664904  0.59727609  1
+  Rb  Rb5  1  0.19708954  0.38541409  0.34461406  1
+  In  In6  1  0.39088047  0.83660901  0.09727459  1
+  In  In7  1  0.39099926  0.83698899  0.59611458  1
+  O  O8  1  0.51520574  0.72528666  0.34649643  1
+  O  O9  1  0.30644125  0.11664639  0.59268016  1
+  O  O10  1  0.30647206  0.11556190  0.09204651  1
+  O  O11  1  0.08899376  0.64702523  0.09294271  1
+  O  O12  1  0.51589638  0.72633201  0.84661508  1
+  O  O13  1  0.08924105  0.64670563  0.59154361  1

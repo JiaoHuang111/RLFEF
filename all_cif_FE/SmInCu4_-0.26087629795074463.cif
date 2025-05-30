@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SmInCu4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12073565
+_cell_length_b   5.12932444
+_cell_length_c   5.14552021
+_cell_angle_alpha   60.03673172
+_cell_angle_beta   60.06793213
+_cell_angle_gamma   59.76268005
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmInCu4
+_chemical_formula_sum   'Sm1 In1 Cu4'
+_cell_volume   95.46927307
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.76129472  0.71891373  0.38807353  1
+  In  In1  1  0.51152891  0.47010991  0.13822018  1
+  Cu  Cu2  1  0.63568294  0.09540503  0.76372194  1
+  Cu  Cu3  1  0.13703588  0.09571182  0.76426816  1
+  Cu  Cu4  1  0.13726984  0.59405202  0.76396024  1
+  Cu  Cu5  1  0.13733466  0.09530303  0.26284224  1

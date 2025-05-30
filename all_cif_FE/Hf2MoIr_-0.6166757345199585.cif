@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Hf2MoIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.65435028
+_cell_length_b   4.64324665
+_cell_length_c   4.65321922
+_cell_angle_alpha   59.61941528
+_cell_angle_beta   59.93610382
+_cell_angle_gamma   59.93375397
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2MoIr
+_chemical_formula_sum   'Hf2 Mo1 Ir1'
+_cell_volume   70.83194915
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.55376995  0.12102830  0.76754153  1
+  Hf  Hf1  1  0.05401604  0.62071675  0.26735181  1
+  Mo  Mo2  1  0.80408007  0.37125733  0.01755486  1
+  Ir  Ir3  1  0.30391538  0.87092346  0.51784068  1

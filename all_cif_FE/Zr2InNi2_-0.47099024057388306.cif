@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Zr2InNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.34772205
+_cell_length_b   7.21627188
+_cell_length_c   7.18113661
+_cell_angle_alpha   90.02743530
+_cell_angle_beta   89.95834351
+_cell_angle_gamma   89.78601837
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2InNi2
+_chemical_formula_sum   'Zr4 In2 Ni4'
+_cell_volume   173.48114305
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.60093105  0.16522659  0.08830509  1
+  Zr  Zr1  1  0.60047418  0.66450560  0.25164869  1
+  Zr  Zr2  1  0.60088778  0.49509770  0.75067502  1
+  Zr  Zr3  1  0.60081929  0.99534833  0.58771574  1
+  In  In4  1  0.10069524  0.33031785  0.41734707  1
+  In  In5  1  0.10081030  0.83012784  0.91778553  1
+  Ni  Ni6  1  0.10106394  0.20142174  0.79250097  1
+  Ni  Ni7  1  0.10117856  0.45989487  0.04676919  1
+  Ni  Ni8  1  0.10082093  0.95948839  0.29270789  1
+  Ni  Ni9  1  0.10088310  0.70077389  0.54677755  1

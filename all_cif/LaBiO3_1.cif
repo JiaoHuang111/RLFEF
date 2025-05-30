@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LaBiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.15690804
+_cell_length_b   6.15218401
+_cell_length_c   6.37102270
+_cell_angle_alpha   60.63180542
+_cell_angle_beta   60.82654572
+_cell_angle_gamma   60.11672592
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaBiO3
+_chemical_formula_sum   'La2 Bi2 O6'
+_cell_volume   172.65261909
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.06007526  0.80190593  0.14275707  1
+  La  La1  1  0.56024212  0.30348358  0.64290851  1
+  Bi  Bi2  1  0.27661550  0.01766641  0.49599692  1
+  Bi  Bi3  1  0.77557921  0.51882571  0.99498820  1
+  O  O4  1  0.95229167  0.41510347  0.31270280  1
+  O  O5  1  0.88367617  0.91635060  0.81307805  1
+  O  O6  1  0.66966051  0.13204834  0.31341201  1
+  O  O7  1  0.16876438  0.19069546  0.81202912  1
+  O  O8  1  0.38403150  0.69058347  0.31268603  1
+  O  O9  1  0.45231381  0.63284111  0.81283450  1

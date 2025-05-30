@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CaFeF5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31862926
+_cell_length_b   5.83606529
+_cell_length_c   6.87451315
+_cell_angle_alpha   103.73345947
+_cell_angle_beta   110.84320831
+_cell_angle_gamma   91.98853302
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaFeF5
+_chemical_formula_sum   'Ca2 Fe2 F10'
+_cell_volume   192.04205702
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.91012180  0.83566117  0.73294234  1
+  Ca  Ca1  1  0.67249829  0.15750250  0.27175036  1
+  Fe  Fe2  1  0.18787187  0.70365292  0.26280943  1
+  Fe  Fe3  1  0.50561756  0.40581095  0.84515101  1
+  F  F4  1  0.51706773  0.89004010  0.46976441  1
+  F  F5  1  0.30296183  0.65850997  0.79067862  1
+  F  F6  1  0.85731941  0.61401916  0.97685337  1
+  F  F7  1  0.42733747  0.47605702  0.13651134  1
+  F  F8  1  0.23917294  0.97912610  0.13065180  1
+  F  F9  1  0.18650697  0.18685058  0.75927663  1
+  F  F10  1  0.05408127  0.44757089  0.36144423  1
+  F  F11  1  0.63206583  0.41598317  0.58739060  1
+  F  F12  1  0.95258564  0.87181944  0.37985060  1
+  F  F13  1  0.70133024  0.13837886  0.93119609  1

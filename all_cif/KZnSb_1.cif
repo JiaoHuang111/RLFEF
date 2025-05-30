@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_KZnSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.70090961
+_cell_length_b   4.67979193
+_cell_length_c   8.25449657
+_cell_angle_alpha   89.86985016
+_cell_angle_beta   89.99263000
+_cell_angle_gamma   90.09722137
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KZnSb
+_chemical_formula_sum   'K2 Zn2 Sb2'
+_cell_volume   181.59224051
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.92729771  0.98559159  0.39419818  1
+  K  K1  1  0.42686516  0.48575836  0.70742303  1
+  Zn  Zn2  1  0.92667449  0.48569235  0.04898008  1
+  Zn  Zn3  1  0.42682362  0.98593581  0.04938633  1
+  Sb  Sb4  1  0.92713743  0.98576128  0.85375416  1
+  Sb  Sb5  1  0.42660442  0.48513901  0.24038072  1

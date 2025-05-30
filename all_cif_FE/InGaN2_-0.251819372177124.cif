@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_InGaN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.32234001
+_cell_length_b   3.29684305
+_cell_length_c   5.43678617
+_cell_angle_alpha   90.02733612
+_cell_angle_beta   89.90163422
+_cell_angle_gamma   119.70624542
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InGaN2
+_chemical_formula_sum   'In1 Ga1 N2'
+_cell_volume   51.72404708
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.22726655  0.07279675  0.82736772  1
+  Ga  Ga1  1  0.89435726  0.40591916  0.39114997  1
+  N  N2  1  0.89417255  0.40624008  0.04113928  1
+  N  N3  1  0.56042045  0.73869574  0.54226702  1

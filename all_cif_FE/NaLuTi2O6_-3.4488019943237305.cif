@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaLuTi2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35236120
+_cell_length_b   5.52414656
+_cell_length_c   7.63740444
+_cell_angle_alpha   89.59463501
+_cell_angle_beta   89.67353058
+_cell_angle_gamma   89.95886230
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLuTi2O6
+_chemical_formula_sum   'Na2 Lu2 Ti4 O12'
+_cell_volume   225.80750708
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.77113307  0.90072566  0.35455996  1
+  Na  Na1  1  0.25746563  0.39965358  0.35467869  1
+  Lu  Lu2  1  0.28390864  0.30350474  0.85518503  1
+  Lu  Lu3  1  0.75365704  0.80301416  0.85491079  1
+  Ti  Ti4  1  0.25974640  0.85708362  0.11266536  1
+  Ti  Ti5  1  0.77787429  0.35948083  0.59462613  1
+  Ti  Ti6  1  0.77826548  0.35965410  0.11460788  1
+  Ti  Ti7  1  0.25992671  0.85819250  0.60172015  1
+  O  O8  1  0.95685548  0.67804700  0.12740666  1
+  O  O9  1  0.56105471  0.08248848  0.04050699  1
+  O  O10  1  0.07183816  0.17849544  0.12772200  1
+  O  O11  1  0.47045940  0.58232611  0.03960142  1
+  O  O12  1  0.47054267  0.58327252  0.67520016  1
+  O  O13  1  0.95680654  0.67804426  0.58308423  1
+  O  O14  1  0.68963176  0.35044041  0.35594296  1
+  O  O15  1  0.56268191  0.08152122  0.67357343  1
+  O  O16  1  0.86942112  0.41048014  0.85541135  1
+  O  O17  1  0.33761641  0.85146493  0.35572284  1
+  O  O18  1  0.16170228  0.91073978  0.85562903  1
+  O  O19  1  0.07170245  0.17805065  0.58185005  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_La(Mg2Al)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78199148
+_cell_length_b   7.69146919
+_cell_length_c   7.71818495
+_cell_angle_alpha   82.06079102
+_cell_angle_beta   67.90742493
+_cell_angle_gamma   67.78295898
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La(Mg2Al)4
+_chemical_formula_sum   'La1 Mg8 Al4'
+_cell_volume   294.42605783
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.34906363  0.52075911  0.06349617  1
+  Mg  Mg1  1  0.84929013  0.74081570  0.84713465  1
+  Mg  Mg2  1  0.84959072  0.30304316  0.28279367  1
+  Mg  Mg3  1  0.06639265  0.30255648  0.84630179  1
+  Mg  Mg4  1  0.34895319  0.87034029  0.71853679  1
+  Mg  Mg5  1  0.34908244  0.17332293  0.41016343  1
+  Mg  Mg6  1  0.00593535  0.86757398  0.40963289  1
+  Mg  Mg7  1  0.62512833  0.74146622  0.28282818  1
+  Mg  Mg8  1  0.69698048  0.17212118  0.71775854  1
+  Al  Al9  1  0.84866166  0.52067637  0.56503040  1
+  Al  Al10  1  0.34909767  0.52135742  0.56412017  1
+  Al  Al11  1  0.34895626  0.02066483  0.06246602  1
+  Al  Al12  1  0.84983563  0.02018750  0.06264589  1

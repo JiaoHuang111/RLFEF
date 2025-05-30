@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_SrLaPt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14804029
+_cell_length_b   5.15660381
+_cell_length_c   5.16671515
+_cell_angle_alpha   59.81612778
+_cell_angle_beta   59.84963608
+_cell_angle_gamma   59.87342453
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLaPt2
+_chemical_formula_sum   'Sr1 La1 Pt2'
+_cell_volume   96.64701308
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.77731138  0.95601034  0.94130987  1
+  La  La1  1  0.27698296  0.45596665  0.44142509  1
+  Pt  Pt2  1  0.52702224  0.70643944  0.69134164  1
+  Pt  Pt3  1  0.02697891  0.20610341  0.19088814  1

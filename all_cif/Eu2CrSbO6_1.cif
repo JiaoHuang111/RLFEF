@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Eu2CrSbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65135908
+_cell_length_b   5.67498684
+_cell_length_c   5.66566467
+_cell_angle_alpha   60.06940842
+_cell_angle_beta   59.94982910
+_cell_angle_gamma   59.78940201
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu2CrSbO6
+_chemical_formula_sum   'Eu2 Cr1 Sb1 O6'
+_cell_volume   128.29791938
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.21333325  0.48014060  0.15603246  1
+  Eu  Eu1  1  0.71360427  0.98036587  0.65600926  1
+  Cr  Cr2  1  0.96336216  0.23058875  0.90673512  1
+  Sb  Sb3  1  0.46373969  0.73023468  0.40746060  1
+  O  O4  1  0.21470188  0.97960824  0.65529811  1
+  O  O5  1  0.21402287  0.48159570  0.65536004  1
+  O  O6  1  0.71272206  0.48089552  0.65541810  1
+  O  O7  1  0.71275139  0.48085681  0.15651661  1
+  O  O8  1  0.21438979  0.97985148  0.15648197  1
+  O  O9  1  0.71316630  0.97904080  0.15644726  1

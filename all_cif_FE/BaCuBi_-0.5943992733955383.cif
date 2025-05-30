@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_BaCuBi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73614931
+_cell_length_b   4.73427534
+_cell_length_c   9.49139309
+_cell_angle_alpha   89.90401459
+_cell_angle_beta   89.81311798
+_cell_angle_gamma   120.16318512
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCuBi
+_chemical_formula_sum   'Ba2 Cu2 Bi2'
+_cell_volume   183.99986346
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.49711677  0.78263909  0.22114477  1
+  Ba  Ba1  1  0.49647719  0.78226280  0.72172713  1
+  Cu  Cu2  1  0.82997662  0.44870710  0.97156304  1
+  Cu  Cu3  1  0.16336370  0.11540966  0.47169447  1
+  Bi  Bi4  1  0.16347121  0.11562074  0.97194940  1
+  Bi  Bi5  1  0.83029342  0.44923493  0.47182783  1

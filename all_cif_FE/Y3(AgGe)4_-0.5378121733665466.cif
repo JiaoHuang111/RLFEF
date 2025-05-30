@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Y3(AgGe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38896847
+_cell_length_b   7.27005959
+_cell_length_c   7.33082914
+_cell_angle_alpha   99.08200073
+_cell_angle_beta   90.09114075
+_cell_angle_gamma   90.08435059
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y3(AgGe)4
+_chemical_formula_sum   'Y3 Ag4 Ge4'
+_cell_volume   230.97945081
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.68318206  0.69666493  0.79332650  1
+  Y  Y1  1  0.68295479  0.17839976  0.61303973  1
+  Y  Y2  1  0.68327934  0.54134262  0.29598257  1
+  Ag  Ag3  1  0.18290697  0.21127491  0.29150641  1
+  Ag  Ag4  1  0.18275094  0.99049205  0.85398746  1
+  Ag  Ag5  1  0.68332410  0.92744845  0.22205606  1
+  Ag  Ag6  1  0.18250029  0.40934488  0.93147373  1
+  Ge  Ge7  1  0.18284713  0.48229286  0.57299167  1
+  Ge  Ge8  1  0.18304974  0.86195886  0.47728130  1
+  Ge  Ge9  1  0.68335617  0.18826066  0.00764225  1
+  Ge  Ge10  1  0.18314752  0.74417633  0.10200459  1

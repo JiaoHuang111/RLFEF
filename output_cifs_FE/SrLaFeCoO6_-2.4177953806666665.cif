@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SrLaFeCoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50165822
+_cell_length_b   5.50176759
+_cell_length_c   5.50420916
+_cell_angle_alpha   119.97948777
+_cell_angle_beta   89.99999627
+_cell_angle_gamma   119.99929526
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLaFeCoO6
+_chemical_formula_sum   'Sr1 La1 Fe1 Co1 O6'
+_cell_volume   117.84604080
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co6  1  0.00055000  0.00110200  0.00225100  1.0
+  Fe  Fe4  1  0.50030650  0.00061300  0.50127500  1.0
+  La  La2  1  0.24947300  0.49894800  0.74989400  1.0
+  O  O8  1  0.24631600  0.99935300  0.24586000  1.0
+  O  O10  1  0.75415600  0.00031350  0.75288000  1.0
+  O  O12  1  0.75303900  0.99935350  0.24586200  1.0
+  O  O14  1  0.24615900  0.00031650  0.75288200  1.0
+  O  O16  1  0.75347600  0.50694550  0.75270300  1.0
+  O  O18  1  0.24635650  0.49271600  0.24587000  1.0
+  Sr  Sr0  1  0.75017050  0.50034000  0.25052200  1.0

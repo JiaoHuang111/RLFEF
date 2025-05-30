@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Mg5Ga
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.11033000
+_cell_length_b   6.13844411
+_cell_length_c   7.22862710
+_cell_angle_alpha   103.01012510
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   104.67574216
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg5Ga
+_chemical_formula_sum   'Mg5 Ga1'
+_cell_volume   129.84497183
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.99810100  0.99620200  0.00407800  1.0
+  Mg  Mg1  1  0.66882900  0.33765800  0.33163100  1.0
+  Mg  Mg2  1  0.05306300  0.10612600  0.60570000  1.0
+  Mg  Mg3  1  0.33279600  0.66559200  0.66395500  1.0
+  Mg  Mg4  1  0.72399400  0.44798800  0.94846100  1.0
+  Ga  Ga5  1  0.38988500  0.77977000  0.27950800  1.0

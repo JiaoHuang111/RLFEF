@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PrZnGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.30596113
+_cell_length_b   4.30791616
+_cell_length_c   16.44889832
+_cell_angle_alpha   89.91175079
+_cell_angle_beta   90.15648651
+_cell_angle_gamma   119.47483826
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrZnGe
+_chemical_formula_sum   'Pr4 Zn4 Ge4'
+_cell_volume   265.63002284
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.67676586  0.83812034  0.14920031  1
+  Pr  Pr1  1  0.67627144  0.83770031  0.89879996  1
+  Pr  Pr2  1  0.67654401  0.83791715  0.39905593  1
+  Pr  Pr3  1  0.67629260  0.83759761  0.65021741  1
+  Zn  Zn4  1  0.00996309  0.50423318  0.52437687  1
+  Zn  Zn5  1  0.01006054  0.50453651  0.02498399  1
+  Zn  Zn6  1  0.34408134  0.17091838  0.77475494  1
+  Zn  Zn7  1  0.34308678  0.17040516  0.27411067  1
+  Ge  Ge8  1  0.00993025  0.50393206  0.77475131  1
+  Ge  Ge9  1  0.34399411  0.17075862  0.02490021  1
+  Ge  Ge10  1  0.01046302  0.50435567  0.27474174  1
+  Ge  Ge11  1  0.34373310  0.17034067  0.52471489  1

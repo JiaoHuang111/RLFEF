@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ThUSb4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40259790
+_cell_length_b   4.39585400
+_cell_length_c   8.91433239
+_cell_angle_alpha   89.90026855
+_cell_angle_beta   89.97756958
+_cell_angle_gamma   90.22755432
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThUSb4
+_chemical_formula_sum   'Th1 U1 Sb4'
+_cell_volume   172.51902219
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.22205494  0.97479558  0.96187133  1
+  U  U1  1  0.72195697  0.47453433  0.51720744  1
+  Sb  Sb2  1  0.72184801  0.47417229  0.87309605  1
+  Sb  Sb3  1  0.72193682  0.97429711  0.24829675  1
+  Sb  Sb4  1  0.22198373  0.97439766  0.59422594  1
+  Sb  Sb5  1  0.22169712  0.47467309  0.24815984  1

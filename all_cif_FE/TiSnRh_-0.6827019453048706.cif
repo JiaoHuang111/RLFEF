@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_TiSnRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40692902
+_cell_length_b   4.38816500
+_cell_length_c   4.38683224
+_cell_angle_alpha   59.65523911
+_cell_angle_beta   59.79726791
+_cell_angle_gamma   59.81187057
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiSnRh
+_chemical_formula_sum   'Ti1 Sn1 Rh1'
+_cell_volume   59.65242993
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.90781754  0.23670211  0.02950260  1
+  Sn  Sn1  1  0.40805110  0.73740464  0.53068113  1
+  Rh  Rh2  1  0.15804565  0.48795202  0.28034875  1

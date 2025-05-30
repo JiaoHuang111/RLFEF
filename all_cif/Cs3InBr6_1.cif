@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs3InBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.69510460
+_cell_length_b   8.68375015
+_cell_length_c   8.67516994
+_cell_angle_alpha   59.69336319
+_cell_angle_beta   59.86686707
+_cell_angle_gamma   59.82088470
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3InBr6
+_chemical_formula_sum   'Cs3 In1 Br6'
+_cell_volume   461.00356519
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.54948205  0.99308908  0.21571052  1
+  Cs  Cs1  1  0.79801714  0.24143381  0.46540019  1
+  Cs  Cs2  1  0.29919928  0.74262524  0.96551418  1
+  In  In3  1  0.04974882  0.49288312  0.71580052  1
+  Br  Br4  1  0.82812715  0.71271342  0.49544507  1
+  Br  Br5  1  0.82773733  0.27423230  0.93619782  1
+  Br  Br6  1  0.82815951  0.71354973  0.93594664  1
+  Br  Br7  1  0.26883328  0.71308088  0.49563053  1
+  Br  Br8  1  0.26840854  0.27329022  0.93594849  1
+  Br  Br9  1  0.26892447  0.27156696  0.49455890  1

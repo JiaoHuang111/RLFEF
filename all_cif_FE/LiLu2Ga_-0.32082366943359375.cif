@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiLu2Ga
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98283339
+_cell_length_b   4.96694088
+_cell_length_c   4.96412563
+_cell_angle_alpha   60.05115891
+_cell_angle_beta   60.02707672
+_cell_angle_gamma   60.18880463
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiLu2Ga
+_chemical_formula_sum   'Li1 Lu2 Ga1'
+_cell_volume   87.04948592
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.32888034  0.50522387  0.12981477  1
+  Lu  Lu1  1  0.57893908  0.75529158  0.38037089  1
+  Lu  Lu2  1  0.07891293  0.25532150  0.88031679  1
+  Ga  Ga3  1  0.82853210  0.00510980  0.63022274  1

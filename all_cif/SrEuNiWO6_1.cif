@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SrEuNiWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68330050
+_cell_length_b   5.69662905
+_cell_length_c   5.68835402
+_cell_angle_alpha   59.83481216
+_cell_angle_beta   59.78334427
+_cell_angle_gamma   59.51825333
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrEuNiWO6
+_chemical_formula_sum   'Sr1 Eu1 Ni1 W1 O6'
+_cell_volume   129.37001244
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.55670041  0.19902033  0.58446401  1
+  Eu  Eu1  1  0.05676050  0.69994217  0.08512896  1
+  Ni  Ni2  1  0.30697572  0.95039833  0.33466560  1
+  W  W3  1  0.80649471  0.45022702  0.83479214  1
+  O  O4  1  0.56250060  0.69440901  0.07879937  1
+  O  O5  1  0.04960828  0.20715989  0.59079409  1
+  O  O6  1  0.56289119  0.69421959  0.59187740  1
+  O  O7  1  0.04978121  0.69380176  0.59189838  1
+  O  O8  1  0.56274396  0.20679523  0.07916407  1
+  O  O9  1  0.04972199  0.20680952  0.07950005  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ho3(CuSi)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12562200
+_cell_length_b   6.53064800
+_cell_length_c   7.84556176
+_cell_angle_alpha   114.59491856
+_cell_angle_beta   105.24381855
+_cell_angle_gamma   89.99999999
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3(CuSi)4
+_chemical_formula_sum   'Ho3 Cu4 Si4'
+_cell_volume   183.99377970
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.62932500  0.12932500  0.25865000  1.0
+  Ho  Ho1  1  0.37067500  0.87067500  0.74135000  1.0
+  Ho  Ho2  1  0.50000000  0.50000000  0.00000000  1.0
+  Cu  Cu3  1  0.16872600  0.47791500  0.33745200  1.0
+  Cu  Cu4  1  0.83127300  0.14046200  0.66254700  1.0
+  Cu  Cu5  1  0.16872700  0.85953800  0.33745300  1.0
+  Cu  Cu6  1  0.83127400  0.52208500  0.66254800  1.0
+  Si  Si7  1  1.00000000  0.18470200  1.00000000  1.0
+  Si  Si8  1  0.00000000  0.81529800  0.00000000  1.0
+  Si  Si9  1  0.71610400  0.71610400  0.43220800  1.0
+  Si  Si10  1  0.28389600  0.28389600  0.56779200  1.0

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_HoZnSn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.42002392
+_cell_length_b   4.43576956
+_cell_length_c   9.62869644
+_cell_angle_alpha   89.90370178
+_cell_angle_beta   89.98972321
+_cell_angle_gamma   90.14469910
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoZnSn2
+_chemical_formula_sum   'Ho2 Zn2 Sn4'
+_cell_volume   188.78134894
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.92641532  0.48137683  0.23657060  1
+  Ho  Ho1  1  0.42660010  0.98121440  0.73713809  1
+  Zn  Zn2  1  0.92627317  0.98113209  0.98626304  1
+  Zn  Zn3  1  0.42630515  0.48181665  0.48623455  1
+  Sn  Sn4  1  0.42599449  0.48180738  0.98595405  1
+  Sn  Sn5  1  0.92578816  0.98181689  0.48572487  1
+  Sn  Sn6  1  0.92573529  0.48158741  0.73593599  1
+  Sn  Sn7  1  0.42565134  0.98174626  0.23659407  1

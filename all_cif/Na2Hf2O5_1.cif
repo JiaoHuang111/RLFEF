@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Na2Hf2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07172489
+_cell_length_b   5.61865234
+_cell_length_c   5.62284660
+_cell_angle_alpha   90.13940430
+_cell_angle_beta   90.12444305
+_cell_angle_gamma   89.77489471
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Hf2O5
+_chemical_formula_sum   'Na2 Hf2 O5'
+_cell_volume   128.63559829
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.89187294  0.06001184  0.71824503  1
+  Na  Na1  1  0.89194423  0.55906302  0.22955698  1
+  Hf  Hf2  1  0.39119875  0.06557759  0.20884466  1
+  Hf  Hf3  1  0.39131987  0.54647452  0.73811346  1
+  O  O4  1  0.89120317  0.04441249  0.24795839  1
+  O  O5  1  0.39155418  0.74380010  0.04503414  1
+  O  O6  1  0.89089972  0.58014566  0.70896399  1
+  O  O7  1  0.39123794  0.24127784  0.91091520  1
+  O  O8  1  0.39178848  0.37254158  0.42380235  1

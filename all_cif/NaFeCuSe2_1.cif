@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_NaFeCuSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.82814813
+_cell_length_b   3.82381582
+_cell_length_c   6.79497004
+_cell_angle_alpha   106.55355835
+_cell_angle_beta   106.61476898
+_cell_angle_gamma   89.95249939
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaFeCuSe2
+_chemical_formula_sum   'Na1 Fe1 Cu1 Se2'
+_cell_volume   91.00977904
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.93975407  0.68815136  0.79328740  1
+  Fe  Fe1  1  0.18937249  0.43748999  0.29335979  1
+  Cu  Cu2  1  0.68885440  0.93742603  0.29382232  1
+  Se  Se3  1  0.30173293  0.05213652  0.52090043  1
+  Se  Se4  1  0.57059997  0.32209691  0.06192141  1

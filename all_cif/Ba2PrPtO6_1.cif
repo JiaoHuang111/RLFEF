@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2PrPtO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.09329128
+_cell_length_b   6.10282326
+_cell_length_c   6.14947271
+_cell_angle_alpha   90.79198456
+_cell_angle_beta   119.39588165
+_cell_angle_gamma   119.49016571
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2PrPtO6
+_chemical_formula_sum   'Ba2 Pr1 Pt1 O6'
+_cell_volume   163.28657977
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.22920436  0.73943162  0.92316443  1
+  Ba  Ba1  1  0.20966627  0.23618095  0.39968789  1
+  Pr  Pr2  1  0.71750116  0.98789960  0.66082406  1
+  Pt  Pt3  1  0.72123480  0.49045143  0.16148670  1
+  O  O4  1  0.74171895  0.77521056  0.98745292  1
+  O  O5  1  0.64428127  0.25153023  0.85726964  1
+  O  O6  1  0.18953364  0.68127364  0.35575631  1
+  O  O7  1  0.80793363  0.71762091  0.48444462  1
+  O  O8  1  0.25914744  0.29050156  0.95936161  1
+  O  O9  1  0.70946419  0.20784494  0.35575908  1

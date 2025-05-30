@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_HoHg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.37689018
+_cell_length_b   4.91424847
+_cell_length_c   4.87400007
+_cell_angle_alpha   120.49496460
+_cell_angle_beta   89.76227570
+_cell_angle_gamma   90.16381836
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoHg2
+_chemical_formula_sum   'Ho1 Hg2'
+_cell_volume   69.69450599
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.75358903  0.81828040  0.82687211  1
+  Hg  Hg1  1  0.25304341  0.48460045  0.16001122  1
+  Hg  Hg2  1  0.25332129  0.15149555  0.49347118  1

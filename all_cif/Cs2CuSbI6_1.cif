@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs2CuSbI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.47460270
+_cell_length_b   8.48452091
+_cell_length_c   8.47827816
+_cell_angle_alpha   59.87285995
+_cell_angle_beta   59.74411774
+_cell_angle_gamma   59.95169449
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2CuSbI6
+_chemical_formula_sum   'Cs2 Cu1 Sb1 I6'
+_cell_volume   429.65228992
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.89658183  0.02739896  0.97170788  1
+  Cs  Cs1  1  0.39639029  0.52620280  0.47162220  1
+  Cu  Cu2  1  0.14672299  0.27776688  0.22160718  1
+  Sb  Sb3  1  0.64690536  0.77681786  0.72150624  1
+  I  I4  1  0.90400755  0.51857400  0.46120027  1
+  I  I5  1  0.38789433  0.03616931  0.97866654  1
+  I  I6  1  0.38829497  0.03637655  0.46170771  1
+  I  I7  1  0.90437263  0.03672026  0.46134096  1
+  I  I8  1  0.38771600  0.51721513  0.97867864  1
+  I  I9  1  0.90405923  0.51779300  0.97876173  1

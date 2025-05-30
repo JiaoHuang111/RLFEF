@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_SrV4O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78489973
+_cell_length_b   6.18060995
+_cell_length_c   9.14637908
+_cell_angle_alpha   86.87683310
+_cell_angle_beta   89.97515435
+_cell_angle_gamma   72.22355594
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrV4O10
+_chemical_formula_sum   'Sr1 V4 O10'
+_cell_volume   203.41341939
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.58594800  0.82773600  0.97861400  1.0
+  V  V1  1  0.23053400  0.53697600  0.66985600  1.0
+  V  V2  1  0.76879200  0.46501300  0.33227800  1.0
+  V  V3  1  0.93106200  0.13391500  0.65799700  1.0
+  V  V4  1  0.06915800  0.86339300  0.34057400  1.0
+  O  O5  1  0.08879100  0.82043000  0.59010400  1.0
+  O  O6  1  0.91142700  0.17684900  0.40717700  1.0
+  O  O7  1  0.97038100  0.05451900  0.83937200  1.0
+  O  O8  1  0.04995000  0.90267000  0.15425600  1.0
+  O  O9  1  0.21047800  0.57741100  0.84856000  1.0
+  O  O10  1  0.77199600  0.46068100  0.15303200  1.0
+  O  O11  1  0.39295700  0.21058700  0.63748000  1.0
+  O  O12  1  0.60511800  0.79101700  0.36836800  1.0
+  O  O13  1  0.75969400  0.47821500  0.63752000  1.0
+  O  O14  1  0.24023500  0.52094500  0.37360100  1.0

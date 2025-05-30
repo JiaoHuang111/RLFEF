@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Mn3Ni4Sb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01097107
+_cell_length_b   4.01972198
+_cell_length_c   6.51093912
+_cell_angle_alpha   89.84701538
+_cell_angle_beta   89.73759460
+_cell_angle_gamma   89.99535370
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3Ni4Sb
+_chemical_formula_sum   'Mn3 Ni4 Sb1'
+_cell_volume   104.97432177
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.79875690  0.62638378  0.87370509  1
+  Mn  Mn1  1  0.79907703  0.62630570  0.37351850  1
+  Mn  Mn2  1  0.29926312  0.12641303  0.87389815  1
+  Ni  Ni3  1  0.79919285  0.12624753  0.63344061  1
+  Ni  Ni4  1  0.29922077  0.62645608  0.63400924  1
+  Ni  Ni5  1  0.79912931  0.12661330  0.11136045  1
+  Ni  Ni6  1  0.29926592  0.62624753  0.11115560  1
+  Sb  Sb7  1  0.29921031  0.12598017  0.37264931  1

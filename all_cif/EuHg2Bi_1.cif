@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_EuHg2Bi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42528915
+_cell_length_b   5.45260286
+_cell_length_c   5.43471384
+_cell_angle_alpha   59.74753189
+_cell_angle_beta   59.91230392
+_cell_angle_gamma   59.90630341
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuHg2Bi
+_chemical_formula_sum   'Eu1 Hg2 Bi1'
+_cell_volume   113.30745355
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.92449647  0.33455399  0.53186369  1
+  Hg  Hg1  1  0.67462212  0.08484299  0.28206298  1
+  Hg  Hg2  1  0.17448679  0.58479148  0.78229463  1
+  Bi  Bi3  1  0.42431587  0.83472502  0.03145255  1

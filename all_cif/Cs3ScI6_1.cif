@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs3ScI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.30869389
+_cell_length_b   9.30522060
+_cell_length_c   9.27445316
+_cell_angle_alpha   59.84746552
+_cell_angle_beta   59.80469131
+_cell_angle_gamma   59.78985596
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3ScI6
+_chemical_formula_sum   'Cs3 Sc1 I6'
+_cell_volume   565.65427208
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.08004195  0.53896451  0.54478753  1
+  Cs  Cs1  1  0.83227021  0.29015696  0.29465842  1
+  Cs  Cs2  1  0.58116424  0.03936403  0.04578321  1
+  Sc  Sc3  1  0.33253315  0.78836364  0.79541373  1
+  I  I4  1  0.10890827  0.01117870  0.01445153  1
+  I  I5  1  0.10952920  0.56902641  0.01483658  1
+  I  I6  1  0.55236554  0.56851912  0.57429409  1
+  I  I7  1  0.55183446  0.56876701  0.01490894  1
+  I  I8  1  0.10859618  0.00964180  0.57375729  1
+  I  I9  1  0.55173212  0.01008995  0.57394391  1

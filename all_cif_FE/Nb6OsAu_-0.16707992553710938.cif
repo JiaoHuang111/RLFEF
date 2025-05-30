@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Nb6OsAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18204021
+_cell_length_b   5.16139126
+_cell_length_c   5.18603849
+_cell_angle_alpha   89.83770752
+_cell_angle_beta   89.66446686
+_cell_angle_gamma   90.16056061
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb6OsAu
+_chemical_formula_sum   'Nb6 Os1 Au1'
+_cell_volume   138.70508477
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.01259499  0.89686865  0.52881587  1
+  Nb  Nb1  1  0.26485032  0.14488469  0.02891202  1
+  Nb  Nb2  1  0.76472193  0.39743865  0.78362167  1
+  Nb  Nb3  1  0.52285039  0.89821881  0.52911758  1
+  Nb  Nb4  1  0.76482767  0.39764595  0.27271172  1
+  Nb  Nb5  1  0.26436508  0.65294188  0.02887851  1
+  Os  Os6  1  0.76447213  0.89705002  0.02894098  1
+  Au  Au7  1  0.26485518  0.39803335  0.52911526  1

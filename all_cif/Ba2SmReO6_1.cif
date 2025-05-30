@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2SmReO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.07633686
+_cell_length_b   6.08862257
+_cell_length_c   6.07691813
+_cell_angle_alpha   59.90140533
+_cell_angle_beta   59.74987030
+_cell_angle_gamma   59.85792542
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2SmReO6
+_chemical_formula_sum   'Ba2 Sm1 Re1 O6'
+_cell_volume   158.38429763
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.78287035  0.29428771  0.56983727  1
+  Ba  Ba1  1  0.28321034  0.79373848  0.06984597  1
+  Sm  Sm2  1  0.53230429  0.04457265  0.31959105  1
+  Re  Re3  1  0.03275862  0.54469150  0.82019091  1
+  O  O4  1  0.79991126  0.77720767  0.05183834  1
+  O  O5  1  0.26481894  0.77635127  0.58716011  1
+  O  O6  1  0.79975152  0.31185356  0.05153457  1
+  O  O7  1  0.26434404  0.31181118  0.05170973  1
+  O  O8  1  0.26482341  0.31174874  0.58720082  1
+  O  O9  1  0.80009508  0.77648443  0.58673388  1

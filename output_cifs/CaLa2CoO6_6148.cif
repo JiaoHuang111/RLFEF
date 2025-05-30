@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CaLa2CoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59973223
+_cell_length_b   5.60375661
+_cell_length_c   5.61145735
+_cell_angle_alpha   62.45212260
+_cell_angle_beta   62.65972605
+_cell_angle_gamma   62.66916697
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaLa2CoO6
+_chemical_formula_sum   'Ca1 La2 Co1 O6'
+_cell_volume   131.70147480
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.49999950  0.50000050  0.50000000  1.0
+  Co  Co6  1  0.00000000  0.00000000  0.00000000  1.0
+  La  La2  1  0.76068750  0.76120350  0.76016100  1.0
+  La  La4  1  0.23931300  0.23879650  0.23983850  1.0
+  O  O8  1  0.31659750  0.79015700  0.13811150  1.0
+  O  O10  1  0.78951050  0.13858400  0.31739150  1.0
+  O  O12  1  0.13823650  0.31617450  0.79032200  1.0
+  O  O14  1  0.68340250  0.20984300  0.86188850  1.0
+  O  O16  1  0.86176300  0.68382600  0.20967800  1.0
+  O  O18  1  0.21049000  0.86141650  0.68260850  1.0

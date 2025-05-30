@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Y(Co5Mo)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.67730100
+_cell_length_b   6.41479859
+_cell_length_c   6.41479895
+_cell_angle_alpha   82.31065853
+_cell_angle_beta   68.61880354
+_cell_angle_gamma   68.61881186
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y(Co5Mo)2
+_chemical_formula_sum   'Y1 Co10 Mo2'
+_cell_volume   166.88768223
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.00000000  0.00000000  0.00000000  1.0
+  Co  Co1  1  0.50000000  0.78654800  0.21345200  1.0
+  Co  Co2  1  0.50000000  0.21345200  0.78654800  1.0
+  Co  Co3  1  0.72082200  0.77917800  0.77917800  1.0
+  Co  Co4  1  0.27917800  0.22082200  0.22082200  1.0
+  Co  Co5  1  1.00000000  0.00000000  0.50000000  1.0
+  Co  Co6  1  0.50000000  0.00000000  0.50000000  1.0
+  Co  Co7  1  0.50000000  0.50000000  0.00000000  1.0
+  Co  Co8  1  0.00000000  0.50000000  0.00000000  1.0
+  Co  Co9  1  0.00000000  0.35936400  0.64063600  1.0
+  Co  Co10  1  0.00000000  0.64063600  0.35936400  1.0
+  Mo  Mo11  1  0.64186900  0.35813100  0.35813100  1.0
+  Mo  Mo12  1  0.35813100  0.64186900  0.64186900  1.0

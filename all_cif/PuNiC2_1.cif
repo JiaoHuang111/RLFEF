@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_PuNiC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.55934143
+_cell_length_b   3.72784758
+_cell_length_c   3.76226115
+_cell_angle_alpha   105.69081879
+_cell_angle_beta   90.21685791
+_cell_angle_gamma   90.07385254
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuNiC2
+_chemical_formula_sum   'Pu1 Ni1 C2'
+_cell_volume   48.05949190
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.39691493  0.59659475  0.11822495  1
+  Ni  Ni1  1  0.89725143  0.98485637  0.72942120  1
+  C  C2  1  0.89788502  0.44742140  0.57469583  1
+  C  C3  1  0.89728141  0.14777894  0.27209586  1

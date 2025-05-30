@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Sr4TlFe2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.06785631
+_cell_length_b   4.00076246
+_cell_length_c   14.80813599
+_cell_angle_alpha   97.98023224
+_cell_angle_beta   98.04861450
+_cell_angle_gamma   90.40645599
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4TlFe2O9
+_chemical_formula_sum   'Sr4 Tl1 Fe2 O9'
+_cell_volume   236.22418463
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.94551992  0.71435499  0.82611316  1
+  Sr  Sr1  1  0.35509330  0.61958277  0.64424658  1
+  Sr  Sr2  1  0.22794217  0.49404135  0.39002141  1
+  Sr  Sr3  1  0.10138335  0.37092683  0.14049655  1
+  Tl  Tl4  1  0.51235521  0.28236300  0.97009909  1
+  Fe  Fe5  1  0.79761338  0.06316385  0.52813232  1
+  Fe  Fe6  1  0.65688860  0.92594272  0.24846739  1
+  O  O7  1  0.57449108  0.84519571  0.08240656  1
+  O  O8  1  0.01416510  0.28256825  0.96328503  1
+  O  O9  1  0.72678280  0.99235380  0.38646460  1
+  O  O10  1  0.15738750  0.92551422  0.24714504  1
+  O  O11  1  0.65623271  0.42649290  0.24717698  1
+  O  O12  1  0.79753292  0.56443506  0.52954251  1
+  O  O13  1  0.44490334  0.21774590  0.82569700  1
+  O  O14  1  0.87067586  0.13366190  0.67422563  1
+  O  O15  1  0.29878137  0.05998035  0.52967185  1

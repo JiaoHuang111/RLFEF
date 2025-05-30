@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Cr4Cu3Te8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.21455717
+_cell_length_b   7.29217482
+_cell_length_c   7.26395941
+_cell_angle_alpha   89.84775543
+_cell_angle_beta   89.75305939
+_cell_angle_gamma   90.09247589
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr4Cu3Te8
+_chemical_formula_sum   'Cr4 Cu3 Te8'
+_cell_volume   329.18082340
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.60455513  0.19624622  0.14756127  1
+  Cr  Cr1  1  0.60497200  0.69630879  0.14808547  1
+  Cr  Cr2  1  0.10353342  0.69654077  0.14811607  1
+  Cr  Cr3  1  0.10370407  0.19624603  0.14802139  1
+  Cu  Cu4  1  0.10396899  0.44588014  0.64865744  1
+  Cu  Cu5  1  0.60369390  0.44550502  0.64829302  1
+  Cu  Cu6  1  0.60469306  0.94550967  0.64846742  1
+  Te  Te7  1  0.85310459  0.44683582  0.97158474  1
+  Te  Te8  1  0.35321790  0.44642720  0.32068121  1
+  Te  Te9  1  0.85308981  0.69650209  0.46970966  1
+  Te  Te10  1  0.35309532  0.19606405  0.82400876  1
+  Te  Te11  1  0.35302702  0.69562876  0.82404274  1
+  Te  Te12  1  0.85350013  0.94678909  0.97156960  1
+  Te  Te13  1  0.35348076  0.94609308  0.32039148  1
+  Te  Te14  1  0.85270137  0.19655210  0.47047129  1

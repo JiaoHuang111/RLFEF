@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Tl3AsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23584557
+_cell_length_b   8.03757191
+_cell_length_c   8.05032825
+_cell_angle_alpha   119.75069427
+_cell_angle_beta   89.85741425
+_cell_angle_gamma   90.03477478
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl3AsO4
+_chemical_formula_sum   'Tl6 As2 O8'
+_cell_volume   350.30677270
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.13757110  0.22130120  0.03418472  1
+  Tl  Tl1  1  0.61374032  0.93396717  0.42541629  1
+  Tl  Tl2  1  0.11391640  0.77130514  0.57820356  1
+  Tl  Tl3  1  0.63296479  0.43172717  0.42924535  1
+  Tl  Tl4  1  0.63717437  0.38430366  0.87824166  1
+  Tl  Tl5  1  0.12259427  0.74296850  0.05769781  1
+  As  As6  1  0.63440591  0.88357568  0.91353470  1
+  As  As7  1  0.13482538  0.25141144  0.53876394  1
+  O  O8  1  0.03162032  0.19705328  0.70814681  1
+  O  O9  1  0.05092744  0.97168493  0.37974232  1
+  O  O10  1  0.03235787  0.51496184  0.70648819  1
+  O  O11  1  0.04722520  0.32551137  0.37302768  1
+  O  O12  1  0.53537285  0.80583012  0.70655769  1
+  O  O13  1  0.91330308  0.92875648  0.93157524  1
+  O  O14  1  0.42762899  0.25655171  0.57467628  1
+  O  O15  1  0.53682780  0.81202769  0.07511434  1

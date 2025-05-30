@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_EuAl3Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29647446
+_cell_length_b   4.26534462
+_cell_length_c   6.26104784
+_cell_angle_alpha   109.96432495
+_cell_angle_beta   110.16884613
+_cell_angle_gamma   89.99243927
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuAl3Si
+_chemical_formula_sum   'Eu1 Al3 Si1'
+_cell_volume   100.32826428
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.62659657  0.25170457  0.23141658  1
+  Al  Al1  1  0.87515330  0.99964738  0.72908944  1
+  Al  Al2  1  0.37528515  0.49953890  0.72934169  1
+  Al  Al3  1  0.01650808  0.63947958  0.01143762  1
+  Si  Si4  1  0.24190131  0.86527205  0.46246666  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2InAgCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.49197435
+_cell_length_b   7.52183199
+_cell_length_c   7.51264238
+_cell_angle_alpha   59.76298523
+_cell_angle_beta   59.69556046
+_cell_angle_gamma   59.82767487
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2InAgCl6
+_chemical_formula_sum   'Rb2 In1 Ag1 Cl6'
+_cell_volume   297.74458429
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.03057783  0.22993726  0.73433197  1
+  Rb  Rb1  1  0.53030926  0.72885752  0.23495728  1
+  In  In2  1  0.28021899  0.47954196  0.98490870  1
+  Ag  Ag3  1  0.78056198  0.98020834  0.48505262  1
+  Cl  Cl4  1  0.03754521  0.23876065  0.22734995  1
+  Cl  Cl5  1  0.03692882  0.72300029  0.74231517  1
+  Cl  Cl6  1  0.03713827  0.72261435  0.22719704  1
+  Cl  Cl7  1  0.52240062  0.23885061  0.74223214  1
+  Cl  Cl8  1  0.52278566  0.72259712  0.74215239  1
+  Cl  Cl9  1  0.52362370  0.23804910  0.22689144  1

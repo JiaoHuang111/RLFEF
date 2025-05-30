@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_ZrTiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74449873
+_cell_length_b   5.74865723
+_cell_length_c   5.75788593
+_cell_angle_alpha   59.87900543
+_cell_angle_beta   59.95773315
+_cell_angle_gamma   59.88766479
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTiF6
+_chemical_formula_sum   'Zr1 Ti1 F6'
+_cell_volume   134.17144355
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.10407294  0.69225121  0.04616590  1
+  Ti  Ti1  1  0.60451126  0.19058549  0.54626542  1
+  F  F2  1  0.84684402  0.94989377  0.78948200  1
+  F  F3  1  0.36154950  0.43399993  0.78951186  1
+  F  F4  1  0.84629375  0.95000529  0.30307248  1
+  F  F5  1  0.84642857  0.43426365  0.30297822  1
+  F  F6  1  0.36188704  0.43363485  0.30393305  1
+  F  F7  1  0.36143693  0.94952989  0.78897929  1

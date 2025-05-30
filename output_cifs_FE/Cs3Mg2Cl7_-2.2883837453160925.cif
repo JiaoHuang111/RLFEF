@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs3Mg2Cl7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14866000
+_cell_length_b   5.14866000
+_cell_length_c   14.09436072
+_cell_angle_alpha   100.52413240
+_cell_angle_beta   100.52413239
+_cell_angle_gamma   90.00000003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3Mg2Cl7
+_chemical_formula_sum   'Cs3 Mg2 Cl7'
+_cell_volume   360.94362285
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.18454100  0.18454100  0.36908200  1.0
+  Cs  Cs1  1  0.81545900  0.81545900  0.63091800  1.0
+  Cs  Cs2  1  0.00000000  0.00000000  0.00000000  1.0
+  Mg  Mg3  1  0.40398200  0.40398200  0.80796400  1.0
+  Mg  Mg4  1  0.59601800  0.59601800  0.19203600  1.0
+  Cl  Cl5  1  0.90545500  0.40545500  0.81091000  1.0
+  Cl  Cl6  1  0.31224500  0.31224500  0.62449000  1.0
+  Cl  Cl7  1  0.40545500  0.90545500  0.81091000  1.0
+  Cl  Cl8  1  0.59454500  0.09454500  0.18909000  1.0
+  Cl  Cl9  1  0.68775500  0.68775500  0.37551000  1.0
+  Cl  Cl10  1  0.09454500  0.59454500  0.18909000  1.0
+  Cl  Cl11  1  0.50000000  0.50000000  0.00000000  1.0

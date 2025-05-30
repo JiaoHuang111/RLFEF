@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaIn(MoSe)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.52155500
+_cell_length_b   9.61751600
+_cell_length_c   9.61751585
+_cell_angle_alpha   120.00000053
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaIn(MoSe)6
+_chemical_formula_sum   'Na1 In1 Mo6 Se6'
+_cell_volume   362.19652203
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.66666667  0.33333333  1.0
+  In  In1  1  0.50000000  0.00000000  0.00000000  1.0
+  Mo  Mo2  1  0.00000000  0.18625400  0.49599800  1.0
+  Mo  Mo3  1  0.00000000  0.50400200  0.69025600  1.0
+  Mo  Mo4  1  0.00000000  0.30974400  0.81374600  1.0
+  Mo  Mo5  1  0.50000000  0.48145100  0.83693900  1.0
+  Mo  Mo6  1  0.50000000  0.16306200  0.64451300  1.0
+  Mo  Mo7  1  0.50000000  0.35548800  0.51855000  1.0
+  Se  Se8  1  1.00000000  0.99417500  0.61762500  1.0
+  Se  Se9  1  0.00000000  0.38237500  0.37655000  1.0
+  Se  Se10  1  0.00000000  0.62345000  0.00582500  1.0
+  Se  Se11  1  0.50000000  0.66849500  0.70900500  1.0
+  Se  Se12  1  0.50000000  0.29099400  0.95948900  1.0
+  Se  Se13  1  0.50000000  0.04051000  0.33150400  1.0

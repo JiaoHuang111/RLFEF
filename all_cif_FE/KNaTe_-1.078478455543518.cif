@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KNaTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12446356
+_cell_length_b   8.48034954
+_cell_length_c   9.51674652
+_cell_angle_alpha   89.89152527
+_cell_angle_beta   89.88182831
+_cell_angle_gamma   89.99101257
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaTe
+_chemical_formula_sum   'K4 Na4 Te4'
+_cell_volume   413.56993268
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.33957797  0.17448804  0.44719234  1
+  K  K1  1  0.83988112  0.35996392  0.69403976  1
+  K  K2  1  0.84075946  0.84934789  0.56311125  1
+  K  K3  1  0.34015146  0.31963244  0.06136610  1
+  Na  Na4  1  0.84037322  0.98027152  0.94822502  1
+  Na  Na5  1  0.34057844  0.81897426  0.17438944  1
+  Na  Na6  1  0.84028411  0.48078337  0.30135867  1
+  Na  Na7  1  0.33966681  0.69309568  0.80480862  1
+  Te  Te8  1  0.84013849  0.61025524  0.98084742  1
+  Te  Te9  1  0.33980677  0.06678075  0.77773339  1
+  Te  Te10  1  0.34068635  0.58650905  0.46732399  1
+  Te  Te11  1  0.83959687  0.08922326  0.25028685  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaLiGa2(SiO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35989285
+_cell_length_b   6.76368523
+_cell_length_c   6.82272387
+_cell_angle_alpha   85.58380127
+_cell_angle_beta   76.21434784
+_cell_angle_gamma   74.97575378
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLiGa2(SiO3)4
+_chemical_formula_sum   'Na1 Li1 Ga2 Si4 O12'
+_cell_volume   231.97464240
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.86199570  0.71497065  0.73231089  1
+  Li  Li1  1  0.36281571  0.46370748  0.95059818  1
+  Ga  Ga2  1  0.39628139  0.35636714  0.45033595  1
+  Ga  Ga3  1  0.83758801  0.78110462  0.23126781  1
+  Si  Si4  1  0.33612177  0.95806921  0.06331626  1
+  Si  Si5  1  0.36419302  0.78189987  0.64528745  1
+  Si  Si6  1  0.90537745  0.20638055  0.61236042  1
+  Si  Si7  1  0.86268717  0.36038786  0.04898307  1
+  O  O8  1  0.60943556  0.97060168  0.10671855  1
+  O  O9  1  0.12778573  0.86889368  0.22575723  1
+  O  O10  1  0.56413370  0.40092313  0.19143365  1
+  O  O11  1  0.10364503  0.97262049  0.65234810  1
+  O  O12  1  0.78733224  0.35155484  0.82513368  1
+  O  O13  1  0.62413925  0.75249779  0.47076401  1
+  O  O14  1  0.07789800  0.31366760  0.44242859  1
+  O  O15  1  0.28734785  0.55638391  0.64771241  1
+  O  O16  1  0.42409003  0.78270388  0.87373215  1
+  O  O17  1  0.16850725  0.19341205  0.01418514  1
+  O  O18  1  0.66392326  0.17146574  0.54220319  1
+  O  O19  1  0.95446759  0.56957936  0.06222261  1

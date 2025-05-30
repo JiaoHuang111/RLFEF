@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mn2Co2SiGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.63779593
+_cell_length_b   6.34260130
+_cell_length_c   6.37314463
+_cell_angle_alpha   90.03543091
+_cell_angle_beta   89.94668579
+_cell_angle_gamma   89.98342133
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2Co2SiGe
+_chemical_formula_sum   'Mn4 Co4 Si2 Ge2'
+_cell_volume   147.04803625
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.32941067  0.61910141  0.69677109  1
+  Mn  Mn1  1  0.82904232  0.27174470  0.71136093  1
+  Mn  Mn2  1  0.32956004  0.78882957  0.19764288  1
+  Mn  Mn3  1  0.82927865  0.11395013  0.20081040  1
+  Co  Co4  1  0.82888585  0.50777477  0.34410721  1
+  Co  Co5  1  0.32852677  0.99823308  0.56827760  1
+  Co  Co6  1  0.32872340  0.39217824  0.06366403  1
+  Co  Co7  1  0.82891715  0.89366543  0.84399354  1
+  Si  Si8  1  0.32932904  0.07434198  0.91586643  1
+  Si  Si9  1  0.82950240  0.82171118  0.48491448  1
+  Ge  Ge10  1  0.82968909  0.57383817  0.98387784  1
+  Ge  Ge11  1  0.32976148  0.32000199  0.41758198  1

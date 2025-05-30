@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr2TiFeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65823126
+_cell_length_b   5.65434885
+_cell_length_c   5.64799738
+_cell_angle_alpha   120.05401611
+_cell_angle_beta   120.28723907
+_cell_angle_gamma   90.38117218
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2TiFeO6
+_chemical_formula_sum   'Sr2 Ti1 Fe1 O6'
+_cell_volume   126.67356651
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.28340480  0.96932220  0.56891882  1
+  Sr  Sr1  1  0.78263354  0.46936002  0.56808817  1
+  Ti  Ti2  1  0.03274348  0.22037463  0.06853948  1
+  Fe  Fe3  1  0.53322923  0.72016877  0.06910662  1
+  O  O4  1  0.27810159  0.46012726  0.06795141  1
+  O  O5  1  0.79233897  0.97821295  0.06847153  1
+  O  O6  1  0.79271704  0.97814769  0.57973748  1
+  O  O7  1  0.78931105  0.46166861  0.06781409  1
+  O  O8  1  0.27683556  0.46168238  0.56155741  1
+  O  O9  1  0.27938506  0.97777379  0.06831188  1

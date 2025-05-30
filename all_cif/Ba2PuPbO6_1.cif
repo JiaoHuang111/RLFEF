@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2PuPbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31405878
+_cell_length_b   6.31869316
+_cell_length_c   6.31521320
+_cell_angle_alpha   60.05521393
+_cell_angle_beta   59.90288162
+_cell_angle_gamma   59.90703964
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2PuPbO6
+_chemical_formula_sum   'Ba2 Pu1 Pb1 O6'
+_cell_volume   177.97701053
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.87051708  0.12542622  0.99688280  1
+  Ba  Ba1  1  0.37072828  0.62561196  0.49666262  1
+  Pu  Pu2  1  0.62041116  0.87553149  0.74691570  1
+  Pb  Pb3  1  0.12096621  0.37603557  0.24675249  1
+  O  O4  1  0.85460347  0.11158281  0.51152760  1
+  O  O5  1  0.38716680  0.11093420  0.98156691  1
+  O  O6  1  0.85415518  0.64117914  0.51223272  1
+  O  O7  1  0.38739687  0.64156854  0.98185217  1
+  O  O8  1  0.85382670  0.64117569  0.98150903  1
+  O  O9  1  0.38756257  0.11066182  0.51186377  1

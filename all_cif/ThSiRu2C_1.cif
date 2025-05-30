@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ThSiRu2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.04914713
+_cell_length_b   6.09269190
+_cell_length_c   7.06400108
+_cell_angle_alpha   90.01490784
+_cell_angle_beta   89.82920837
+_cell_angle_gamma   109.06237793
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThSiRu2C
+_chemical_formula_sum   'Th2 Si2 Ru4 C2'
+_cell_volume   164.71321795
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.04073667  0.34526500  0.26967260  1
+  Th  Th1  1  0.15378147  0.57024986  0.77002943  1
+  Si  Si2  1  0.86978137  0.00757730  0.76948076  1
+  Si  Si3  1  0.31806064  0.90490109  0.26893303  1
+  Ru  Ru4  1  0.75822067  0.78420579  0.46284252  1
+  Ru  Ru5  1  0.43033668  0.12739623  0.96319997  1
+  Ru  Ru6  1  0.75788039  0.78325742  0.07365263  1
+  Ru  Ru7  1  0.43054256  0.12736420  0.57375401  1
+  C  C8  1  0.59437972  0.45733500  0.51896489  1
+  C  C9  1  0.59497958  0.45900509  0.01891453  1

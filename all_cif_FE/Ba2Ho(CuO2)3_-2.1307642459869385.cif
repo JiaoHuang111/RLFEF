@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba2Ho(CuO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88637209
+_cell_length_b   3.91449475
+_cell_length_c   11.46125984
+_cell_angle_alpha   89.82833099
+_cell_angle_beta   89.89799500
+_cell_angle_gamma   90.00221252
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Ho(CuO2)3
+_chemical_formula_sum   'Ba2 Ho1 Cu3 O6'
+_cell_volume   174.36118599
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.92388654  0.69737577  0.65747064  1
+  Ba  Ba1  1  0.92395443  0.69737625  0.31888250  1
+  Ho  Ho2  1  0.92404401  0.69716763  0.00963093  1
+  Cu  Cu3  1  0.42356572  0.19706044  0.85662800  1
+  Cu  Cu4  1  0.42440730  0.19660790  0.14307700  1
+  Cu  Cu5  1  0.42416131  0.19737767  0.48767394  1
+  O  O6  1  0.42419720  0.69700652  0.13836904  1
+  O  O7  1  0.92391771  0.19653738  0.47712362  1
+  O  O8  1  0.92411911  0.19673508  0.11676827  1
+  O  O9  1  0.42435497  0.69735032  0.88532305  1
+  O  O10  1  0.42435986  0.69691581  0.47734421  1
+  O  O11  1  0.42449820  0.19653791  0.68943769  1

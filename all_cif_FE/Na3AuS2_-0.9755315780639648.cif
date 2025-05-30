@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na3AuS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28650665
+_cell_length_b   7.20218229
+_cell_length_c   8.38296509
+_cell_angle_alpha   90.06053925
+_cell_angle_beta   89.89717102
+_cell_angle_gamma   90.10540771
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3AuS2
+_chemical_formula_sum   'Na6 Au2 S4'
+_cell_volume   258.79959586
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.72475827  0.67445499  0.81990254  1
+  Na  Na1  1  0.72443992  0.75952816  0.44077930  1
+  Na  Na2  1  0.72460556  0.25883135  0.05302841  1
+  Na  Na3  1  0.22497968  0.09506121  0.32113090  1
+  Na  Na4  1  0.22467695  0.59534210  0.16619761  1
+  Na  Na5  1  0.72501159  0.17449325  0.66814488  1
+  Au  Au6  1  0.22391278  0.97657627  0.92512971  1
+  Au  Au7  1  0.22419760  0.47648388  0.55651337  1
+  S  S8  1  0.22451745  0.38026083  0.86373663  1
+  S  S9  1  0.72469604  0.88126808  0.11742085  1
+  S  S10  1  0.72441679  0.38051507  0.37219045  1
+  S  S11  1  0.22447599  0.87885255  0.62686366  1

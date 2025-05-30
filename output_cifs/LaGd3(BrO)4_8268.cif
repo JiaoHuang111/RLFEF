@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaGd3(BrO)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95109200
+_cell_length_b   7.90675000
+_cell_length_c   9.37885420
+_cell_angle_alpha   114.93059123
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaGd3(BrO)4
+_chemical_formula_sum   'La1 Gd3 Br4 O4'
+_cell_volume   265.69634882
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.50000000  0.92533700  0.85067400  1.0
+  Gd  Gd1  1  0.50000000  0.43380200  0.86760400  1.0
+  Gd  Gd2  1  0.00000000  0.31864700  0.13788300  1.0
+  Gd  Gd3  1  1.00000000  0.81923600  0.13788300  1.0
+  Br  Br4  1  0.50000000  0.16438300  0.32876600  1.0
+  Br  Br5  1  0.50000000  0.66705000  0.33410000  1.0
+  Br  Br6  1  1.00000000  0.09471300  0.66624500  1.0
+  Br  Br7  1  1.00000000  0.57153200  0.66624500  1.0
+  O  O8  1  0.50000000  0.25438300  0.00275100  1.0
+  O  O9  1  0.50000000  0.74836800  0.00275100  1.0
+  O  O10  1  1.00000000  0.50181100  0.00362200  1.0
+  O  O11  1  1.00000000  0.00073800  0.00147600  1.0

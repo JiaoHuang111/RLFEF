@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaSi2Pd3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.76913600
+_cell_length_b   6.74065316
+_cell_length_c   6.74065316
+_cell_angle_alpha   63.31441821
+_cell_angle_beta   64.66335674
+_cell_angle_gamma   64.66335674
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSi2Pd3
+_chemical_formula_sum   'Na2 Si4 Pd6'
+_cell_volume   202.45789622
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.04433700  1.00000000  0.00000000  1.0
+  Na  Na1  1  0.98097900  0.50000000  0.50000000  1.0
+  Si  Si2  1  0.23928600  0.68910000  0.68910000  1.0
+  Si  Si3  1  0.40375700  0.15733300  0.15733300  1.0
+  Si  Si4  1  0.61748600  0.31090000  0.31090000  1.0
+  Si  Si5  1  0.71842300  0.84266700  0.84266700  1.0
+  Pd  Pd6  1  0.00277600  0.45175200  0.04984400  1.0
+  Pd  Pd7  1  0.00277500  0.04984400  0.45175300  1.0
+  Pd  Pd8  1  0.50437200  0.54824800  0.95015600  1.0
+  Pd  Pd9  1  0.49821700  0.71849000  0.28151000  1.0
+  Pd  Pd10  1  0.49821800  0.28150900  0.71849000  1.0
+  Pd  Pd11  1  0.50437300  0.95015600  0.54824700  1.0

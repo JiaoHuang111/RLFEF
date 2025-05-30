@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ho5BiAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.59214115
+_cell_length_b   8.86288929
+_cell_length_c   8.31711197
+_cell_angle_alpha   118.34183502
+_cell_angle_beta   89.96984863
+_cell_angle_gamma   114.71291351
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho5BiAu2
+_chemical_formula_sum   'Ho10 Bi2 Au4'
+_cell_volume   433.51856371
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.52804708  0.13673532  0.40385163  1
+  Ho  Ho1  1  0.19037330  0.41125092  0.42726934  1
+  Ho  Ho2  1  0.71443534  0.52059412  0.35672426  1
+  Ho  Ho3  1  0.69218814  0.41150960  0.91973543  1
+  Ho  Ho4  1  0.49166557  0.90137559  0.63449633  1
+  Ho  Ho5  1  0.02893495  0.13731995  0.65176451  1
+  Ho  Ho6  1  0.88899601  0.77578741  0.76339573  1
+  Ho  Ho7  1  0.39081177  0.77673799  0.94325310  1
+  Ho  Ho8  1  0.21447998  0.52321267  0.10009763  1
+  Ho  Ho9  1  0.99181807  0.90093523  0.18891600  1
+  Bi  Bi10  1  0.80258226  0.14405878  0.06008867  1
+  Bi  Bi11  1  0.30063188  0.14174376  0.01522343  1
+  Au  Au12  1  0.96812338  0.47221211  0.69711637  1
+  Au  Au13  1  0.62314838  0.77731276  0.28293228  1
+  Au  Au14  1  0.12528798  0.77783227  0.43391109  1
+  Au  Au15  1  0.47043061  0.47734785  0.68742812  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2CeCuBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.85429811
+_cell_length_b   7.84837961
+_cell_length_c   7.83915281
+_cell_angle_alpha   59.80630112
+_cell_angle_beta   59.67952728
+_cell_angle_gamma   59.85033798
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2CeCuBr6
+_chemical_formula_sum   'Rb2 Ce1 Cu1 Br6'
+_cell_volume   339.97899650
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.18221140  0.56991142  0.74922192  1
+  Rb  Rb1  1  0.68254250  0.06889202  0.24862124  1
+  Ce  Ce2  1  0.93228430  0.31993380  0.49859017  1
+  Cu  Cu3  1  0.43259454  0.81925786  0.99890041  1
+  Br  Br4  1  0.67138183  0.06111731  0.75810778  1
+  Br  Br5  1  0.67214096  0.58097219  0.23717783  1
+  Br  Br6  1  0.67124116  0.58106202  0.75775844  1
+  Br  Br7  1  0.19181122  0.06042174  0.23659128  1
+  Br  Br8  1  0.19133674  0.58077180  0.23766463  1
+  Br  Br9  1  0.19081151  0.06116029  0.75861621  1

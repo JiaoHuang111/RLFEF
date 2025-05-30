@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Lu6FeBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15342140
+_cell_length_b   8.16106606
+_cell_length_c   8.17289257
+_cell_angle_alpha   119.95837402
+_cell_angle_beta   90.16143036
+_cell_angle_gamma   89.81268311
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu6FeBi2
+_chemical_formula_sum   'Lu6 Fe1 Bi2'
+_cell_volume   240.01511748
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.26261812  0.39838865  0.43118700  1
+  Lu  Lu1  1  0.26305968  0.79079503  0.04859914  1
+  Lu  Lu2  1  0.26308522  0.00516710  0.65617871  1
+  Lu  Lu3  1  0.76306570  0.63200271  0.27849126  1
+  Lu  Lu4  1  0.76328373  0.39828646  0.81572527  1
+  Lu  Lu5  1  0.76348150  0.16736414  0.04871046  1
+  Fe  Fe6  1  0.26271039  0.39899912  0.04900261  1
+  Bi  Bi7  1  0.76312494  0.06643421  0.38375160  1
+  Bi  Bi8  1  0.76301122  0.73249066  0.71621317  1

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Sm3Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.81444359
+_cell_length_b   4.83702469
+_cell_length_c   6.07867050
+_cell_angle_alpha   113.37371826
+_cell_angle_beta   113.54885101
+_cell_angle_gamma   89.94987488
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm3Hg
+_chemical_formula_sum   'Sm3 Hg1'
+_cell_volume   117.01077160
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.85402417  0.86361468  0.83171791  1
+  Sm  Sm1  1  0.60406232  0.11347830  0.33194110  1
+  Sm  Sm2  1  0.10437429  0.61376542  0.33141553  1
+  Hg  Hg3  1  0.35473654  0.36325169  0.83174860  1

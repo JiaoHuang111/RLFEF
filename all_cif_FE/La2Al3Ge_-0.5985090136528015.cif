@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_La2Al3Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41314697
+_cell_length_b   4.39869356
+_cell_length_c   7.47313166
+_cell_angle_alpha   89.92942810
+_cell_angle_beta   90.05428314
+_cell_angle_gamma   90.04432678
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Al3Ge
+_chemical_formula_sum   'La2 Al3 Ge1'
+_cell_volume   145.06881992
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.82759309  0.94300491  0.95383751  1
+  La  La1  1  0.82723117  0.44280338  0.46118370  1
+  Al  Al2  1  0.32738838  0.94262749  0.63000339  1
+  Al  Al3  1  0.32758808  0.44262180  0.11845455  1
+  Al  Al4  1  0.32757553  0.94270843  0.29105768  1
+  Ge  Ge5  1  0.32753643  0.44311619  0.78569889  1

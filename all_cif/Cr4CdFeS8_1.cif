@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cr4CdFeS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.17802858
+_cell_length_b   7.21598244
+_cell_length_c   7.16912889
+_cell_angle_alpha   59.73949814
+_cell_angle_beta   59.83916473
+_cell_angle_gamma   59.75590897
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr4CdFeS8
+_chemical_formula_sum   'Cr4 Cd1 Fe1 S8'
+_cell_volume   261.25142762
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.73925269  0.47114086  0.21925044  1
+  Cr  Cr1  1  0.24461325  0.96954429  0.21931185  1
+  Cr  Cr2  1  0.24316065  0.47058198  0.21964411  1
+  Cr  Cr3  1  0.24409065  0.47170535  0.71724486  1
+  Cd  Cd4  1  0.86800277  0.09347127  0.84337163  1
+  Fe  Fe5  1  0.61793530  0.84308958  0.59387726  1
+  S  S6  1  0.44806236  0.23458070  0.98279524  1
+  S  S7  1  0.00754176  0.67761183  0.98282057  1
+  S  S8  1  0.01243784  0.71173972  0.45705718  1
+  S  S9  1  0.48397580  0.24588622  0.45608464  1
+  S  S10  1  0.48410931  0.71032727  0.45745012  1
+  S  S11  1  0.00746202  0.23517568  0.98284930  1
+  S  S12  1  0.48379040  0.70931071  0.99442536  1
+  S  S13  1  0.00744179  0.23528452  0.42388183  1

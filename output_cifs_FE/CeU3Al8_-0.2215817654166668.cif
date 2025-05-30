@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeU3Al8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51157392
+_cell_length_b   5.51157392
+_cell_length_c   9.52579058
+_cell_angle_alpha   73.18410362
+_cell_angle_beta   73.18410362
+_cell_angle_gamma   60.00000094
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeU3Al8
+_chemical_formula_sum   'Ce1 U3 Al8'
+_cell_volume   236.20522563
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.87420600  0.87420600  0.37738200  1.0
+  U  U1  1  0.37621900  0.37621900  0.87134300  1.0
+  U  U2  1  0.00295900  0.00295900  0.99112300  1.0
+  U  U3  1  0.49656700  0.49656700  0.51029900  1.0
+  Al  Al4  1  0.93853300  0.43813600  0.18519500  1.0
+  Al  Al5  1  0.43580900  0.93736600  0.68945900  1.0
+  Al  Al6  1  0.43813600  0.43813600  0.18519500  1.0
+  Al  Al7  1  0.93736600  0.93736600  0.68945900  1.0
+  Al  Al8  1  0.18715200  0.18715200  0.43854400  1.0
+  Al  Al9  1  0.68754900  0.68754900  0.93735300  1.0
+  Al  Al10  1  0.43813600  0.93853300  0.18519500  1.0
+  Al  Al11  1  0.93736600  0.43580900  0.68945900  1.0

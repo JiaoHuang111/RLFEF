@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ho2FeC4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96561718
+_cell_length_b   6.64475298
+_cell_length_c   6.65684557
+_cell_angle_alpha   69.62877655
+_cell_angle_beta   68.01589966
+_cell_angle_gamma   67.89208984
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2FeC4
+_chemical_formula_sum   'Ho4 Fe2 C8'
+_cell_volume   183.12792028
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.45930061  0.89230460  0.39845672  1
+  Ho  Ho1  1  0.67220223  0.18043533  0.68495065  1
+  Ho  Ho2  1  0.17070030  0.86550254  0.00484408  1
+  Ho  Ho3  1  0.95959723  0.57539845  0.71767324  1
+  Fe  Fe4  1  0.05880042  0.38222611  0.20185024  1
+  Fe  Fe5  1  0.55903220  0.38379776  0.20251913  1
+  C  C6  1  0.94485182  0.91216046  0.40833566  1
+  C  C7  1  0.18307523  0.16926372  0.67166007  1
+  C  C8  1  0.88811147  0.13645667  0.28770906  1
+  C  C9  1  0.23050120  0.29183298  0.45023036  1
+  C  C10  1  0.38759854  0.47018272  0.95518011  1
+  C  C11  1  0.72913176  0.63071007  0.11642930  1
+  C  C12  1  0.44317228  0.58420461  0.73350537  1
+  C  C13  1  0.68081468  0.84716725  0.99138385  1

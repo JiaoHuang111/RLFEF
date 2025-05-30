@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_SrFeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88735986
+_cell_length_b   3.90075016
+_cell_length_c   3.94059515
+_cell_angle_alpha   89.67328644
+_cell_angle_beta   89.88632965
+_cell_angle_gamma   89.98633575
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrFeO3
+_chemical_formula_sum   'Sr1 Fe1 O3'
+_cell_volume   59.75259521
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.05901701  0.04151417  0.12674709  1
+  Fe  Fe1  1  0.55843514  0.54059803  0.62631243  1
+  O  O2  1  0.55828506  0.54097801  0.12609392  1
+  O  O3  1  0.05804175  0.54108536  0.62652141  1
+  O  O4  1  0.55821532  0.04090886  0.62634546  1

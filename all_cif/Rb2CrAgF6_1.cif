@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2CrAgF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23589897
+_cell_length_b   6.24310493
+_cell_length_c   6.24266005
+_cell_angle_alpha   59.79729843
+_cell_angle_beta   59.85625839
+_cell_angle_gamma   59.97492599
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2CrAgF6
+_chemical_formula_sum   'Rb2 Cr1 Ag1 F6'
+_cell_volume   171.36817308
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.55959594  0.06799071  0.26760319  1
+  Rb  Rb1  1  0.05996645  0.56874609  0.76725042  1
+  Cr  Cr2  1  0.31022540  0.81965142  0.01692556  1
+  Ag  Ag3  1  0.81009716  0.31994638  0.51689333  1
+  F  F4  1  0.53203571  0.04217946  0.79510111  1
+  F  F5  1  0.08720096  0.04222582  0.79529160  1
+  F  F6  1  0.53164577  0.59877414  0.23868649  1
+  F  F7  1  0.08783095  0.04224631  0.23935319  1
+  F  F8  1  0.53150982  0.59814715  0.79433298  1
+  F  F9  1  0.08745299  0.59933072  0.23941186  1

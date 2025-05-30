@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_PrSi2Mo2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18799067
+_cell_length_b   4.19851255
+_cell_length_c   5.64314413
+_cell_angle_alpha   89.71062469
+_cell_angle_beta   89.95116425
+_cell_angle_gamma   90.25251770
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrSi2Mo2C
+_chemical_formula_sum   'Pr1 Si2 Mo2 C1'
+_cell_volume   99.22300617
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.37524828  0.74105769  0.76767695  1
+  Si  Si1  1  0.87541437  0.24101169  0.54893398  1
+  Si  Si2  1  0.87534684  0.24121423  0.98216939  1
+  Mo  Mo3  1  0.37472132  0.24090908  0.26797426  1
+  Mo  Mo4  1  0.87531114  0.74125373  0.26737911  1
+  C  C5  1  0.37542275  0.74169755  0.26762098  1

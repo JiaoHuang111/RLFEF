@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CoAg2Sn3S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.44835997
+_cell_length_b   7.46767569
+_cell_length_c   7.43424273
+_cell_angle_alpha   60.25857544
+_cell_angle_beta   60.17067337
+_cell_angle_gamma   60.18863678
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoAg2Sn3S8
+_chemical_formula_sum   'Co1 Ag2 Sn3 S8'
+_cell_volume   293.75680200
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.06262007  0.89349693  0.30675015  1
+  Ag  Ag1  1  0.43818104  0.27696243  0.68606299  1
+  Ag  Ag2  1  0.68986785  0.51141053  0.92219162  1
+  Sn  Sn3  1  0.06316910  0.39420828  0.30578017  1
+  Sn  Sn4  1  0.06344726  0.89379156  0.80586839  1
+  Sn  Sn5  1  0.56305242  0.89222962  0.30617210  1
+  S  S6  1  0.27725619  0.67184156  0.08861385  1
+  S  S7  1  0.85031009  0.11675353  0.53082019  1
+  S  S8  1  0.82189000  0.64926481  0.06493311  1
+  S  S9  1  0.28811476  0.68203604  0.53186184  1
+  S  S10  1  0.84270501  0.67117530  0.51533896  1
+  S  S11  1  0.84214652  0.10700397  0.08602083  1
+  S  S12  1  0.30788878  0.13597476  0.54987526  1
+  S  S13  1  0.28638130  0.11324273  0.09636998  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Mg(AlSi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.10559511
+_cell_length_b   4.09511042
+_cell_length_c   6.63453436
+_cell_angle_alpha   89.97031403
+_cell_angle_beta   89.89888000
+_cell_angle_gamma   120.44639587
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(AlSi)2
+_chemical_formula_sum   'Mg1 Al2 Si2'
+_cell_volume   96.16352861
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.64124751  0.48282385  0.55212367  1
+  Al  Al1  1  0.30687186  0.81690091  0.91125643  1
+  Al  Al2  1  0.97440803  0.15033758  0.18990947  1
+  Si  Si3  1  0.30789730  0.81657863  0.30057800  1
+  Si  Si4  1  0.97435755  0.15060744  0.79999667  1

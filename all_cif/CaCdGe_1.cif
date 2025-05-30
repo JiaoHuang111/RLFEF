@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CaCdGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.48283577
+_cell_length_b   7.37927437
+_cell_length_c   7.38561344
+_cell_angle_alpha   120.10473633
+_cell_angle_beta   90.04844666
+_cell_angle_gamma   89.90273285
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCdGe
+_chemical_formula_sum   'Ca3 Cd3 Ge3'
+_cell_volume   211.36046047
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.43170774  0.39176807  0.53694046  1
+  Ca  Ca1  1  0.43177432  0.22110823  0.95437610  1
+  Ca  Ca2  1  0.43204898  0.80582410  0.37211388  1
+  Cd  Cd3  1  0.93151271  0.80508024  0.70382172  1
+  Cd  Cd4  1  0.93182802  0.55534536  0.95442492  1
+  Cd  Cd5  1  0.93141395  0.05856137  0.20599264  1
+  Ge  Ge6  1  0.43151143  0.80441058  0.95446962  1
+  Ge  Ge7  1  0.93137437  0.47199437  0.28904304  1
+  Ge  Ge8  1  0.93176132  0.13935699  0.62032551  1

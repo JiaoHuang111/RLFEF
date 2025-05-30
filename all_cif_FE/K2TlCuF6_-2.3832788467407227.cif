@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2TlCuF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.17250586
+_cell_length_b   6.18130827
+_cell_length_c   6.16902828
+_cell_angle_alpha   59.79847717
+_cell_angle_beta   59.79459381
+_cell_angle_gamma   59.80262375
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2TlCuF6
+_chemical_formula_sum   'K2 Tl1 Cu1 F6'
+_cell_volume   165.67355095
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.70023805  0.80135739  0.05157235  1
+  K  K1  1  0.20015703  0.30208623  0.55235720  1
+  Tl  Tl2  1  0.44994289  0.55232507  0.80208272  1
+  Cu  Cu3  1  0.95017719  0.05158581  0.30187106  1
+  F  F4  1  0.71623284  0.81956422  0.53387636  1
+  F  F5  1  0.18235821  0.81984997  0.53392678  1
+  F  F6  1  0.18248992  0.28450769  0.06776408  1
+  F  F7  1  0.18213482  0.81854033  0.06805641  1
+  F  F8  1  0.71537501  0.28486508  0.06793042  1
+  F  F9  1  0.71586686  0.28406402  0.53434730  1

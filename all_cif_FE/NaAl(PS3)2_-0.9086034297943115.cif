@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaAl(PS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83954525
+_cell_length_b   7.33374596
+_cell_length_c   10.90429211
+_cell_angle_alpha   96.43493652
+_cell_angle_beta   96.10395050
+_cell_angle_gamma   106.84529114
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAl(PS3)2
+_chemical_formula_sum   'Na2 Al2 P4 S12'
+_cell_volume   514.61580309
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50335395  0.13485442  0.61117578  1
+  Na  Na1  1  0.61501348  0.63486099  0.34369054  1
+  Al  Al2  1  0.14743231  0.00940035  0.26404539  1
+  Al  Al3  1  0.64664620  0.52382076  0.94701165  1
+  P  P4  1  0.13207063  0.56703490  0.79286814  1
+  P  P5  1  0.92296749  0.76164478  0.75521576  1
+  P  P6  1  0.10811713  0.51037276  0.45033863  1
+  P  P7  1  0.63451469  0.15828268  0.20036982  1
+  S  S8  1  0.21150956  0.34824839  0.29683262  1
+  S  S9  1  0.81008762  0.45327115  0.78238225  1
+  S  S10  1  0.22232214  0.41456035  0.61480606  1
+  S  S11  1  0.28857809  0.45258722  0.92940235  1
+  S  S12  1  0.81034476  0.96348095  0.21967809  1
+  S  S13  1  0.23332579  0.86497933  0.78393203  1
+  S  S14  1  0.21064870  0.81316483  0.40737084  1
+  S  S15  1  0.76442224  0.84119099  0.91304725  1
+  S  S16  1  0.76292783  0.86596578  0.61534542  1
+  S  S17  1  0.72332692  0.41309848  0.11526989  1
+  S  S18  1  0.77613240  0.33749959  0.42124733  1
+  S  S19  1  0.32677257  0.98136443  0.11803471  1

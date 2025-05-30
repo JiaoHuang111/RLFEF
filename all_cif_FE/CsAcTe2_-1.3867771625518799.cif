@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CsAcTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08203363
+_cell_length_b   6.10422421
+_cell_length_c   6.07945013
+_cell_angle_alpha   59.79634476
+_cell_angle_beta   59.82260513
+_cell_angle_gamma   60.01909637
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsAcTe2
+_chemical_formula_sum   'Cs1 Ac1 Te2'
+_cell_volume   159.16007294
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.54581273  0.20803314  0.66671044  1
+  Ac  Ac1  1  0.04608043  0.70821917  0.16710329  1
+  Te  Te2  1  0.79574597  0.45830190  0.91605669  1
+  Te  Te3  1  0.29570165  0.95847803  0.41559002  1

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Mg2AgPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.63130760
+_cell_length_b   4.62321806
+_cell_length_c   4.60583973
+_cell_angle_alpha   59.81755829
+_cell_angle_beta   59.76583099
+_cell_angle_gamma   60.15616989
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2AgPd
+_chemical_formula_sum   'Mg2 Ag1 Pd1'
+_cell_volume   69.59431326
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.97857803  0.76191455  0.62911153  1
+  Mg  Mg1  1  0.47859237  0.26199365  0.12905402  1
+  Ag  Ag2  1  0.72885865  0.51174235  0.37883297  1
+  Pd  Pd3  1  0.22877553  0.01202979  0.87877351  1

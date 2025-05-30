@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_AcGa3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.61910534
+_cell_length_b   6.90032244
+_cell_length_c   6.88451862
+_cell_angle_alpha   120.00524139
+_cell_angle_beta   90.18673706
+_cell_angle_gamma   90.02020264
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcGa3
+_chemical_formula_sum   'Ac2 Ga6'
+_cell_volume   190.02252187
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.58767724  0.27785811  0.58880556  1
+  Ac  Ac1  1  0.08751801  0.61251700  0.25599658  1
+  Ga  Ga2  1  0.08821569  0.07764348  0.19270030  1
+  Ga  Ga3  1  0.58815688  0.21439809  0.05939503  1
+  Ga  Ga4  1  0.58694732  0.81077367  0.65072721  1
+  Ga  Ga5  1  0.08752463  0.07725278  0.78805017  1
+  Ga  Ga6  1  0.08661844  0.67285681  0.78846347  1
+  Ga  Ga7  1  0.58698934  0.81053919  0.05947581  1

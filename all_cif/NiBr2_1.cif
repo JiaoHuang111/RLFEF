@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_NiBr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.68477225
+_cell_length_b   3.66102195
+_cell_length_c   6.19383526
+_cell_angle_alpha   90.04270935
+_cell_angle_beta   90.09658813
+_cell_angle_gamma   120.91880035
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiBr2
+_chemical_formula_sum   'Ni1 Br2'
+_cell_volume   71.68133261
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.70214820  0.58192837  0.01808446  1
+  Br  Br1  1  0.36827782  0.91504025  0.24385251  1
+  Br  Br2  1  0.03569164  0.24835566  0.78749537  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiCa2CuN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95683503
+_cell_length_b   3.98542786
+_cell_length_c   11.80147171
+_cell_angle_alpha   99.77320862
+_cell_angle_beta   99.46010590
+_cell_angle_gamma   90.19596100
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCa2CuN2
+_chemical_formula_sum   'Li2 Ca4 Cu2 N4'
+_cell_volume   180.81638513
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.63547504  0.50577211  0.02098583  1
+  Li  Li1  1  0.73883593  0.10973619  0.22540778  1
+  Ca  Ca2  1  0.88453948  0.75534624  0.52120620  1
+  Ca  Ca3  1  0.99811780  0.36681545  0.74709076  1
+  Ca  Ca4  1  0.25087160  0.62005341  0.24891855  1
+  Ca  Ca5  1  0.53238660  0.90246385  0.81212091  1
+  Cu  Cu6  1  0.14039640  0.01023430  0.03292013  1
+  Cu  Cu7  1  0.35301536  0.21865071  0.45667729  1
+  N  N8  1  0.44151047  0.31601685  0.63264096  1
+  N  N9  1  0.82707828  0.19662043  0.40746564  1
+  N  N10  1  0.06272137  0.93585557  0.87577510  1
+  N  N11  1  0.70302773  0.57507271  0.16786653  1

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Cd3AsI3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.33976460
+_cell_length_b   7.35816908
+_cell_length_c   7.66309786
+_cell_angle_alpha   102.72179413
+_cell_angle_beta   90.07971954
+_cell_angle_gamma   107.04064178
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd3AsI3
+_chemical_formula_sum   'Cd3 As1 I3'
+_cell_volume   227.64595180
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.29100081  0.96946561  0.93326491  1
+  Cd  Cd1  1  0.82312435  0.03051837  0.55348098  1
+  Cd  Cd2  1  0.02960442  0.43131974  0.17546679  1
+  As  As3  1  0.89542830  0.16989762  0.88134122  1
+  I  I4  1  0.64456481  0.67216402  0.03274962  1
+  I  I5  1  0.18146615  0.74065751  0.53777200  1
+  I  I6  1  0.42175066  0.21378557  0.35419294  1

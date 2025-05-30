@@ -1,0 +1,28 @@
+# generated using pymatgen
+data_ScSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17231464
+_cell_length_b   4.18578100
+_cell_length_c   4.14960814
+_cell_angle_alpha   60.08752060
+_cell_angle_beta   59.78375244
+_cell_angle_gamma   59.89925003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScSb
+_chemical_formula_sum   'Sc1 Sb1'
+_cell_volume   51.15466006
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.45577544  0.54176855  0.04156525  1
+  Sb  Sb1  1  0.95578617  0.04196366  0.54149294  1

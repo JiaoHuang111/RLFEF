@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_Ge2Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.60485315
+_cell_length_b   3.59629631
+_cell_length_c   4.28629875
+_cell_angle_alpha   89.97233582
+_cell_angle_beta   89.87917328
+_cell_angle_gamma   120.33947754
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ge2Mo
+_chemical_formula_sum   'Ge2 Mo1'
+_cell_volume   47.95773111
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.74489474  0.40690508  0.53470904  1
+  Ge  Ge1  1  0.41197902  0.73981732  0.86903423  1
+  Mo  Mo2  1  0.07856295  0.07414908  0.20147513  1

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_InGaP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89290118
+_cell_length_b   3.88968301
+_cell_length_c   6.40693283
+_cell_angle_alpha   72.52068329
+_cell_angle_beta   72.32816315
+_cell_angle_gamma   59.94787216
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InGaP2
+_chemical_formula_sum   'In1 Ga1 P2'
+_cell_volume   78.70556616
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.08664184  0.00649811  0.54091042  1
+  Ga  Ga1  1  0.58712780  0.50727898  0.04005682  1
+  P  P2  1  0.32824233  0.25195211  0.80969763  1
+  P  P3  1  0.83998412  0.76183087  0.28021634  1

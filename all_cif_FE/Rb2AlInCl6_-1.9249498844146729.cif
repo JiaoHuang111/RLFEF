@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2AlInCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.56968880
+_cell_length_b   7.57813120
+_cell_length_c   7.58781910
+_cell_angle_alpha   59.95657349
+_cell_angle_beta   59.96562958
+_cell_angle_gamma   59.88544464
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2AlInCl6
+_chemical_formula_sum   'Rb2 Al1 In1 Cl6'
+_cell_volume   307.33325514
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.18432602  0.14754383  0.19791918  1
+  Rb  Rb1  1  0.68487900  0.64640534  0.69886291  1
+  Al  Al2  1  0.43509009  0.39766908  0.44816077  1
+  In  In3  1  0.93498498  0.89783323  0.94753748  1
+  Cl  Cl4  1  0.65467447  0.61839861  0.22644961  1
+  Cl  Cl5  1  0.21354386  0.17627072  0.66992849  1
+  Cl  Cl6  1  0.21361448  0.61846656  0.66928542  1
+  Cl  Cl7  1  0.65467465  0.17675151  0.22663961  1
+  Cl  Cl8  1  0.65492612  0.17675157  0.66818738  1
+  Cl  Cl9  1  0.21355946  0.61823756  0.22717044  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Pr2InCu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94289041
+_cell_length_b   7.73793936
+_cell_length_c   7.71538448
+_cell_angle_alpha   89.83631897
+_cell_angle_beta   89.88498688
+_cell_angle_gamma   89.96744537
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2InCu2
+_chemical_formula_sum   'Pr4 In2 Cu4'
+_cell_volume   235.39372696
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.13306417  0.21919581  0.01735556  1
+  Pr  Pr1  1  0.13281183  0.07641942  0.51745772  1
+  Pr  Pr2  1  0.13349916  0.57540429  0.66038418  1
+  Pr  Pr3  1  0.13295570  0.71848238  0.16062738  1
+  In  In4  1  0.63303101  0.89816517  0.83916563  1
+  In  In5  1  0.63312125  0.39811695  0.33939362  1
+  Cu  Cu6  1  0.63296604  0.51085216  0.95507157  1
+  Cu  Cu7  1  0.63291627  0.01177850  0.22339493  1
+  Cu  Cu8  1  0.63294637  0.28148600  0.72151238  1
+  Cu  Cu9  1  0.63314831  0.78078461  0.45517626  1

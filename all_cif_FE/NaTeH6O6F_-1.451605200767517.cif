@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_NaTeH6O6F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80364656
+_cell_length_b   5.79791975
+_cell_length_c   5.88809729
+_cell_angle_alpha   65.95438385
+_cell_angle_beta   65.69234467
+_cell_angle_gamma   65.92167664
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTeH6O6F
+_chemical_formula_sum   'Na1 Te1 H6 O6 F1'
+_cell_volume   157.87505532
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.70206046  0.13350375  0.61276901  1
+  Te  Te1  1  0.20709471  0.10930375  0.11420635  1
+  H  H2  1  0.28284162  0.74622011  0.44523811  1
+  H  H3  1  0.27239013  0.83988804  0.85088360  1
+  H  H4  1  0.04527718  0.49987662  0.34296590  1
+  H  H5  1  0.65941614  0.84619492  0.33982471  1
+  H  H6  1  0.86381972  0.71921772  0.98376119  1
+  H  H7  1  0.50761741  0.47164875  0.98775601  1
+  O  O8  1  0.97760630  0.86041564  0.33922786  1
+  O  O9  1  0.99638146  0.33807963  0.33168203  1
+  O  O10  1  0.97661555  0.84597403  0.86446404  1
+  O  O11  1  0.42462289  0.34294534  0.92069435  1
+  O  O12  1  0.42967942  0.87224460  0.88301468  1
+  O  O13  1  0.44666892  0.87492013  0.34523532  1
+  F  F14  1  0.96246308  0.36007646  0.86203909  1

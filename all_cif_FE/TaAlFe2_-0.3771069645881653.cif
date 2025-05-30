@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TaAlFe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19422102
+_cell_length_b   4.19707108
+_cell_length_c   4.18380499
+_cell_angle_alpha   59.60688019
+_cell_angle_beta   59.74044037
+_cell_angle_gamma   59.69225693
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaAlFe2
+_chemical_formula_sum   'Ta1 Al1 Fe2'
+_cell_volume   51.69907135
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.97240347  0.81980240  0.64768529  1
+  Al  Al1  1  0.47256938  0.31986088  0.14824791  1
+  Fe  Fe2  1  0.22244129  0.07051120  0.89804518  1
+  Fe  Fe3  1  0.72217542  0.56946278  0.39814967  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoCoSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97944212
+_cell_length_b   6.79651737
+_cell_length_c   7.58453608
+_cell_angle_alpha   89.95111847
+_cell_angle_beta   90.08763123
+_cell_angle_gamma   89.89974976
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoCoSi
+_chemical_formula_sum   'Ho4 Co4 Si4'
+_cell_volume   205.13336925
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.78569174  0.46117288  0.61156243  1
+  Ho  Ho1  1  0.78611052  0.35107023  0.11109223  1
+  Ho  Ho2  1  0.78641808  0.85224515  0.31837252  1
+  Ho  Ho3  1  0.78607726  0.85276967  0.90055853  1
+  Co  Co4  1  0.28624082  0.17802162  0.42465705  1
+  Co  Co5  1  0.28560656  0.67826766  0.11067749  1
+  Co  Co6  1  0.28599739  0.17831479  0.79993844  1
+  Co  Co7  1  0.28605577  0.81521088  0.61147064  1
+  Si  Si8  1  0.78599310  0.06275086  0.61089981  1
+  Si  Si9  1  0.28569639  0.54664218  0.84705436  1
+  Si  Si10  1  0.28624019  0.04728360  0.11122177  1
+  Si  Si11  1  0.28580973  0.54685003  0.37464076  1

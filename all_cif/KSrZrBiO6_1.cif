@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KSrZrBiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98899221
+_cell_length_b   6.00849485
+_cell_length_c   6.00374031
+_cell_angle_alpha   59.99616623
+_cell_angle_beta   59.82283783
+_cell_angle_gamma   59.87494659
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSrZrBiO6
+_chemical_formula_sum   'K1 Sr1 Zr1 Bi1 O6'
+_cell_volume   152.41156606
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.88455713  0.17284177  0.69391805  1
+  Sr  Sr1  1  0.38390458  0.67250282  0.19402921  1
+  Zr  Zr2  1  0.13376999  0.42257577  0.94384891  1
+  Bi  Bi3  1  0.63409686  0.92295462  0.44404763  1
+  O  O4  1  0.88549757  0.67052871  0.69463456  1
+  O  O5  1  0.38128969  0.67005479  0.69561684  1
+  O  O6  1  0.38137862  0.17489387  0.19259247  1
+  O  O7  1  0.88497549  0.67124265  0.19260859  1
+  O  O8  1  0.88455373  0.17483136  0.19211175  1
+  O  O9  1  0.38159898  0.17492276  0.69518787  1

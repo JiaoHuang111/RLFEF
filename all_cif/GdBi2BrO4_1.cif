@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_GdBi2BrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91991949
+_cell_length_b   3.91701579
+_cell_length_c   9.36138248
+_cell_angle_alpha   89.91934204
+_cell_angle_beta   89.99083710
+_cell_angle_gamma   90.12489319
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdBi2BrO4
+_chemical_formula_sum   'Gd1 Bi2 Br1 O4'
+_cell_volume   143.73779944
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.82361084  0.57977021  0.39995399  1
+  Bi  Bi1  1  0.32344645  0.07984755  0.12777938  1
+  Bi  Bi2  1  0.32344282  0.08039461  0.67198133  1
+  Br  Br3  1  0.82376486  0.58020347  0.90083706  1
+  O  O4  1  0.82301193  0.07971551  0.24887049  1
+  O  O5  1  0.32355919  0.57943910  0.55410880  1
+  O  O6  1  0.32414502  0.57950759  0.24838366  1
+  O  O7  1  0.82341921  0.07991755  0.55441850  1

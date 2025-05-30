@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TbNiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.62265015
+_cell_length_b   5.80142164
+_cell_length_c   5.86117029
+_cell_angle_alpha   98.11087799
+_cell_angle_beta   89.89945221
+_cell_angle_gamma   89.87728882
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbNiO3
+_chemical_formula_sum   'Tb2 Ni2 O6'
+_cell_volume   121.94866804
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.75557208  0.70523292  0.01789295  1
+  Tb  Tb1  1  0.75545931  0.31808725  0.40033945  1
+  Ni  Ni2  1  0.25536907  0.78302187  0.48112157  1
+  Ni  Ni3  1  0.25574747  0.19963446  0.89242977  1
+  O  O4  1  0.25618413  0.48326671  0.18213239  1
+  O  O5  1  0.25589222  0.81208396  0.81835651  1
+  O  O6  1  0.75642270  0.38218373  0.79279745  1
+  O  O7  1  0.75583351  0.10815258  0.06664787  1
+  O  O8  1  0.75616741  0.73469061  0.43086746  1
+  O  O9  1  0.25607949  0.11962907  0.52000517  1

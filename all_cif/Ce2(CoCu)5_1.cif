@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ce2(CoCu)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87684703
+_cell_length_b   4.98314857
+_cell_length_c   9.60435009
+_cell_angle_alpha   89.79450989
+_cell_angle_beta   89.90153503
+_cell_angle_gamma   89.98768616
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2(CoCu)5
+_chemical_formula_sum   'Ce2 Co5 Cu5'
+_cell_volume   185.54405318
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.35571313  0.08493439  0.88597476  1
+  Ce  Ce1  1  0.35652807  0.58512497  0.29821515  1
+  Co  Co2  1  0.85686201  0.34773201  0.08405793  1
+  Co  Co3  1  0.85686213  0.08611894  0.29778957  1
+  Co  Co4  1  0.35656622  0.07268253  0.50272685  1
+  Co  Co5  1  0.85685366  0.08626131  0.68762732  1
+  Co  Co6  1  0.85657305  0.81542009  0.50229245  1
+  Cu  Cu7  1  0.85499328  0.58370888  0.81334865  1
+  Cu  Cu8  1  0.35195556  0.58066183  0.98835319  1
+  Cu  Cu9  1  0.35629010  0.58629179  0.64089555  1
+  Cu  Cu10  1  0.85700518  0.35011172  0.50238520  1
+  Cu  Cu11  1  0.85639405  0.83429450  0.08476911  1

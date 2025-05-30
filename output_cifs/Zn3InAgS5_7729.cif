@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Zn3InAgS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50350100
+_cell_length_b   6.86600088
+_cell_length_c   10.50054049
+_cell_angle_alpha   70.91700517
+_cell_angle_beta   90.01743884
+_cell_angle_gamma   89.95759144
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn3InAgS5
+_chemical_formula_sum   'Zn6 In2 Ag2 S10'
+_cell_volume   443.11399936
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.49264000  0.87876900  0.59265900  1.0
+  Zn  Zn1  1  0.50142600  0.45876200  0.40185700  1.0
+  Zn  Zn2  1  0.50486900  0.06711700  0.20724600  1.0
+  Zn  Zn3  1  0.99902700  0.32835900  0.00263000  1.0
+  Zn  Zn4  1  0.00095700  0.93515500  0.79283100  1.0
+  Zn  Zn5  1  0.99683800  0.12960500  0.40532000  1.0
+  In  In6  1  0.49956000  0.26363400  0.79936100  1.0
+  In  In7  1  0.99847300  0.73282300  0.19874900  1.0
+  Ag  Ag8  1  0.49776600  0.66818100  0.99912900  1.0
+  Ag  Ag9  1  0.00010200  0.54007000  0.60011200  1.0
+  S  S10  1  0.10472000  0.66288700  0.98938000  1.0
+  S  S11  1  0.11621700  0.24984200  0.81445500  1.0
+  S  S12  1  0.13339000  0.89036100  0.59785400  1.0
+  S  S13  1  0.13656400  0.45254400  0.39479500  1.0
+  S  S14  1  0.13331500  0.07602200  0.20365800  1.0
+  S  S15  1  0.61497300  0.73572800  0.21423900  1.0
+  S  S16  1  0.63598900  0.31127200  0.01014300  1.0
+  S  S17  1  0.63758800  0.93368500  0.78435500  1.0
+  S  S18  1  0.60467900  0.54784600  0.59238300  1.0
+  S  S19  1  0.63090600  0.13733700  0.39884500  1.0

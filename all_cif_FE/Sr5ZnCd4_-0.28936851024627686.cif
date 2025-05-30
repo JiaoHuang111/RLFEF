@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr5ZnCd4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95214701
+_cell_length_b   7.60654449
+_cell_length_c   9.52668381
+_cell_angle_alpha   106.57337189
+_cell_angle_beta   90.13510132
+_cell_angle_gamma   90.07864380
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5ZnCd4
+_chemical_formula_sum   'Sr5 Zn1 Cd4'
+_cell_volume   343.94763810
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.18984444  0.24760672  0.18136173  1
+  Sr  Sr1  1  0.68987364  0.92064226  0.82020098  1
+  Sr  Sr2  1  0.68998051  0.49191535  0.96186358  1
+  Sr  Sr3  1  0.69003642  0.28158629  0.54041278  1
+  Sr  Sr4  1  0.18992905  0.81375372  0.43577635  1
+  Zn  Zn5  1  0.68995458  0.54715919  0.31912845  1
+  Cd  Cd6  1  0.68997109  0.92689276  0.21857418  1
+  Cd  Cd7  1  0.18942955  0.79897231  0.04543829  1
+  Cd  Cd8  1  0.18985087  0.18717480  0.76798099  1
+  Cd  Cd9  1  0.18967156  0.58270133  0.71336979  1

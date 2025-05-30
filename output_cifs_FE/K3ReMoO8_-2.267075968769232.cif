@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_K3ReMoO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.22427567
+_cell_length_b   6.22427567
+_cell_length_c   8.02330357
+_cell_angle_alpha   67.17688990
+_cell_angle_beta   67.17688990
+_cell_angle_gamma   60.00000350
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3ReMoO8
+_chemical_formula_sum   'K3 Re1 Mo1 O8'
+_cell_volume   240.68065284
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.30286200  0.30286200  0.09141400  1.0
+  K  K1  1  0.69476500  0.69476500  0.91570500  1.0
+  K  K2  1  0.50660500  0.50660500  0.48018500  1.0
+  Re  Re3  1  0.09739200  0.09739200  0.70782400  1.0
+  Mo  Mo4  1  0.90486600  0.90486600  0.28540200  1.0
+  O  O5  1  0.82125100  0.82125100  0.53624700  1.0
+  O  O6  1  0.17847900  0.17847900  0.46456300  1.0
+  O  O7  1  0.77669000  0.77669000  0.19790100  1.0
+  O  O8  1  0.24871900  0.77669000  0.19790100  1.0
+  O  O9  1  0.22440400  0.22440400  0.78860700  1.0
+  O  O10  1  0.76258500  0.22440400  0.78860700  1.0
+  O  O11  1  0.77669000  0.24871900  0.19790100  1.0
+  O  O12  1  0.22440400  0.76258500  0.78860700  1.0

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_U2Si3Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.82045603
+_cell_length_b   4.02066422
+_cell_length_c   6.83873224
+_cell_angle_alpha   89.98802185
+_cell_angle_beta   89.86067963
+_cell_angle_gamma   90.08479309
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2Si3Ni
+_chemical_formula_sum   'U2 Si3 Ni1'
+_cell_volume   105.04777083
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.13318039  0.30728951  0.64850843  1
+  U  U1  1  0.13270365  0.80724496  0.14759329  1
+  Si  Si2  1  0.63305700  0.30780298  0.32138965  1
+  Si  Si3  1  0.63318479  0.80749834  0.81196368  1
+  Si  Si4  1  0.63298625  0.30819517  0.98278689  1
+  Ni  Ni5  1  0.63298297  0.80758035  0.48110762  1

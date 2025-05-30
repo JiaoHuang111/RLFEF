@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Dy6MnBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25643253
+_cell_length_b   8.38966560
+_cell_length_c   8.38256836
+_cell_angle_alpha   119.91549683
+_cell_angle_beta   89.87760162
+_cell_angle_gamma   89.95498657
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy6MnBi2
+_chemical_formula_sum   'Dy6 Mn1 Bi2'
+_cell_volume   259.45696631
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.32459706  0.81644100  0.93547386  1
+  Dy  Dy1  1  0.32492393  0.42557561  0.32334411  1
+  Dy  Dy2  1  0.82462156  0.42575526  0.70212638  1
+  Dy  Dy3  1  0.32493377  0.03583941  0.54230225  1
+  Dy  Dy4  1  0.82458442  0.66295826  0.17277993  1
+  Dy  Dy5  1  0.82493699  0.18864310  0.93588209  1
+  Mn  Mn6  1  0.32485357  0.42519975  0.93508732  1
+  Bi  Bi7  1  0.82463574  0.09279835  0.26818043  1
+  Bi  Bi8  1  0.82483155  0.76071656  0.60059732  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_GdCoSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00212669
+_cell_length_b   3.99053645
+_cell_length_c   6.86656046
+_cell_angle_alpha   89.88363647
+_cell_angle_beta   89.89871216
+_cell_angle_gamma   89.89479828
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdCoSi
+_chemical_formula_sum   'Gd2 Co2 Si2'
+_cell_volume   109.66273167
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.32589400  0.10063099  0.48752719  1
+  Gd  Gd1  1  0.82577771  0.10099155  0.98715842  1
+  Co  Co2  1  0.82598478  0.60159862  0.65718818  1
+  Co  Co3  1  0.32574257  0.60165262  0.15720332  1
+  Si  Si4  1  0.82645571  0.60150027  0.31585598  1
+  Si  Si5  1  0.32638043  0.60179186  0.81591028  1

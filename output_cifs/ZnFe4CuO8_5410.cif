@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_ZnFe4CuO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.01153122
+_cell_length_b   6.01153122
+_cell_length_c   6.01153209
+_cell_angle_alpha   60.29081072
+_cell_angle_beta   60.29081072
+_cell_angle_gamma   60.29080919
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnFe4CuO8
+_chemical_formula_sum   'Zn1 Fe4 Cu1 O8'
+_cell_volume   154.62837772
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00143600  0.00143600  0.00143600  1.0
+  Fe  Fe1  1  0.62612300  0.62612300  0.12155400  1.0
+  Fe  Fe2  1  0.62612300  0.12155400  0.62612300  1.0
+  Fe  Fe3  1  0.12155400  0.62612300  0.62612300  1.0
+  Fe  Fe4  1  0.24827600  0.24827600  0.24827600  1.0
+  Cu  Cu5  1  0.62621000  0.62621000  0.62621000  1.0
+  O  O6  1  0.86535800  0.86535800  0.86535800  1.0
+  O  O7  1  0.86956700  0.86956700  0.40511400  1.0
+  O  O8  1  0.86956700  0.40511400  0.86956700  1.0
+  O  O9  1  0.40511400  0.86956700  0.86956700  1.0
+  O  O10  1  0.38154900  0.38154900  0.38154900  1.0
+  O  O11  1  0.37671500  0.37671500  0.85569200  1.0
+  O  O12  1  0.37671500  0.85569200  0.37671500  1.0
+  O  O13  1  0.85569200  0.37671500  0.37671500  1.0

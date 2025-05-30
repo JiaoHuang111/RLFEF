@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Sr2Mn3(AsO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19065857
+_cell_length_b   4.20386982
+_cell_length_c   9.98993969
+_cell_angle_alpha   102.21097565
+_cell_angle_beta   102.13703156
+_cell_angle_gamma   90.12065125
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Mn3(AsO)2
+_chemical_formula_sum   'Sr2 Mn3 As2 O2'
+_cell_volume   167.96607419
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.72641075  0.88568389  0.00643155  1
+  Sr  Sr1  1  0.55555326  0.71501744  0.66436934  1
+  Mn  Mn2  1  0.39332619  0.05025479  0.33575824  1
+  Mn  Mn3  1  0.14343147  0.30092290  0.83620846  1
+  Mn  Mn4  1  0.89370376  0.55123883  0.33713365  1
+  As  As5  1  0.30662495  0.46539831  0.16344555  1
+  As  As6  1  0.97737402  0.13473690  0.50549072  1
+  O  O7  1  0.64333767  0.30085135  0.83625394  1
+  O  O8  1  0.14381441  0.80030692  0.83616066  1

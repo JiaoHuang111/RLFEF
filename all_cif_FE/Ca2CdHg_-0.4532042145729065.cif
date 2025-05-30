@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Ca2CdHg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46933365
+_cell_length_b   5.47946167
+_cell_length_c   5.45491505
+_cell_angle_alpha   59.81725693
+_cell_angle_beta   59.80853653
+_cell_angle_gamma   59.95233154
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2CdHg
+_chemical_formula_sum   'Ca2 Cd1 Hg1'
+_cell_volume   115.22732236
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.16807291  0.25480649  0.32779339  1
+  Ca  Ca1  1  0.66767913  0.75479013  0.82787901  1
+  Cd  Cd2  1  0.41736057  0.50463343  0.57814062  1
+  Hg  Hg3  1  0.91760248  0.00451367  0.07817995  1

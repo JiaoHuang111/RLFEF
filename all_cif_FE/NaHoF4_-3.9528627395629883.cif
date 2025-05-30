@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaHoF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43318558
+_cell_length_b   5.43334913
+_cell_length_c   6.68333197
+_cell_angle_alpha   113.90612030
+_cell_angle_beta   113.82534027
+_cell_angle_gamma   89.96699524
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHoF4
+_chemical_formula_sum   'Na2 Ho2 F8'
+_cell_volume   161.82894430
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.92566293  0.74984646  0.27502298  1
+  Na  Na1  1  0.42614564  0.25030005  0.27514118  1
+  Ho  Ho2  1  0.17541777  0.50002015  0.77463704  1
+  Ho  Ho3  1  0.67498857  0.99974227  0.77462828  1
+  F  F4  1  0.81206435  0.63426989  0.54336804  1
+  F  F5  1  0.54037952  0.36465576  0.00183061  1
+  F  F6  1  0.81202805  0.13474248  0.54327470  1
+  F  F7  1  0.04050246  0.36487520  0.00154648  1
+  F  F8  1  0.04062656  0.86411816  0.00189745  1
+  F  F9  1  0.54178721  0.86488885  0.00186920  1
+  F  F10  1  0.31281477  0.63459110  0.54252082  1
+  F  F11  1  0.31244332  0.13433808  0.54317528  1

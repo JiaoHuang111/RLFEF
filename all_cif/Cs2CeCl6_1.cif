@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Cs2CeCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81935453
+_cell_length_b   7.82051039
+_cell_length_c   7.82466745
+_cell_angle_alpha   59.55627060
+_cell_angle_beta   59.69861221
+_cell_angle_gamma   59.72710800
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2CeCl6
+_chemical_formula_sum   'Cs2 Ce1 Cl6'
+_cell_volume   335.73246114
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.45978940  0.63115740  0.30518737  1
+  Cs  Cs1  1  0.96085286  0.13100778  0.80527812  1
+  Ce  Ce2  1  0.71130389  0.88088685  0.55486047  1
+  Cl  Cl3  1  0.46811584  0.64098769  0.79710454  1
+  Cl  Cl4  1  0.46779341  0.12635824  0.79669839  1
+  Cl  Cl5  1  0.46788168  0.12543246  0.31148714  1
+  Cl  Cl6  1  0.95424128  0.12511389  0.31085548  1
+  Cl  Cl7  1  0.95413071  0.63952368  0.31108546  1
+  Cl  Cl8  1  0.95421004  0.64019817  0.79697919  1

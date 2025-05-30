@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiCa2Ga
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29620218
+_cell_length_b   5.30479336
+_cell_length_c   5.28032589
+_cell_angle_alpha   59.83143234
+_cell_angle_beta   59.94198990
+_cell_angle_gamma   60.17749023
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCa2Ga
+_chemical_formula_sum   'Li1 Ca2 Ga1'
+_cell_volume   104.85987024
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.68709147  0.85024178  0.53313792  1
+  Ca  Ca1  1  0.93766743  0.10055550  0.78258109  1
+  Ca  Ca2  1  0.43772820  0.60031885  0.28277051  1
+  Ga  Ga3  1  0.18736097  0.35029438  0.03278337  1

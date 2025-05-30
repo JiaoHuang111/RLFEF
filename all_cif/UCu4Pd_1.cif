@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_UCu4Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00674915
+_cell_length_b   4.99711370
+_cell_length_c   4.99210072
+_cell_angle_alpha   59.97038651
+_cell_angle_beta   59.86302185
+_cell_angle_gamma   59.86854935
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UCu4Pd
+_chemical_formula_sum   'U1 Cu4 Pd1'
+_cell_volume   88.11756585
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.27481505  0.88542980  0.55549151  1
+  Cu  Cu1  1  0.89973283  0.51087850  0.18094960  1
+  Cu  Cu2  1  0.89906842  0.51010227  0.68300545  1
+  Cu  Cu3  1  0.40152404  0.51053298  0.18011387  1
+  Cu  Cu4  1  0.90027636  0.01339168  0.17982846  1
+  Pd  Pd5  1  0.52525795  0.13593127  0.80658275  1

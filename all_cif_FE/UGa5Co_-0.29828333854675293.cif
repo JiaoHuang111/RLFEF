@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_UGa5Co
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27895069
+_cell_length_b   4.27101040
+_cell_length_c   6.65967464
+_cell_angle_alpha   89.97451782
+_cell_angle_beta   90.02428436
+_cell_angle_gamma   90.01052856
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UGa5Co
+_chemical_formula_sum   'U1 Ga5 Co1'
+_cell_volume   121.70847867
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.48346567  0.36271948  0.09194310  1
+  Ga  Ga1  1  0.98356259  0.36325705  0.78609258  1
+  Ga  Ga2  1  0.48346189  0.86332595  0.39814249  1
+  Ga  Ga3  1  0.98326129  0.86322606  0.09235118  1
+  Ga  Ga4  1  0.98330224  0.36345801  0.39843336  1
+  Ga  Ga5  1  0.48360616  0.86318058  0.78594977  1
+  Co  Co6  1  0.48325965  0.36296156  0.59236902  1

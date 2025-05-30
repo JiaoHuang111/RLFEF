@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Eu2MgIn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51935053
+_cell_length_b   5.53969669
+_cell_length_c   5.52361202
+_cell_angle_alpha   59.88584900
+_cell_angle_beta   60.13090897
+_cell_angle_gamma   60.15370941
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu2MgIn
+_chemical_formula_sum   'Eu2 Mg1 In1'
+_cell_volume   119.57358787
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.42313030  0.37587884  0.92059636  1
+  Eu  Eu1  1  0.92324197  0.87619078  0.42040309  1
+  Mg  Mg2  1  0.67335933  0.62559158  0.17091836  1
+  In  In3  1  0.17309855  0.12634036  0.67002606  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Re4As5S4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.09083145
+_cell_length_b   7.09083145
+_cell_length_c   7.09083145
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Re4As5S4
+_chemical_formula_sum   'Re4 As5 S4'
+_cell_volume   252.10211486
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.20331500  0.59889500  0.59889500  1.0
+  Re  Re1  1  0.59889600  0.20331400  0.59889500  1.0
+  Re  Re2  1  0.59889600  0.59889500  0.59889500  1.0
+  Re  Re3  1  0.59889600  0.59889500  0.20331400  1.0
+  As  As4  1  0.00000000  0.00000000  0.00000000  1.0
+  As  As5  1  0.43397100  0.85534300  0.85534300  1.0
+  As  As6  1  0.85534400  0.43397000  0.85534300  1.0
+  As  As7  1  0.85534400  0.85534300  0.85534300  1.0
+  As  As8  1  0.85534400  0.85534300  0.43397000  1.0
+  S  S9  1  0.89261600  0.36912800  0.36912800  1.0
+  S  S10  1  0.36912700  0.89261700  0.36912800  1.0
+  S  S11  1  0.36912700  0.36912800  0.36912800  1.0
+  S  S12  1  0.36912700  0.36912800  0.89261700  1.0

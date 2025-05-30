@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Zr(Ni2As)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84316540
+_cell_length_b   6.93662500
+_cell_length_c   7.04646635
+_cell_angle_alpha   89.84343719
+_cell_angle_beta   89.95224762
+_cell_angle_gamma   89.99661255
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr(Ni2As)2
+_chemical_formula_sum   'Zr2 Ni8 As4'
+_cell_volume   187.84814120
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.72297823  0.27722684  0.34296960  1
+  Zr  Zr1  1  0.22312006  0.77809262  0.84643817  1
+  Ni  Ni2  1  0.22252502  0.92616063  0.43505269  1
+  Ni  Ni3  1  0.72288072  0.85452998  0.18644471  1
+  Ni  Ni4  1  0.72273546  0.99661654  0.63317597  1
+  Ni  Ni5  1  0.72243512  0.42692080  0.74322325  1
+  Ni  Ni6  1  0.22338155  0.61683607  0.24366203  1
+  Ni  Ni7  1  0.72271341  0.11665788  0.93483794  1
+  Ni  Ni8  1  0.22284713  0.50718427  0.55426085  1
+  Ni  Ni9  1  0.22271408  0.35301349  0.99060160  1
+  As  As10  1  0.72295886  0.69566321  0.48956096  1
+  As  As11  1  0.22239387  0.19678546  0.67533010  1
+  As  As12  1  0.22355415  0.04905752  0.13390286  1
+  As  As13  1  0.72284734  0.54945678  0.04334799  1

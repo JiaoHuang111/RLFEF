@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2NaLaCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.83463812
+_cell_length_b   7.84437084
+_cell_length_c   7.81061745
+_cell_angle_alpha   59.67433548
+_cell_angle_beta   59.60929871
+_cell_angle_gamma   59.84533691
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaLaCl6
+_chemical_formula_sum   'K2 Na1 La1 Cl6'
+_cell_volume   337.18629994
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.52593958  0.23318753  0.18212816  1
+  K  K1  1  0.02615333  0.73343974  0.68240821  1
+  Na  Na2  1  0.27592582  0.98353863  0.93274701  1
+  La  La3  1  0.77534014  0.48332879  0.43333623  1
+  Cl  Cl4  1  0.02689168  0.23310935  0.68257558  1
+  Cl  Cl5  1  0.52505082  0.23238979  0.68282950  1
+  Cl  Cl6  1  0.52494335  0.73427039  0.68233877  1
+  Cl  Cl7  1  0.52505177  0.73395103  0.18201119  1
+  Cl  Cl8  1  0.02628674  0.23284715  0.18271257  1
+  Cl  Cl9  1  0.02599908  0.73427999  0.18286394  1

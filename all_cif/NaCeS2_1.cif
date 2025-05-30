@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_NaCeS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12933350
+_cell_length_b   4.12922144
+_cell_length_c   6.90728140
+_cell_angle_alpha   72.55099487
+_cell_angle_beta   72.71919250
+_cell_angle_gamma   59.95006180
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCeS2
+_chemical_formula_sum   'Na1 Ce1 S2'
+_cell_volume   95.70289526
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.65024543  0.74919087  0.38807964  1
+  Ce  Ce1  1  0.14954697  0.24874449  0.88819337  1
+  S  S2  1  0.40659457  0.50445801  0.12280434  1
+  S  S3  1  0.89343613  0.99447620  0.65390813  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_La(AsRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35953569
+_cell_length_b   4.34724188
+_cell_length_c   10.05729294
+_cell_angle_alpha   89.85041046
+_cell_angle_beta   89.92442322
+_cell_angle_gamma   90.06339264
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La(AsRh)2
+_chemical_formula_sum   'La2 As4 Rh4'
+_cell_volume   190.60444182
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.66045994  0.76888329  0.91936809  1
+  La  La1  1  0.16026334  0.26869801  0.40958712  1
+  As  As2  1  0.66036391  0.26880410  0.16428164  1
+  As  As3  1  0.16059572  0.26859972  0.80123460  1
+  As  As4  1  0.16069652  0.76879674  0.16469555  1
+  As  As5  1  0.65985888  0.76903057  0.52764863  1
+  Rh  Rh6  1  0.15984742  0.26931480  0.04864517  1
+  Rh  Rh7  1  0.16006915  0.76900870  0.66479504  1
+  Rh  Rh8  1  0.66003847  0.76898527  0.28259802  1
+  Rh  Rh9  1  0.66059250  0.26893157  0.66449839  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_NdAlPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.20716524
+_cell_length_b   7.26337385
+_cell_length_c   7.25131464
+_cell_angle_alpha   119.91100311
+_cell_angle_beta   90.18120575
+_cell_angle_gamma   89.97638702
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdAlPd
+_chemical_formula_sum   'Nd3 Al3 Pd3'
+_cell_volume   192.07089450
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.25901443  0.67438281  0.33078310  1
+  Nd  Nd1  1  0.25890970  0.83713681  0.91268754  1
+  Nd  Nd2  1  0.25932139  0.25676614  0.49282151  1
+  Al  Al3  1  0.75912702  0.25633702  0.14462127  1
+  Al  Al4  1  0.75892359  0.48957127  0.91296434  1
+  Al  Al5  1  0.75872439  0.02297177  0.67950946  1
+  Pd  Pd6  1  0.75870699  0.92380023  0.24657777  1
+  Pd  Pd7  1  0.75899267  0.58900332  0.57874739  1
+  Pd  Pd8  1  0.25870851  0.25697336  0.91312259  1

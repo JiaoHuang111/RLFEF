@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ce4SmO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.82034400
+_cell_length_b   5.55378000
+_cell_length_c   10.44851571
+_cell_angle_alpha   105.41264295
+_cell_angle_beta   100.53391708
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce4SmO9
+_chemical_formula_sum   'Ce4 Sm1 O9'
+_cell_volume   209.83906174
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.30030100  0.30749600  0.60060200  1.0
+  Ce  Ce1  1  0.10691200  0.11916200  0.21382400  1.0
+  Ce  Ce2  1  0.89308800  0.90533800  0.78617600  1.0
+  Ce  Ce3  1  0.69969800  0.70689300  0.39939700  1.0
+  Sm  Sm4  1  0.50000000  0.45203400  0.00000000  1.0
+  O  O5  1  0.19640500  0.95603800  0.39280900  1.0
+  O  O6  1  0.58371200  0.84167500  0.16742500  1.0
+  O  O7  1  0.41628700  0.67425000  0.83257400  1.0
+  O  O8  1  0.80359600  0.56322900  0.60719200  1.0
+  O  O9  1  0.60600200  0.35599400  0.21200400  1.0
+  O  O10  1  0.20266900  0.46124700  0.40533800  1.0
+  O  O11  1  0.79733100  0.05590900  0.59466200  1.0
+  O  O12  1  0.39399800  0.14399000  0.78799600  1.0
+  O  O13  1  1.00000000  0.22711800  1.00000000  1.0

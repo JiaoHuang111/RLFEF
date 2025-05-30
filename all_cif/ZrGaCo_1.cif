@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_ZrGaCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.45687890
+_cell_length_b   6.86459875
+_cell_length_c   6.89009285
+_cell_angle_alpha   119.84391785
+_cell_angle_beta   90.13967896
+_cell_angle_gamma   89.95642090
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrGaCo
+_chemical_formula_sum   'Zr3 Ga3 Co3'
+_cell_volume   141.81905455
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.06795186  0.58896577  0.09272204  1
+  Zr  Zr1  1  0.06815700  0.78053498  0.69001627  1
+  Zr  Zr2  1  0.06789836  0.18456171  0.49498338  1
+  Ga  Ga3  1  0.56818706  0.44461310  0.35528567  1
+  Ga  Ga4  1  0.56798595  0.18445808  0.83239627  1
+  Ga  Ga5  1  0.56779242  0.92821980  0.09300416  1
+  Co  Co6  1  0.56800514  0.51825935  0.76091206  1
+  Co  Co7  1  0.06825959  0.18367322  0.09303208  1
+  Co  Co8  1  0.56809372  0.85019922  0.42715979  1

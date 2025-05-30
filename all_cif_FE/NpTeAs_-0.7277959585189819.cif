@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_NpTeAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15897703
+_cell_length_b   4.15190411
+_cell_length_c   8.66818428
+_cell_angle_alpha   90.00388336
+_cell_angle_beta   89.95818329
+_cell_angle_gamma   90.15005493
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NpTeAs
+_chemical_formula_sum   'Np2 Te2 As2'
+_cell_volume   149.67882522
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Np  Np0  1  0.27920869  0.12584475  0.70498991  1
+  Np  Np1  1  0.77863771  0.62554193  0.16071506  1
+  Te  Te2  1  0.27934331  0.12565079  0.06418098  1
+  Te  Te3  1  0.77880955  0.12626977  0.43774021  1
+  As  As4  1  0.27830258  0.62557262  0.43859839  1
+  As  As5  1  0.77925450  0.62578398  0.79432458  1

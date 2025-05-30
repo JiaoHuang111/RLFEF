@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ba(SbRu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55339766
+_cell_length_b   4.52318811
+_cell_length_c   6.81956291
+_cell_angle_alpha   109.62935638
+_cell_angle_beta   109.54985046
+_cell_angle_gamma   90.58784485
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(SbRu)2
+_chemical_formula_sum   'Ba1 Sb2 Ru2'
+_cell_volume   123.46942228
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.78277725  0.89353299  0.47704759  1
+  Sb  Sb1  1  0.42678958  0.53658074  0.76317936  1
+  Sb  Sb2  1  0.14088733  0.25206712  0.19019692  1
+  Ru  Ru3  1  0.03331805  0.64355046  0.97678936  1
+  Ru  Ru4  1  0.53318030  0.14427704  0.97715116  1

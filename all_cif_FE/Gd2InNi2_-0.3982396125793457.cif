@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Gd2InNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.42268944
+_cell_length_b   4.49925947
+_cell_length_c   6.42941475
+_cell_angle_alpha   70.47560120
+_cell_angle_beta   70.03735352
+_cell_angle_gamma   60.88635254
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2InNi2
+_chemical_formula_sum   'Gd2 In1 Ni2'
+_cell_volume   102.83300643
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.67319888  0.36252156  0.11003085  1
+  Gd  Gd1  1  0.46705461  0.15288958  0.72401476  1
+  In  In2  1  0.24668257  0.92846930  0.39476594  1
+  Ni  Ni3  1  0.86803955  0.55418795  0.52502590  1
+  Ni  Ni4  1  0.06804547  0.74997014  0.92818809  1

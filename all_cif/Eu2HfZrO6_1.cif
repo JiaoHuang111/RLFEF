@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Eu2HfZrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14304590
+_cell_length_b   4.13473272
+_cell_length_c   8.39079571
+_cell_angle_alpha   89.92685699
+_cell_angle_beta   90.01261139
+_cell_angle_gamma   90.17012024
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu2HfZrO6
+_chemical_formula_sum   'Eu2 Hf1 Zr1 O6'
+_cell_volume   143.73682755
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.90804166  0.44751674  0.43885404  1
+  Eu  Eu1  1  0.90847009  0.44799310  0.93496990  1
+  Hf  Hf2  1  0.40888810  0.94751906  0.68973410  1
+  Zr  Zr3  1  0.40835467  0.94793272  0.18953642  1
+  O  O4  1  0.90856487  0.94837040  0.68849039  1
+  O  O5  1  0.40835530  0.44772601  0.18907200  1
+  O  O6  1  0.40825832  0.94807410  0.93779171  1
+  O  O7  1  0.40831354  0.94800216  0.43921596  1
+  O  O8  1  0.90878874  0.94775069  0.18912564  1
+  O  O9  1  0.40864223  0.44783285  0.68951035  1

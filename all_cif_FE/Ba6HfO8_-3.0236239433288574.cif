@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ba6HfO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68547392
+_cell_length_b   6.69211435
+_cell_length_c   7.74834538
+_cell_angle_alpha   106.07834625
+_cell_angle_beta   93.54216766
+_cell_angle_gamma   101.50556946
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba6HfO8
+_chemical_formula_sum   'Ba6 Hf1 O8'
+_cell_volume   323.87624207
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.40971449  0.00222416  0.57594609  1
+  Ba  Ba1  1  0.89239639  0.00153559  0.28532603  1
+  Ba  Ba2  1  0.16543233  0.49990582  0.16895607  1
+  Ba  Ba3  1  0.92015857  0.99980819  0.80961072  1
+  Ba  Ba4  1  0.65929639  0.48824245  0.40890199  1
+  Ba  Ba5  1  0.16374084  0.50034255  0.68517733  1
+  Hf  Hf6  1  0.66146779  0.49121413  0.91788822  1
+  O  O7  1  0.77552366  0.27795735  0.07088188  1
+  O  O8  1  0.96852142  0.70176792  0.97792727  1
+  O  O9  1  0.56599367  0.69331050  0.75116438  1
+  O  O10  1  0.34740615  0.28251901  0.87492210  1
+  O  O11  1  0.25957954  0.25022617  0.37522668  1
+  O  O12  1  0.56460583  0.69763231  0.16918451  1
+  O  O13  1  0.76803023  0.26656207  0.64169437  1
+  O  O14  1  0.03525217  0.75921190  0.49087334  1

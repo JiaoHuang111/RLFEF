@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyCoSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.30460835
+_cell_length_b   7.18629980
+_cell_length_c   8.42403030
+_cell_angle_alpha   101.00597382
+_cell_angle_beta   89.94509888
+_cell_angle_gamma   89.90863037
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCoSn
+_chemical_formula_sum   'Dy4 Co4 Sn4'
+_cell_volume   255.79718209
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.10563680  0.04094872  0.99893582  1
+  Dy  Dy1  1  0.60615224  0.67791843  0.17048986  1
+  Dy  Dy2  1  0.60617602  0.17794904  0.67001194  1
+  Dy  Dy3  1  0.10618395  0.54067117  0.49957368  1
+  Co  Co4  1  0.10552768  0.89442825  0.66954303  1
+  Co  Co5  1  0.60594237  0.81916511  0.50097895  1
+  Co  Co6  1  0.60570067  0.31861573  0.00049233  1
+  Co  Co7  1  0.10588221  0.39406201  0.16953416  1
+  Sn  Sn8  1  0.60565203  0.76015520  0.78171206  1
+  Sn  Sn9  1  0.10614137  0.95852274  0.38539419  1
+  Sn  Sn10  1  0.10599634  0.45863730  0.88616198  1
+  Sn  Sn11  1  0.60601068  0.26045436  0.28122166  1

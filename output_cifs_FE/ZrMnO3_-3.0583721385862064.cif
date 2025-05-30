@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ZrMnO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47217268
+_cell_length_b   5.47207556
+_cell_length_c   5.81245827
+_cell_angle_alpha   118.08312895
+_cell_angle_beta   118.07783243
+_cell_angle_gamma   59.99866557
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrMnO3
+_chemical_formula_sum   'Zr2 Mn2 O6'
+_cell_volume   126.52058386
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.20374200  0.20383600  0.61139200  1.0
+  Zr  Zr1  1  0.70385700  0.70394300  0.11171000  1.0
+  Mn  Mn2  1  0.48783500  0.48789400  0.46354000  1.0
+  Mn  Mn3  1  0.98743500  0.98754300  0.96261300  1.0
+  O  O4  1  0.41515500  0.07979900  0.30874800  1.0
+  O  O5  1  0.81391600  0.41519900  0.30874700  1.0
+  O  O6  1  0.91497900  0.31389200  0.80856000  1.0
+  O  O7  1  0.07965500  0.81388300  0.30855400  1.0
+  O  O8  1  0.31393400  0.57960800  0.80879500  1.0
+  O  O9  1  0.57949300  0.91500500  0.80854500  1.0

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ScIr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96264338
+_cell_length_b   3.97593808
+_cell_length_c   3.95620823
+_cell_angle_alpha   90.24245453
+_cell_angle_beta   89.86457062
+_cell_angle_gamma   90.13074493
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScIr3
+_chemical_formula_sum   'Sc1 Ir3'
+_cell_volume   62.33005670
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.55010843  0.32694095  0.86293399  1
+  Ir  Ir1  1  0.55027401  0.82727194  0.36348730  1
+  Ir  Ir2  1  0.05002625  0.32716879  0.36331159  1
+  Ir  Ir3  1  0.05031051  0.82728785  0.86349458  1

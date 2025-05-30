@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_PrCoSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07875681
+_cell_length_b   4.08198643
+_cell_length_c   7.02891779
+_cell_angle_alpha   89.99885559
+_cell_angle_beta   90.06684113
+_cell_angle_gamma   89.95429230
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrCoSi
+_chemical_formula_sum   'Pr2 Co2 Si2'
+_cell_volume   117.02735736
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.11703049  0.29922104  0.10877533  1
+  Pr  Pr1  1  0.61701024  0.29883581  0.60862112  1
+  Co  Co2  1  0.61677349  0.79896170  0.28248817  1
+  Co  Co3  1  0.11686365  0.79920334  0.78167343  1
+  Si  Si4  1  0.11677022  0.79909790  0.44088888  1
+  Si  Si5  1  0.61681956  0.79928225  0.94127417  1

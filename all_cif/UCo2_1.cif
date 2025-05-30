@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_UCo2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.87108183
+_cell_length_b   4.83953714
+_cell_length_c   4.85675383
+_cell_angle_alpha   91.50666046
+_cell_angle_beta   120.04292297
+_cell_angle_gamma   118.10509491
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UCo2
+_chemical_formula_sum   'U2 Co4'
+_cell_volume   82.11012135
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.91815591  0.87915838  0.76752901  1
+  U  U1  1  0.41813183  0.62852716  0.01734557  1
+  Co  Co2  1  0.67058259  0.25444308  0.88884306  1
+  Co  Co3  1  0.16998117  0.25487134  0.38914374  1
+  Co  Co4  1  0.17037520  0.75716466  0.38887838  1
+  Co  Co5  1  0.66991115  0.25530791  0.38935164  1

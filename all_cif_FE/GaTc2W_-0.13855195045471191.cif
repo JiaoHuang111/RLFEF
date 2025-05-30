@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_GaTc2W
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35994911
+_cell_length_b   4.35879326
+_cell_length_c   4.36239004
+_cell_angle_alpha   59.72767639
+_cell_angle_beta   59.67388153
+_cell_angle_gamma   59.88950729
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaTc2W
+_chemical_formula_sum   'Ga1 Tc2 W1'
+_cell_volume   58.30653933
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.62674725  0.85079294  0.55053723  1
+  Tc  Tc1  1  0.87726182  0.10007747  0.80144024  1
+  Tc  Tc2  1  0.37669149  0.60020089  0.30080166  1
+  W  W3  1  0.12669173  0.35084531  0.05038748  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NbCuO3F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.89698553
+_cell_length_b   5.23325205
+_cell_length_c   5.76925993
+_cell_angle_alpha   89.81275177
+_cell_angle_beta   90.80879211
+_cell_angle_gamma   92.40449524
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbCuO3F
+_chemical_formula_sum   'Nb2 Cu2 O6 F2'
+_cell_volume   147.70432202
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.74654591  0.14088753  0.63940871  1
+  Nb  Nb1  1  0.24056704  0.17351773  0.16493286  1
+  Cu  Cu2  1  0.27319208  0.69995391  0.46150929  1
+  Cu  Cu3  1  0.75243807  0.69685608  0.97802120  1
+  O  O4  1  0.53726423  0.85629117  0.70630479  1
+  O  O5  1  0.03964629  0.48247623  0.16615050  1
+  O  O6  1  0.99892545  0.01765817  0.91622585  1
+  O  O7  1  0.02405470  0.01098803  0.41816518  1
+  O  O8  1  0.48416811  0.86884075  0.20421687  1
+  O  O9  1  0.51120424  0.33031628  0.41774073  1
+  F  F10  1  0.00359810  0.49762124  0.66247547  1
+  F  F11  1  0.52744037  0.34796426  0.91829628  1

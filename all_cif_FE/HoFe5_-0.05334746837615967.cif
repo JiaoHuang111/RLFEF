@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_HoFe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89332461
+_cell_length_b   5.04205465
+_cell_length_c   5.03234053
+_cell_angle_alpha   59.47551727
+_cell_angle_beta   90.10462952
+_cell_angle_gamma   90.30911255
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoFe5
+_chemical_formula_sum   'Ho1 Fe5'
+_cell_volume   85.09472578
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.54290318  0.20126812  0.86301148  1
+  Fe  Fe1  1  0.04247168  0.70224649  0.86300129  1
+  Fe  Fe2  1  0.54257554  0.53427470  0.19559933  1
+  Fe  Fe3  1  0.04256256  0.20184183  0.36329389  1
+  Fe  Fe4  1  0.04269015  0.70218509  0.36315814  1
+  Fe  Fe5  1  0.54265934  0.86820322  0.52956140  1

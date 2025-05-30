@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_TaCr3(CuS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.97361524
+_cell_length_b   6.97413596
+_cell_length_c   6.97403904
+_cell_angle_alpha   118.41805204
+_cell_angle_beta   118.41399880
+_cell_angle_gamma   61.58453436
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaCr3(CuS4)2
+_chemical_formula_sum   'Ta1 Cr3 Cu2 S8'
+_cell_volume   248.36155181
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.50003500  0.00003300  0.50002400  1.0
+  Cr  Cr1  1  0.50000400  0.49998900  0.49999800  1.0
+  Cr  Cr2  1  0.49995400  0.00000300  0.99999200  1.0
+  Cr  Cr3  1  0.99993600  0.99997400  0.49995300  1.0
+  Cu  Cu4  1  0.12588400  0.62576500  0.87419500  1.0
+  Cu  Cu5  1  0.87414800  0.37423300  0.12583100  1.0
+  S  S6  1  0.25328200  0.23230400  0.74666700  1.0
+  S  S7  1  0.74668500  0.24669500  0.73236100  1.0
+  S  S8  1  0.26764900  0.24672000  0.25332100  1.0
+  S  S9  1  0.74046200  0.24038200  0.25955600  1.0
+  S  S10  1  0.73234100  0.75329700  0.74666500  1.0
+  S  S11  1  0.25956500  0.75962200  0.74045800  1.0
+  S  S12  1  0.74669300  0.76766100  0.25328800  1.0
+  S  S13  1  0.25336700  0.75332300  0.26769200  1.0

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_SrMg3GeN4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.07387304
+_cell_length_b   5.15038395
+_cell_length_c   6.12196922
+_cell_angle_alpha   114.71866608
+_cell_angle_beta   114.27670288
+_cell_angle_gamma   89.96108246
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrMg3GeN4
+_chemical_formula_sum   'Sr1 Mg3 Ge1 N4'
+_cell_volume   129.60825516
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.26387528  0.37679803  0.72862154  1
+  Mg  Mg1  1  0.53493047  0.65139204  0.25943613  1
+  Mg  Mg2  1  0.03512939  0.64998430  0.26083612  1
+  Mg  Mg3  1  0.53484392  0.15145534  0.26065072  1
+  Ge  Ge4  1  0.79857910  0.91928840  0.79380172  1
+  N  N5  1  0.44381621  0.56337482  0.50831127  1
+  N  N6  1  0.14913225  0.80364954  0.02654241  1
+  N  N7  1  0.85810488  0.97402114  0.50738335  1
+  N  N8  1  0.68090153  0.26196781  0.02668296  1

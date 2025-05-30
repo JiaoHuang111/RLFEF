@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Li2MnWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08996663
+_cell_length_b   5.09016590
+_cell_length_c   5.33634997
+_cell_angle_alpha   90.00919210
+_cell_angle_beta   118.47555370
+_cell_angle_gamma   119.99625934
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2MnWO6
+_chemical_formula_sum   'Li2 Mn1 W1 O6'
+_cell_volume   99.95388512
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.43192250  0.71598700  0.14789400  1.0
+  Li  Li2  1  0.43214700  0.21607150  0.64830500  1.0
+  Mn  Mn4  1  0.99883400  0.99938800  0.99823200  1.0
+  O  O8  1  0.89558600  0.63632400  0.76670300  1.0
+  O  O10  1  0.50737750  0.87102550  0.76667800  1.0
+  O  O12  1  0.13027700  0.25928450  0.76667300  1.0
+  O  O14  1  0.89710550  0.76392950  0.26656900  1.0
+  O  O16  1  0.50262000  0.13320500  0.26646700  1.0
+  O  O18  1  0.13339800  0.36947550  0.26659500  1.0
+  W  W6  1  0.99953200  0.49970950  0.49908200  1.0

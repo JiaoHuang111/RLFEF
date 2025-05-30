@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_YCr2Si2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97310352
+_cell_length_b   3.94689775
+_cell_length_c   5.31853151
+_cell_angle_alpha   89.78591156
+_cell_angle_beta   89.97110748
+_cell_angle_gamma   89.91049194
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YCr2Si2C
+_chemical_formula_sum   'Y1 Cr2 Si2 C1'
+_cell_volume   83.40150302
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.30987099  0.79938185  0.42248413  1
+  Cr  Cr1  1  0.81021249  0.79922694  0.92190838  1
+  Cr  Cr2  1  0.30968508  0.29897881  0.92248219  1
+  Si  Si3  1  0.80980426  0.29933190  0.65190578  1
+  Si  Si4  1  0.80996042  0.29926467  0.19216087  1
+  C  C5  1  0.30987501  0.79941940  0.92207986  1

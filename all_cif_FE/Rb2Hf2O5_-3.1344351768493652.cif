@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Rb2Hf2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.12523890
+_cell_length_b   6.14450550
+_cell_length_c   6.18163252
+_cell_angle_alpha   61.08458328
+_cell_angle_beta   61.35884857
+_cell_angle_gamma   61.37796402
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Hf2O5
+_chemical_formula_sum   'Rb2 Hf2 O5'
+_cell_volume   169.22093427
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.65618068  0.74094796  0.24144515  1
+  Rb  Rb1  1  0.90570253  0.99622935  0.49371728  1
+  Hf  Hf2  1  0.16974579  0.24062480  0.74940467  1
+  Hf  Hf3  1  0.40751004  0.48000142  0.98760420  1
+  O  O4  1  0.79351151  0.25627986  0.88537920  1
+  O  O5  1  0.40220144  0.86321086  0.78102332  1
+  O  O6  1  0.29262158  0.40847790  0.35352352  1
+  O  O7  1  0.29403743  0.14583136  0.06881611  1
+  O  O8  1  0.16010143  0.55534261  0.78559417  1

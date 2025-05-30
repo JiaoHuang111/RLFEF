@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_EuCuO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86257792
+_cell_length_b   3.85877395
+_cell_length_c   3.85769749
+_cell_angle_alpha   89.86344147
+_cell_angle_beta   90.11582947
+_cell_angle_gamma   89.78849030
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuCuO3
+_chemical_formula_sum   'Eu1 Cu1 O3'
+_cell_volume   57.49759386
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.10408439  0.23201814  0.51944035  1
+  Cu  Cu1  1  0.60426873  0.73246711  0.01903612  1
+  O  O2  1  0.10441037  0.73283851  0.01917704  1
+  O  O3  1  0.60425901  0.73216146  0.51933938  1
+  O  O4  1  0.60456955  0.23253128  0.01909481  1

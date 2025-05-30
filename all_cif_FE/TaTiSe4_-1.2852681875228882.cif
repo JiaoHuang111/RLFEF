@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TaTiSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.51065469
+_cell_length_b   6.17017841
+_cell_length_c   6.49516344
+_cell_angle_alpha   107.26745605
+_cell_angle_beta   89.74477386
+_cell_angle_gamma   90.01622009
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaTiSe4
+_chemical_formula_sum   'Ta1 Ti1 Se4'
+_cell_volume   134.35155220
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.54935920  0.49375972  0.79689163  1
+  Ti  Ti1  1  0.04945841  0.99271303  0.79745942  1
+  Se  Se2  1  0.54992557  0.74648589  0.53361624  1
+  Se  Se3  1  0.04996988  0.24831136  0.54561609  1
+  Se  Se4  1  0.54977107  0.24290432  0.05570168  1
+  Se  Se5  1  0.04961070  0.74471551  0.05480208  1

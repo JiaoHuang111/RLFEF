@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_GdTlTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50852823
+_cell_length_b   4.52696609
+_cell_length_c   8.47194386
+_cell_angle_alpha   74.38078308
+_cell_angle_beta   74.43292236
+_cell_angle_gamma   59.80355453
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdTlTe2
+_chemical_formula_sum   'Gd1 Tl1 Te2'
+_cell_volume   142.08242939
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.80509204  0.03690682  0.38310209  1
+  Tl  Tl1  1  0.30533135  0.53672534  0.88309628  1
+  Te  Te2  1  0.54353684  0.77450007  0.17017880  1
+  Te  Te3  1  0.06687502  0.29856834  0.60132200  1

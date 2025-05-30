@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CsGeI3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98862791
+_cell_length_b   6.25770611
+_cell_length_c   6.25770611
+_cell_angle_alpha   87.68564483
+_cell_angle_beta   88.57680362
+_cell_angle_gamma   91.42319638
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsGeI3
+_chemical_formula_sum   'Cs1 Ge1 I3'
+_cell_volume   234.16603564
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.58376000  0.91534800  0.08465200  1.0
+  Ge  Ge1  1  0.11646900  0.37095300  0.62904700  1.0
+  I  I2  1  0.59201100  0.42979800  0.57020200  1.0
+  I  I3  1  0.09788000  0.92880400  0.62090300  1.0
+  I  I4  1  0.09788000  0.37909700  0.07119600  1.0

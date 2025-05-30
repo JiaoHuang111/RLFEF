@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Al3Pd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.24997234
+_cell_length_b   4.23341608
+_cell_length_c   5.28828001
+_cell_angle_alpha   89.74421692
+_cell_angle_beta   89.86952209
+_cell_angle_gamma   120.70403290
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al3Pd2
+_chemical_formula_sum   'Al3 Pd2'
+_cell_volume   81.80630291
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.01596148  0.36714056  0.67335761  1
+  Al  Al1  1  0.68213075  0.70039374  0.02314879  1
+  Al  Al2  1  0.34977248  0.03367724  0.36724824  1
+  Pd  Pd3  1  0.34976900  0.03405548  0.85987204  1
+  Pd  Pd4  1  0.01616034  0.36762744  0.19219129  1

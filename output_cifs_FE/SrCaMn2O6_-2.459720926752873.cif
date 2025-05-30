@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SrCaMn2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38068607
+_cell_length_b   5.38151907
+_cell_length_c   5.43448589
+_cell_angle_alpha   119.66735578
+_cell_angle_beta   119.66272571
+_cell_angle_gamma   90.01855875
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCaMn2O6
+_chemical_formula_sum   'Sr1 Ca1 Mn2 O6'
+_cell_volume   112.37181563
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca2  1  0.75005600  0.25005600  0.50011200  1.0
+  Mn  Mn4  1  0.49998950  0.49999100  0.99998200  1.0
+  Mn  Mn5  1  0.00000200  0.00000150  0.00000300  1.0
+  O  O8  1  0.24999200  0.24999100  0.49998400  1.0
+  O  O10  1  0.74999300  0.74999300  0.49998400  1.0
+  O  O12  1  0.30873400  0.80872550  0.02172800  1.0
+  O  O14  1  0.71299450  0.21300250  0.02172800  1.0
+  O  O16  1  0.19124850  0.28704150  0.97829700  1.0
+  O  O18  1  0.78704800  0.69125450  0.97829500  1.0
+  Sr  Sr0  1  0.24994450  0.74994450  0.49988900  1.0

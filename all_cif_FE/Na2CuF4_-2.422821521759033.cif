@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Na2CuF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.65834546
+_cell_length_b   5.03964901
+_cell_length_c   10.93444729
+_cell_angle_alpha   89.92766571
+_cell_angle_beta   89.85395813
+_cell_angle_gamma   90.22338104
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2CuF4
+_chemical_formula_sum   'Na4 Cu2 F8'
+_cell_volume   201.59361693
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.23172861  0.97201633  0.71787500  1
+  Na  Na1  1  0.73247170  0.47852701  0.51445091  1
+  Na  Na2  1  0.23250650  0.97507811  0.01404343  1
+  Na  Na3  1  0.73247647  0.47024304  0.21821775  1
+  Cu  Cu4  1  0.73188394  0.42562553  0.87336975  1
+  Cu  Cu5  1  0.23176068  0.92490900  0.37274647  1
+  F  F6  1  0.23165718  0.26738998  0.35975128  1
+  F  F7  1  0.73172736  0.23664589  0.04456792  1
+  F  F8  1  0.73194396  0.76667452  0.86025876  1
+  F  F9  1  0.73173350  0.21441796  0.66521132  1
+  F  F10  1  0.23178807  0.71324778  0.16545035  1
+  F  F11  1  0.73173451  0.80050349  0.35994735  1
+  F  F12  1  0.23183462  0.30101696  0.85994774  1
+  F  F13  1  0.23137864  0.73467511  0.54413563  1

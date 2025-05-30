@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CuNi3(SnS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.08155242
+_cell_length_b   7.08155242
+_cell_length_c   7.08155242
+_cell_angle_alpha   89.02923179
+_cell_angle_beta   60.28812298
+_cell_angle_gamma   119.17107998
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuNi3(SnS4)2
+_chemical_formula_sum   'Cu1 Ni3 Sn2 S8'
+_cell_volume   253.18737907
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.50000000  0.24342500  0.25657500  1.0
+  Ni  Ni1  1  1.00000000  0.00528900  0.99471100  1.0
+  Ni  Ni2  1  0.24972600  0.62565100  0.12462300  1.0
+  Ni  Ni3  1  0.75027400  0.62565000  0.62407500  1.0
+  Sn  Sn4  1  0.24979500  0.62467000  0.62512500  1.0
+  Sn  Sn5  1  0.75020500  0.12508000  0.62512400  1.0
+  S  S6  1  0.75950800  0.85995700  0.38053500  1.0
+  S  S7  1  0.24049200  0.85995700  0.89955100  1.0
+  S  S8  1  0.72875200  0.84686300  0.88188900  1.0
+  S  S9  1  0.27124800  0.38935900  0.88188900  1.0
+  S  S10  1  0.74534400  0.39269700  0.86195900  1.0
+  S  S11  1  0.25465600  0.39269600  0.35264700  1.0
+  S  S12  1  0.77740500  0.40675700  0.37064800  1.0
+  S  S13  1  0.22259500  0.85194700  0.37064800  1.0

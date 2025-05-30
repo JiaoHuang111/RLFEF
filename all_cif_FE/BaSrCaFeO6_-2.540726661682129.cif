@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaSrCaFeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84705257
+_cell_length_b   5.87780619
+_cell_length_c   5.87215137
+_cell_angle_alpha   120.37535858
+_cell_angle_beta   89.96899414
+_cell_angle_gamma   120.06851196
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrCaFeO6
+_chemical_formula_sum   'Ba1 Sr1 Ca1 Fe1 O6'
+_cell_volume   141.77900198
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.80580842  0.71416157  0.41493955  1
+  Sr  Sr1  1  0.30746841  0.71454018  0.91527992  1
+  Ca  Ca2  1  0.55640894  0.21358030  0.66471976  1
+  Fe  Fe3  1  0.05651692  0.21366802  0.16451572  1
+  O  O4  1  0.87056023  0.21160673  0.89244545  1
+  O  O5  1  0.77824789  0.20964764  0.34969941  1
+  O  O6  1  0.29280493  0.68843961  0.40784407  1
+  O  O7  1  0.81599212  0.74495691  0.92201477  1
+  O  O8  1  0.34393272  0.21601054  0.98174459  1
+  O  O9  1  0.24158233  0.21602580  0.44256020  1

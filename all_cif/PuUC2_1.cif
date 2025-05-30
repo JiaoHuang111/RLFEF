@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_PuUC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.55998564
+_cell_length_b   3.56767321
+_cell_length_c   6.07754707
+_cell_angle_alpha   73.16963959
+_cell_angle_beta   73.17857361
+_cell_angle_gamma   60.11921310
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuUC2
+_chemical_formula_sum   'Pu1 U1 C2'
+_cell_volume   63.07465921
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.07577201  0.99256295  0.97661823  1
+  U  U1  1  0.57598799  0.49316466  0.47516653  1
+  C  C2  1  0.83161438  0.74642074  0.71285361  1
+  C  C3  1  0.31988451  0.24036662  0.23637819  1

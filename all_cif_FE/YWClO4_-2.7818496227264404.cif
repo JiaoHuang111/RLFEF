@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_YWClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.97747946
+_cell_length_b   6.01810741
+_cell_length_c   6.30570316
+_cell_angle_alpha   87.17167664
+_cell_angle_beta   87.15221405
+_cell_angle_gamma   78.33051300
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YWClO4
+_chemical_formula_sum   'Y2 W2 Cl2 O8'
+_cell_volume   221.69377764
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.60935605  0.60830545  0.94835842  1
+  Y  Y1  1  0.05665796  0.05994040  0.87703401  1
+  W  W2  1  0.37389925  0.87096423  0.40969741  1
+  W  W3  1  0.78887546  0.29690373  0.41000772  1
+  Cl  Cl4  1  0.31436631  0.35836378  0.89445591  1
+  Cl  Cl5  1  0.11077444  0.57301015  0.40499675  1
+  O  O6  1  0.56273443  0.10608167  0.40688553  1
+  O  O7  1  0.61176974  0.60676140  0.34271839  1
+  O  O8  1  0.83393234  0.29461285  0.11378409  1
+  O  O9  1  0.83853626  0.83217829  0.90595543  1
+  O  O10  1  0.33153158  0.88493145  0.11777382  1
+  O  O11  1  0.06481413  0.07039765  0.47313178  1
+  O  O12  1  0.37664056  0.83623576  0.69882858  1
+  O  O13  1  0.78679001  0.34129751  0.69846183  1

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ba3ZnN2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48633957
+_cell_length_b   5.50981379
+_cell_length_c   6.67829752
+_cell_angle_alpha   114.50960541
+_cell_angle_beta   114.45236969
+_cell_angle_gamma   89.84351349
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3ZnN2O
+_chemical_formula_sum   'Ba3 Zn1 N2 O1'
+_cell_volume   163.69293470
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.53956050  0.19445784  0.88171422  1
+  Ba  Ba1  1  0.04080353  0.69843060  0.88571256  1
+  Ba  Ba2  1  0.28538907  0.43622079  0.36446372  1
+  Zn  Zn3  1  0.80590594  0.95907032  0.41410330  1
+  N  N4  1  0.01082498  0.16876224  0.83021820  1
+  N  N5  1  0.29385218  0.94483399  0.38378572  1
+  O  O6  1  0.79398900  0.44840994  0.38538462  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SrLa(FeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49124261
+_cell_length_b   5.52726092
+_cell_length_c   5.54964383
+_cell_angle_alpha   119.51311161
+_cell_angle_beta   90.02431510
+_cell_angle_gamma   119.17365111
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLa(FeO3)2
+_chemical_formula_sum   'Sr1 La1 Fe2 O6'
+_cell_volume   121.40593090
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe4  1  0.49987450  0.99930900  0.49930650  1.0
+  Fe  Fe5  1  0.99989550  0.00034800  0.99946300  1.0
+  La  La2  1  0.75168750  0.50189500  0.24927300  1.0
+  O  O8  1  0.70039250  0.95330000  0.74369900  1.0
+  O  O10  1  0.79055600  0.04653200  0.30065150  1.0
+  O  O12  1  0.24375500  0.48719300  0.19885350  1.0
+  O  O14  1  0.19375750  0.93871100  0.68421100  1.0
+  O  O16  1  0.75655750  0.51274100  0.81984550  1.0
+  O  O18  1  0.31470550  0.06147000  0.25641600  1.0
+  Sr  Sr0  1  0.24882000  0.49850300  0.74828150  1.0

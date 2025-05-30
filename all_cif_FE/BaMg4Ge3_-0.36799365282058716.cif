@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_BaMg4Ge3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43964195
+_cell_length_b   6.01579666
+_cell_length_c   7.62457991
+_cell_angle_alpha   98.78488922
+_cell_angle_beta   90.03326416
+_cell_angle_gamma   90.16336060
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMg4Ge3
+_chemical_formula_sum   'Ba1 Mg4 Ge3'
+_cell_volume   201.24729832
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.17298721  0.68082458  0.58463502  1
+  Mg  Mg1  1  0.67434400  0.83450192  0.18642257  1
+  Mg  Mg2  1  0.17382966  0.47781593  0.01060983  1
+  Mg  Mg3  1  0.17382771  0.18389019  0.32011932  1
+  Mg  Mg4  1  0.67310965  0.11997850  0.86579072  1
+  Ge  Ge5  1  0.67373508  0.15570113  0.52184564  1
+  Ge  Ge6  1  0.67380911  0.42511794  0.22347619  1
+  Ge  Ge7  1  0.17419739  0.94998771  0.99585569  1

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Sr2Cu(OF)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86840105
+_cell_length_b   3.87571669
+_cell_length_c   7.17179775
+_cell_angle_alpha   105.31098175
+_cell_angle_beta   105.50022888
+_cell_angle_gamma   90.05510712
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Cu(OF)2
+_chemical_formula_sum   'Sr2 Cu1 O2 F2'
+_cell_volume   99.64073401
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.09964778  0.63416475  0.72342914  1
+  Sr  Sr1  1  0.83178240  0.36675802  0.18526933  1
+  Cu  Cu2  1  0.46497050  0.00104856  0.45372298  1
+  O  O3  1  0.96408689  0.99902290  0.44826251  1
+  O  O4  1  0.46397942  0.49904120  0.44863394  1
+  F  F5  1  0.28392598  0.81960988  0.08510594  1
+  F  F6  1  0.64646453  0.18445446  0.81750685  1

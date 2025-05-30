@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiDy2Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.94353628
+_cell_length_b   4.94506121
+_cell_length_c   4.94036150
+_cell_angle_alpha   59.66935730
+_cell_angle_beta   59.72653198
+_cell_angle_gamma   59.88008881
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiDy2Rh
+_chemical_formula_sum   'Li1 Dy2 Rh1'
+_cell_volume   84.93045730
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.75047833  0.51038682  0.15209474  1
+  Dy  Dy1  1  0.00018240  0.76128978  0.40183473  1
+  Dy  Dy2  1  0.50015831  0.26053607  0.90162182  1
+  Rh  Rh3  1  0.25041786  0.01071218  0.65173978  1

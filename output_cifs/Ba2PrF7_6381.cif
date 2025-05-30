@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2PrF7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.39560400
+_cell_length_b   4.41989216
+_cell_length_c   9.81381450
+_cell_angle_alpha   79.15149208
+_cell_angle_beta   78.69064727
+_cell_angle_gamma   88.91932672
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2PrF7
+_chemical_formula_sum   'Ba2 Pr1 F7'
+_cell_volume   183.58796397
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00269500  0.01281800  0.99261600  1.0
+  Ba  Ba1  1  0.34830000  0.36693100  0.31757800  1.0
+  Pr  Pr2  1  0.60017200  0.59703500  0.67530400  1.0
+  F  F3  1  0.78420800  0.33605600  0.48658400  1.0
+  F  F4  1  0.41868400  0.93151500  0.16154800  1.0
+  F  F5  1  0.91490000  0.43758100  0.15768300  1.0
+  F  F6  1  0.47651000  0.49511600  0.92877200  1.0
+  F  F7  1  0.57069100  0.05763300  0.76393700  1.0
+  F  F8  1  0.06604000  0.49583700  0.76140400  1.0
+  F  F9  1  0.31113300  0.80281000  0.49790700  1.0

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_AgNO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12205267
+_cell_length_b   5.43102360
+_cell_length_c   5.67310953
+_cell_angle_alpha   85.07168579
+_cell_angle_beta   74.31707764
+_cell_angle_gamma   75.79763794
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgNO2
+_chemical_formula_sum   'Ag2 N2 O4'
+_cell_volume   118.51222188
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.27061343  0.76480764  0.07867712  1
+  Ag  Ag1  1  0.77092189  0.26558930  0.57816815  1
+  N  N2  1  0.27215341  0.76578051  0.58080119  1
+  N  N3  1  0.77241594  0.26552364  0.08059192  1
+  O  O4  1  0.61658216  0.09021255  0.07304376  1
+  O  O5  1  0.44361377  0.94050974  0.58119142  1
+  O  O6  1  0.94324577  0.44010794  0.08245052  1
+  O  O7  1  0.11650228  0.59107018  0.57255834  1

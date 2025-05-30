@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CaLaGaCuO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51431370
+_cell_length_b   5.49395084
+_cell_length_c   7.53970003
+_cell_angle_alpha   89.97966003
+_cell_angle_beta   90.06861115
+_cell_angle_gamma   89.85002136
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaLaGaCuO5
+_chemical_formula_sum   'Ca2 La2 Ga2 Cu2 O10'
+_cell_volume   228.41702905
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.25717115  0.35152724  0.85022676  1
+  Ca  Ca1  1  0.75720060  0.85092473  0.35057259  1
+  La  La2  1  0.75696224  0.85098130  0.85062861  1
+  La  La3  1  0.25685874  0.35112858  0.35098851  1
+  Ga  Ga4  1  0.75759882  0.35128236  0.09782787  1
+  Ga  Ga5  1  0.75759846  0.35089162  0.60806823  1
+  Cu  Cu6  1  0.25740725  0.85065836  0.59949869  1
+  Cu  Cu7  1  0.25725919  0.85149431  0.09785163  1
+  O  O8  1  0.75721484  0.35203224  0.85163093  1
+  O  O9  1  0.25779739  0.85251975  0.85318774  1
+  O  O10  1  0.00283697  0.60094374  0.56826574  1
+  O  O11  1  0.51200145  0.10168247  0.56836617  1
+  O  O12  1  0.00265892  0.10058802  0.56821281  1
+  O  O13  1  0.51175541  0.60040534  0.56799084  1
+  O  O14  1  0.51374495  0.60089827  0.13132140  1
+  O  O15  1  0.00439183  0.60065091  0.13095720  1
+  O  O16  1  0.51248395  0.10199817  0.13134387  1
+  O  O17  1  0.00358376  0.10167518  0.13150035  1

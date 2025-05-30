@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_SnRh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95826602
+_cell_length_b   3.95351744
+_cell_length_c   3.98285007
+_cell_angle_alpha   89.93627930
+_cell_angle_beta   89.85904694
+_cell_angle_gamma   89.95645905
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnRh3
+_chemical_formula_sum   'Sn1 Rh3'
+_cell_volume   62.32766945
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.22929458  0.24099621  0.08916314  1
+  Rh  Rh1  1  0.72842455  0.24109754  0.58948725  1
+  Rh  Rh2  1  0.22859974  0.74066424  0.58899432  1
+  Rh  Rh3  1  0.72852659  0.74112010  0.08956187  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SiGeN2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03395739
+_cell_length_b   5.37828227
+_cell_length_c   5.37828227
+_cell_angle_alpha   63.78731340
+_cell_angle_beta   90.24906956
+_cell_angle_gamma   89.75093044
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiGeN2O
+_chemical_formula_sum   'Si2 Ge2 N4 O2'
+_cell_volume   130.63279081
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.40830300  0.33167200  0.01646700  1.0
+  Si  Si1  1  0.40830300  0.98353300  0.66832800  1.0
+  Ge  Ge2  1  0.91334700  0.03278100  0.32459700  1.0
+  Ge  Ge3  1  0.91334700  0.67540300  0.96721900  1.0
+  N  N4  1  0.74762000  0.93928800  0.65778700  1.0
+  N  N5  1  0.74762000  0.34221300  0.06071200  1.0
+  N  N6  1  0.26766400  0.11735200  0.33715900  1.0
+  N  N7  1  0.26766400  0.66284100  0.88264800  1.0
+  O  O8  1  0.86059100  0.74023700  0.25976300  1.0
+  O  O9  1  0.33354000  0.19397900  0.80602100  1.0

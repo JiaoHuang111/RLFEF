@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2NdCuBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.91685057
+_cell_length_b   7.92402363
+_cell_length_c   7.91877365
+_cell_angle_alpha   59.88048553
+_cell_angle_beta   59.70914459
+_cell_angle_gamma   60.03134537
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2NdCuBr6
+_chemical_formula_sum   'Rb2 Nd1 Cu1 Br6'
+_cell_volume   350.25749693
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.73060936  0.09712066  0.84085661  1
+  Rb  Rb1  1  0.22973903  0.59850019  0.34157667  1
+  Nd  Nd2  1  0.98136085  0.34797716  0.09069121  1
+  Cu  Cu3  1  0.48180115  0.84818411  0.59053403  1
+  Br  Br4  1  0.72264713  0.60824883  0.34895906  1
+  Br  Br5  1  0.23938720  0.60793537  0.83231121  1
+  Br  Br6  1  0.72205079  0.60790032  0.83266586  1
+  Br  Br7  1  0.72243387  0.08915793  0.34908786  1
+  Br  Br8  1  0.23879805  0.08916059  0.34849185  1
+  Br  Br9  1  0.23917991  0.08888202  0.83172739  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_BaSrY(CuO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84031500
+_cell_length_b   3.89408400
+_cell_length_c   13.76317166
+_cell_angle_alpha   98.13277521
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrY(CuO2)4
+_chemical_formula_sum   'Ba1 Sr1 Y1 Cu4 O8'
+_cell_volume   203.75150899
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.36353500  0.72707000  1.0
+  Sr  Sr1  1  0.50000000  0.63467800  0.26935600  1.0
+  Y  Y2  1  0.50000000  0.50085500  0.00171000  1.0
+  Cu  Cu3  1  0.00000000  0.78671500  0.57343000  1.0
+  Cu  Cu4  1  1.00000000  0.21106100  0.42212200  1.0
+  Cu  Cu5  1  0.00000000  0.93838200  0.87676400  1.0
+  Cu  Cu6  1  1.00000000  0.06339300  0.12678600  1.0
+  O  O7  1  1.00000000  0.85483000  0.70966000  1.0
+  O  O8  1  1.00000000  0.14324200  0.28648400  1.0
+  O  O9  1  1.00000000  0.44829700  0.89659400  1.0
+  O  O10  1  1.00000000  0.55503400  0.11006800  1.0
+  O  O11  1  0.50000000  0.94853600  0.89707200  1.0
+  O  O12  1  0.50000000  0.05420300  0.10840600  1.0
+  O  O13  1  1.00000000  0.28056400  0.56112800  1.0
+  O  O14  1  1.00000000  0.71667500  0.43335000  1.0

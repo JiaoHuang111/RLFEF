@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr2VMoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71025753
+_cell_length_b   5.70658207
+_cell_length_c   5.68471575
+_cell_angle_alpha   59.90290833
+_cell_angle_beta   59.92512131
+_cell_angle_gamma   59.94678116
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2VMoO6
+_chemical_formula_sum   'Sr2 V1 Mo1 O6'
+_cell_volume   130.76312794
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.92078149  0.63771605  0.80325347  1
+  Sr  Sr1  1  0.42096475  0.13661259  0.30333179  1
+  V  V2  1  0.17092216  0.88783967  0.05312308  1
+  Mo  Mo3  1  0.67115074  0.38798398  0.55329084  1
+  O  O4  1  0.41475454  0.64424914  0.29768205  1
+  O  O5  1  0.41455927  0.64411765  0.80750775  1
+  O  O6  1  0.92591006  0.13266934  0.80703229  1
+  O  O7  1  0.92517805  0.64373547  0.29757020  1
+  O  O8  1  0.92597938  0.13300009  0.29756615  1
+  O  O9  1  0.41441262  0.13321210  0.80781722  1

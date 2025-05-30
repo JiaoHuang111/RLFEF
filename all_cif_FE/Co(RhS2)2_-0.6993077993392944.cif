@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Co(RhS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65715313
+_cell_length_b   5.70310736
+_cell_length_c   6.37992620
+_cell_angle_alpha   90.24043274
+_cell_angle_beta   89.98868561
+_cell_angle_gamma   90.14974213
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co(RhS2)2
+_chemical_formula_sum   'Co2 Rh4 S8'
+_cell_volume   205.83528366
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.54766870  0.64664370  0.17447394  1
+  Co  Co1  1  0.54713398  0.14670858  0.67485446  1
+  Rh  Rh2  1  0.04799108  0.64662319  0.92548674  1
+  Rh  Rh3  1  0.04717246  0.14649819  0.92635429  1
+  Rh  Rh4  1  0.04705678  0.14701188  0.42315274  1
+  Rh  Rh5  1  0.54776484  0.64720905  0.67397964  1
+  S  S6  1  0.40260068  0.89370698  0.92598099  1
+  S  S7  1  0.69602406  0.39425641  0.42586032  1
+  S  S8  1  0.69721490  0.39719933  0.92636716  1
+  S  S9  1  0.40684968  0.89863354  0.42593116  1
+  S  S10  1  0.89245200  0.89133680  0.17500836  1
+  S  S11  1  0.21021248  0.38903126  0.67480338  1
+  S  S12  1  0.88536203  0.89877433  0.67446923  1
+  S  S13  1  0.20594914  0.39872393  0.17488195  1

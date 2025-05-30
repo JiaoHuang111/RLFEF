@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CaAgGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.65165901
+_cell_length_b   5.90623856
+_cell_length_c   5.95475054
+_cell_angle_alpha   77.78629303
+_cell_angle_beta   66.75302887
+_cell_angle_gamma   66.53813171
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaAgGe
+_chemical_formula_sum   'Ca2 Ag2 Ge2'
+_cell_volume   137.60223355
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.52349347  0.99220890  0.32033455  1
+  Ca  Ca1  1  0.61439550  0.40146416  0.73067147  1
+  Ag  Ag2  1  0.90421045  0.41426685  0.13421983  1
+  Ag  Ag3  1  0.90640289  0.81315529  0.73310173  1
+  Ge  Ge4  1  0.23173632  0.97383231  0.92641795  1
+  Ge  Ge5  1  0.23242132  0.59953785  0.30321085  1

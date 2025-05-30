@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Lu2Ga8Fe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.24546051
+_cell_length_b   4.22689104
+_cell_length_c   10.96466351
+_cell_angle_alpha   89.84905243
+_cell_angle_beta   89.94438934
+_cell_angle_gamma   90.07743835
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Ga8Fe
+_chemical_formula_sum   'Lu2 Ga8 Fe1'
+_cell_volume   196.76101614
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.75209409  0.59662032  0.84710330  1
+  Lu  Lu1  1  0.25295329  0.09612633  0.23375612  1
+  Ga  Ga2  1  0.25246373  0.59688413  0.65878916  1
+  Ga  Ga3  1  0.75278461  0.09672297  0.42467675  1
+  Ga  Ga4  1  0.75206280  0.09661120  0.65959972  1
+  Ga  Ga5  1  0.75225830  0.59641504  0.23413266  1
+  Ga  Ga6  1  0.25164300  0.09656905  0.84572208  1
+  Ga  Ga7  1  0.25189650  0.59648609  0.04014360  1
+  Ga  Ga8  1  0.25251183  0.59697932  0.42077488  1
+  Ga  Ga9  1  0.75227159  0.09633049  0.03991688  1
+  Fe  Fe10  1  0.75259542  0.59697044  0.53755188  1

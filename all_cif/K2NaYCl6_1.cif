@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2NaYCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.59144449
+_cell_length_b   7.60832739
+_cell_length_c   7.57769680
+_cell_angle_alpha   59.66968536
+_cell_angle_beta   59.68674088
+_cell_angle_gamma   59.88901138
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaYCl6
+_chemical_formula_sum   'K2 Na1 Y1 Cl6'
+_cell_volume   307.71187440
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.46571794  0.07467270  0.92531884  1
+  K  K1  1  0.96565831  0.57533926  0.42468038  1
+  Na  Na2  1  0.21525005  0.82491797  0.67486054  1
+  Y  Y3  1  0.71485704  0.32465699  0.17498390  1
+  Cl  Cl4  1  0.46993810  0.57115376  0.92954838  1
+  Cl  Cl5  1  0.96027845  0.57023966  0.92942935  1
+  Cl  Cl6  1  0.47007003  0.08101302  0.41877106  1
+  Cl  Cl7  1  0.96060532  0.08008870  0.41904071  1
+  Cl  Cl8  1  0.47013792  0.57165569  0.41869605  1
+  Cl  Cl9  1  0.96040624  0.08145127  0.92950946  1

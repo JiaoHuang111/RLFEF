@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2CeAgBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.10755157
+_cell_length_b   8.11351299
+_cell_length_c   8.10695457
+_cell_angle_alpha   59.86734009
+_cell_angle_beta   59.88961792
+_cell_angle_gamma   59.95226288
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2CeAgBr6
+_chemical_formula_sum   'Rb2 Ce1 Ag1 Br6'
+_cell_volume   376.25723674
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.49841395  0.52195334  0.17965661  1
+  Rb  Rb1  1  0.99832362  0.02133993  0.67871004  1
+  Ce  Ce2  1  0.74868464  0.77155370  0.42949677  1
+  Ag  Ag3  1  0.24849722  0.27153313  0.92900479  1
+  Br  Br4  1  0.49721110  0.02326327  0.17820497  1
+  Br  Br5  1  0.00070021  0.52001441  0.17742819  1
+  Br  Br6  1  0.49739289  0.52016896  0.68071139  1
+  Br  Br7  1  0.49714258  0.02318933  0.68039507  1
+  Br  Br8  1  0.00036904  0.02316119  0.17782857  1
+  Br  Br9  1  0.00087821  0.52020919  0.68051690  1

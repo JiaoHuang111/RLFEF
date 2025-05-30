@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BaEu2CoO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87743139
+_cell_length_b   3.93807101
+_cell_length_c   9.72278690
+_cell_angle_alpha   101.98905945
+_cell_angle_beta   101.70407867
+_cell_angle_gamma   90.05097198
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaEu2CoO5
+_chemical_formula_sum   'Ba1 Eu2 Co1 O5'
+_cell_volume   142.06167439
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.21055429  0.38792405  0.11978153  1
+  Eu  Eu1  1  0.55383748  0.23068756  0.80971634  1
+  Eu  Eu2  1  0.93726516  0.61299950  0.57504386  1
+  Co  Co3  1  0.79323292  0.97162014  0.28845212  1
+  O  O4  1  0.31763229  0.99284697  0.33209848  1
+  O  O5  1  0.97206557  0.15172443  0.64540559  1
+  O  O6  1  0.68598795  0.86522454  0.07012960  1
+  O  O7  1  0.81694973  0.49234343  0.32926831  1
+  O  O8  1  0.07186090  0.74584174  0.83341634  1

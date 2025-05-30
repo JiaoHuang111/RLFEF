@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2LiReO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79547119
+_cell_length_b   5.86777735
+_cell_length_c   5.98968697
+_cell_angle_alpha   108.90406036
+_cell_angle_beta   89.58676147
+_cell_angle_gamma   120.06297302
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2LiReO6
+_chemical_formula_sum   'Ba2 Li1 Re1 O6'
+_cell_volume   163.75981739
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.61833090  0.09697834  0.01157385  1
+  Ba  Ba1  1  0.61915934  0.09801547  0.51332086  1
+  Li  Li2  1  0.95205337  0.75142872  0.76341432  1
+  Re  Re3  1  0.28542534  0.44277230  0.26284394  1
+  O  O4  1  0.58500797  0.59110051  0.05140610  1
+  O  O5  1  0.11358751  0.11492986  0.01500580  1
+  O  O6  1  0.58685958  0.59105331  0.50411719  1
+  O  O7  1  0.13721178  0.13381341  0.48391953  1
+  O  O8  1  0.12356964  0.59250265  0.50196087  1
+  O  O9  1  0.12499970  0.59116828  0.04974951  1

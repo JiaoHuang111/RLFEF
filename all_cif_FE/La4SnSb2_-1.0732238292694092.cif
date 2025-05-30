@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_La4SnSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.43744469
+_cell_length_b   8.43991852
+_cell_length_c   8.43484211
+_cell_angle_alpha   71.88143158
+_cell_angle_beta   70.00845337
+_cell_angle_gamma   110.87965393
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4SnSb2
+_chemical_formula_sum   'La8 Sn2 Sb4'
+_cell_volume   458.86151482
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.90866619  0.46386591  0.39603335  1
+  La  La1  1  0.55137450  0.82018781  0.89514291  1
+  La  La2  1  0.05143808  0.81985700  0.89732516  1
+  La  La3  1  0.90811265  0.96514469  0.39564067  1
+  La  La4  1  0.27097887  0.67940694  0.53713465  1
+  La  La5  1  0.40782464  0.32153127  0.25311056  1
+  La  La6  1  0.77185941  0.18334009  0.03633509  1
+  La  La7  1  0.40797633  0.32010272  0.75092655  1
+  Sn  Sn8  1  0.78381807  0.57127070  0.76629663  1
+  Sn  Sn9  1  0.28388545  0.94760293  0.14551629  1
+  Sb  Sb10  1  0.15998155  0.45122632  0.01899881  1
+  Sb  Sb11  1  0.03290650  0.20123059  0.64597142  1
+  Sb  Sb12  1  0.66083288  0.70085967  0.26699999  1
+  Sb  Sb13  1  0.53268290  0.07242940  0.51864171  1

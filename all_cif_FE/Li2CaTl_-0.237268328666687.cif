@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Li2CaTl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05297995
+_cell_length_b   5.05340815
+_cell_length_c   5.03847456
+_cell_angle_alpha   59.67627716
+_cell_angle_beta   59.81559372
+_cell_angle_gamma   60.02452469
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CaTl
+_chemical_formula_sum   'Li2 Ca1 Tl1'
+_cell_volume   90.63919834
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.56608313  0.87217587  0.00116575  1
+  Li  Li1  1  0.06617141  0.37179899  0.50097120  1
+  Ca  Ca2  1  0.81646568  0.12264112  0.24976040  1
+  Tl  Tl3  1  0.31642920  0.62254864  0.75094283  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CsCoCuF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.25942421
+_cell_length_b   7.33239603
+_cell_length_c   7.35620165
+_cell_angle_alpha   60.97831345
+_cell_angle_beta   60.42018509
+_cell_angle_gamma   60.28323746
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsCoCuF6
+_chemical_formula_sum   'Cs2 Co2 Cu2 F12'
+_cell_volume   280.36041042
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.37167782  0.48050970  0.40382415  1
+  Cs  Cs1  1  0.12540238  0.23019266  0.15174511  1
+  Co  Co2  1  0.74396110  0.85694349  0.77967405  1
+  Co  Co3  1  0.74442554  0.85621339  0.27951720  1
+  Cu  Cu4  1  0.74377096  0.35642901  0.77930969  1
+  Cu  Cu5  1  0.24388158  0.85766238  0.77893412  1
+  F  F6  1  0.06069274  0.17402977  0.71402645  1
+  F  F7  1  0.81212467  0.54545140  0.45898926  1
+  F  F8  1  0.67696732  0.17326444  0.71396500  1
+  F  F9  1  0.42903668  0.92635560  0.45912993  1
+  F  F10  1  0.05975723  0.79017496  0.10177054  1
+  F  F11  1  0.42979741  0.92567408  0.84937900  1
+  F  F12  1  0.67955482  0.16760038  0.10069189  1
+  F  F13  1  0.06022158  0.79017466  0.71397114  1
+  F  F14  1  0.67809260  0.78941637  0.10119015  1
+  F  F15  1  0.81420523  0.53928357  0.84918255  1
+  F  F16  1  0.81410533  0.92508692  0.45943585  1
+  F  F17  1  0.43056312  0.53859019  0.84998477  1

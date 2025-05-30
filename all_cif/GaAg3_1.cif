@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_GaAg3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.48675156
+_cell_length_b   5.82106113
+_cell_length_c   5.75392628
+_cell_angle_alpha   90.10885620
+_cell_angle_beta   90.09384155
+_cell_angle_gamma   90.08456421
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaAg3
+_chemical_formula_sum   'Ga2 Ag6'
+_cell_volume   150.27842484
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.38383889  0.15296902  0.26665500  1
+  Ga  Ga1  1  0.88483465  0.89859658  0.52803344  1
+  Ag  Ag2  1  0.38427484  0.14595416  0.76493043  1
+  Ag  Ag3  1  0.88512623  0.39988235  0.02788650  1
+  Ag  Ag4  1  0.38446587  0.65529341  0.27494216  1
+  Ag  Ag5  1  0.88444638  0.39857602  0.52278340  1
+  Ag  Ag6  1  0.88450110  0.90373117  0.02870403  1
+  Ag  Ag7  1  0.38456994  0.65502381  0.76815110  1

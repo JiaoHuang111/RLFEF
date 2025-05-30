@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CsTiBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37221050
+_cell_length_b   7.92805958
+_cell_length_c   7.93421650
+_cell_angle_alpha   59.24670410
+_cell_angle_beta   89.92171478
+_cell_angle_gamma   90.21430206
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsTiBr3
+_chemical_formula_sum   'Cs2 Ti2 Br6'
+_cell_volume   344.45983749
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.51079500  0.14691825  0.90168589  1
+  Cs  Cs1  1  0.01041126  0.48028761  0.23746864  1
+  Ti  Ti2  1  0.26192734  0.81398445  0.57152098  1
+  Ti  Ti3  1  0.76067543  0.81467503  0.57106721  1
+  Br  Br4  1  0.51124108  0.65611178  0.88243914  1
+  Br  Br5  1  0.51124418  0.12440975  0.41200241  1
+  Br  Br6  1  0.01203320  0.96916842  0.72809285  1
+  Br  Br7  1  0.51166248  0.65710342  0.41271815  1
+  Br  Br8  1  0.01101584  0.49777943  0.72792357  1
+  Br  Br9  1  0.01135773  0.96994007  0.25565523  1

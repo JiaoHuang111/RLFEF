@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Y5BiPd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.84349600
+_cell_length_b   8.88538415
+_cell_length_c   7.84349600
+_cell_angle_alpha   116.19136833
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   116.19136834
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y5BiPd2
+_chemical_formula_sum   'Y10 Bi2 Pd4'
+_cell_volume   427.06805412
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.00000000  0.00000000  0.00000000  1.0
+  Y  Y1  1  0.50000000  0.00000000  0.50000000  1.0
+  Y  Y2  1  0.20497900  0.71828800  0.01330900  1.0
+  Y  Y3  1  0.79502100  0.28171200  0.98669100  1.0
+  Y  Y4  1  0.51331000  0.71829000  0.70498000  1.0
+  Y  Y5  1  0.70497900  0.71828900  0.20497900  1.0
+  Y  Y6  1  0.98669000  0.28171100  0.48669000  1.0
+  Y  Y7  1  0.48669000  0.28171000  0.29502000  1.0
+  Y  Y8  1  0.29502100  0.28171100  0.79502100  1.0
+  Y  Y9  1  0.01331000  0.71828900  0.51331000  1.0
+  Bi  Bi10  1  0.75000000  0.50000000  0.75000000  1.0
+  Bi  Bi11  1  0.25000000  0.50000000  0.25000000  1.0
+  Pd  Pd12  1  0.86247000  1.00000000  0.63753000  1.0
+  Pd  Pd13  1  0.13753000  0.00000000  0.36247000  1.0
+  Pd  Pd14  1  0.36247000  0.00000000  0.86247000  1.0
+  Pd  Pd15  1  0.63753000  1.00000000  0.13753000  1.0

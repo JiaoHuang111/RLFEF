@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Mg2NiIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41580153
+_cell_length_b   4.41235924
+_cell_length_c   4.42538643
+_cell_angle_alpha   60.16466141
+_cell_angle_beta   60.30471039
+_cell_angle_gamma   60.12593460
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2NiIr
+_chemical_formula_sum   'Mg2 Ni1 Ir1'
+_cell_volume   61.24369080
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.32817832  0.36547098  0.97242045  1
+  Mg  Mg1  1  0.82834035  0.86531663  0.47268474  1
+  Ni  Ni2  1  0.07855205  0.11514375  0.72232747  1
+  Ir  Ir3  1  0.57863200  0.61551654  0.22267447  1

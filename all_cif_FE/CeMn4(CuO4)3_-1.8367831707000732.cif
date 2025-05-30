@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CeMn4(CuO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.42183352
+_cell_length_b   6.42967939
+_cell_length_c   6.40949345
+_cell_angle_alpha   109.35591888
+_cell_angle_beta   109.12976837
+_cell_angle_gamma   109.81523895
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeMn4(CuO4)3
+_chemical_formula_sum   'Ce1 Mn4 Cu3 O12'
+_cell_volume   204.00500675
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.41471624  0.45257124  0.12631954  1
+  Mn  Mn1  1  0.41358590  0.45241550  0.62674630  1
+  Mn  Mn2  1  0.91472960  0.45191106  0.62549180  1
+  Mn  Mn3  1  0.91520345  0.45192286  0.12633452  1
+  Mn  Mn4  1  0.41410118  0.95188528  0.12618695  1
+  Cu  Cu5  1  0.91479230  0.95195848  0.62694430  1
+  Cu  Cu6  1  0.41368556  0.95230061  0.62624663  1
+  Cu  Cu7  1  0.91461587  0.95238489  0.12620376  1
+  O  O8  1  0.11134847  0.28113261  0.65123826  1
+  O  O9  1  0.23918471  0.58450818  0.43427852  1
+  O  O10  1  0.58620578  0.31856853  0.81736439  1
+  O  O11  1  0.54598558  0.75139886  0.96244472  1
+  O  O12  1  0.71322012  0.28120148  0.25852200  1
+  O  O13  1  0.58212334  0.92611545  0.43354622  1
+  O  O14  1  0.24223307  0.97452879  0.82310736  1
+  O  O15  1  0.71314156  0.61999863  0.59931982  1
+  O  O16  1  0.11072355  0.62008148  0.99088442  1
+  O  O17  1  0.88641757  0.75111955  0.29215708  1
+  O  O18  1  0.28367552  0.15031590  0.29318640  1
+  O  O19  1  0.93942678  0.15260054  0.96316594  1

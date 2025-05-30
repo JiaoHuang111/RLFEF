@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ScAlRh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.45137691
+_cell_length_b   4.44300556
+_cell_length_c   4.44249344
+_cell_angle_alpha   59.78549957
+_cell_angle_beta   59.97881317
+_cell_angle_gamma   60.36703873
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScAlRh2
+_chemical_formula_sum   'Sc1 Al1 Rh2'
+_cell_volume   62.18570872
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.44778040  0.74809510  0.60710710  1
+  Al  Al1  1  0.94721413  0.24840418  0.10747742  1
+  Rh  Rh2  1  0.69724298  0.99827451  0.85763937  1
+  Rh  Rh3  1  0.19744746  0.49815053  0.35809013  1

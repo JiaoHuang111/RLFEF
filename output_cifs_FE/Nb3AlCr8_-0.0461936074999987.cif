@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Nb3AlCr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.87326600
+_cell_length_b   4.87326587
+_cell_length_c   8.00431900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000092
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb3AlCr8
+_chemical_formula_sum   'Nb3 Al1 Cr8'
+_cell_volume   164.62479217
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.33333333  0.66666667  0.55707200  1.0
+  Nb  Nb1  1  0.33333333  0.66666667  0.93960000  1.0
+  Nb  Nb2  1  0.00000000  0.00000000  0.06388600  1.0
+  Al  Al3  1  0.00000000  0.00000000  0.43654300  1.0
+  Cr  Cr4  1  0.66666667  0.33333333  0.50085800  1.0
+  Cr  Cr5  1  0.66666667  0.33333333  0.00112900  1.0
+  Cr  Cr6  1  0.49791700  0.50208200  0.25208500  1.0
+  Cr  Cr7  1  0.49791700  0.99583400  0.25208500  1.0
+  Cr  Cr8  1  0.00416500  0.50208200  0.25208500  1.0
+  Cr  Cr9  1  0.83714000  0.16286000  0.74822000  1.0
+  Cr  Cr10  1  0.83714000  0.67428000  0.74822000  1.0
+  Cr  Cr11  1  0.32572000  0.16286000  0.74822000  1.0

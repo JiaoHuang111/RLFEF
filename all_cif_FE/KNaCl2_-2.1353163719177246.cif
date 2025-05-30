@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_KNaCl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22359705
+_cell_length_b   4.22260666
+_cell_length_c   6.08721781
+_cell_angle_alpha   89.71788788
+_cell_angle_beta   89.98908234
+_cell_angle_gamma   90.07096100
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaCl2
+_chemical_formula_sum   'K1 Na1 Cl2'
+_cell_volume   108.56162658
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.41844225  0.71942079  0.98749244  1
+  Na  Na1  1  0.91780221  0.21894705  0.48602769  1
+  Cl  Cl2  1  0.91817248  0.21917360  0.98733515  1
+  Cl  Cl3  1  0.41818717  0.71924764  0.48654097  1

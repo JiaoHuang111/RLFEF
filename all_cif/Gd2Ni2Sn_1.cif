@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Gd2Ni2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.34846830
+_cell_length_b   5.47808981
+_cell_length_c   5.48893929
+_cell_angle_alpha   62.08200455
+_cell_angle_beta   66.61837006
+_cell_angle_gamma   66.79270935
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2Ni2Sn
+_chemical_formula_sum   'Gd2 Ni2 Sn1'
+_cell_volume   102.49341890
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.00190239  0.82174212  0.07402808  1
+  Gd  Gd1  1  0.58996785  0.24000706  0.47952530  1
+  Ni  Ni2  1  0.29529855  0.82028210  0.48610735  1
+  Ni  Ni3  1  0.29517797  0.23597464  0.07436724  1
+  Sn  Sn4  1  0.79519302  0.53049356  0.77517867  1

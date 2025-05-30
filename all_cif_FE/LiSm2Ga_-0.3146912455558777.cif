@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiSm2Ga
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19476700
+_cell_length_b   5.19491577
+_cell_length_c   5.19090986
+_cell_angle_alpha   59.83082962
+_cell_angle_beta   59.83274841
+_cell_angle_gamma   60.02550125
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSm2Ga
+_chemical_formula_sum   'Li1 Sm2 Ga1'
+_cell_volume   98.82057689
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.10478206  0.58702999  0.34929067  1
+  Sm  Sm1  1  0.35480875  0.83668023  0.59968519  1
+  Sm  Sm2  1  0.85523123  0.33707458  0.09931824  1
+  Ga  Ga3  1  0.60501450  0.08654357  0.84926635  1

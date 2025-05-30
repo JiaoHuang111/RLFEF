@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BIrPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55093119
+_cell_length_b   5.55093119
+_cell_length_c   6.12248753
+_cell_angle_alpha   109.26977007
+_cell_angle_beta   109.26977006
+_cell_angle_gamma   105.78369390
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BIrPd
+_chemical_formula_sum   'B4 Ir4 Pd4'
+_cell_volume   151.97163774
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  B  B0  1  0.05394500  0.43530600  0.03052700  1.0
+  B  B1  1  0.68530600  0.80394500  0.53052700  1.0
+  B  B2  1  0.40477900  0.02341800  0.96947300  1.0
+  B  B3  1  0.27341800  0.15477900  0.46947300  1.0
+  Ir  Ir4  1  0.10289100  0.13044400  0.73526300  1.0
+  Ir  Ir5  1  0.38044400  0.85289100  0.23526300  1.0
+  Ir  Ir6  1  0.61762800  0.14518100  0.76473700  1.0
+  Ir  Ir7  1  0.39518100  0.36762800  0.26473700  1.0
+  Pd  Pd8  1  0.93934300  0.61242300  0.73096100  1.0
+  Pd  Pd9  1  0.45838200  0.63146100  0.76903900  1.0
+  Pd  Pd10  1  0.86242300  0.68934300  0.23096200  1.0
+  Pd  Pd11  1  0.88146100  0.20838200  0.26903800  1.0

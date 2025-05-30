@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NdSi2Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27218676
+_cell_length_b   4.32156086
+_cell_length_c   8.32857227
+_cell_angle_alpha   104.84595490
+_cell_angle_beta   89.76686096
+_cell_angle_gamma   90.09104919
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdSi2Ru
+_chemical_formula_sum   'Nd2 Si4 Ru2'
+_cell_volume   148.63213701
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.73485857  0.06294815  0.23341601  1
+  Nd  Nd1  1  0.23515813  0.27015564  0.64567858  1
+  Si  Si2  1  0.73447299  0.70563477  0.51936352  1
+  Si  Si3  1  0.23439123  0.92149204  0.94033355  1
+  Si  Si4  1  0.23467620  0.62795526  0.35743642  1
+  Si  Si5  1  0.73475236  0.41352415  0.93794817  1
+  Ru  Ru6  1  0.23471454  0.48802531  0.07017715  1
+  Ru  Ru7  1  0.73488891  0.84664446  0.80633366  1

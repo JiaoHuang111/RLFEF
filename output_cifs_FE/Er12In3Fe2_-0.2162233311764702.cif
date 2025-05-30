@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Er12In3Fe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.28133578
+_cell_length_b   8.28133578
+_cell_length_c   8.28133578
+_cell_angle_alpha   71.98383696
+_cell_angle_beta   69.79638793
+_cell_angle_gamma   110.20361207
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er12In3Fe2
+_chemical_formula_sum   'Er12 In3 Fe2'
+_cell_volume   436.98831635
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.61110900  0.30555400  0.69444600  1.0
+  Er  Er1  1  0.38889100  0.69444600  0.30555400  1.0
+  Er  Er2  1  0.00000000  0.30555500  0.30555500  1.0
+  Er  Er3  1  0.00000000  0.69444500  0.69444500  1.0
+  Er  Er4  1  0.24752600  0.04040800  0.20711800  1.0
+  Er  Er5  1  0.75247400  0.95959200  0.79288200  1.0
+  Er  Er6  1  0.75247400  0.54535600  0.20711800  1.0
+  Er  Er7  1  0.75247400  0.79288200  0.45464400  1.0
+  Er  Er8  1  0.24752600  0.45464400  0.79288200  1.0
+  Er  Er9  1  0.24752600  0.20711800  0.54535600  1.0
+  Er  Er10  1  0.24752600  0.79288200  0.95959200  1.0
+  Er  Er11  1  0.75247400  0.20711800  0.04040800  1.0
+  In  In12  1  0.00000000  0.00000000  0.00000000  1.0
+  In  In13  1  0.50000000  0.50000000  1.00000000  1.0
+  In  In14  1  0.50000000  0.00000000  0.50000000  1.0
+  Fe  Fe15  1  0.00000000  0.61205400  0.38794600  1.0
+  Fe  Fe16  1  0.00000000  0.38794600  0.61205400  1.0

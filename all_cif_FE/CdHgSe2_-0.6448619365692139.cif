@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CdHgSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40153313
+_cell_length_b   4.41642570
+_cell_length_c   6.18179131
+_cell_angle_alpha   89.80645752
+_cell_angle_beta   89.69293976
+_cell_angle_gamma   89.96648407
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdHgSe2
+_chemical_formula_sum   'Cd1 Hg1 Se2'
+_cell_volume   120.16568288
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.57281983  0.27797678  0.77507281  1
+  Hg  Hg1  1  0.07353737  0.77792495  0.27456373  1
+  Se  Se2  1  0.56921893  0.77765661  0.53041458  1
+  Se  Se3  1  0.06989497  0.27779865  0.01512490  1

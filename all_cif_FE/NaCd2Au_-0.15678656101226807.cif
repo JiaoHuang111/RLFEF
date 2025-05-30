@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_NaCd2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.94759560
+_cell_length_b   4.94348621
+_cell_length_c   4.93339157
+_cell_angle_alpha   59.86021423
+_cell_angle_beta   59.87448502
+_cell_angle_gamma   59.96768570
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCd2Au
+_chemical_formula_sum   'Na1 Cd2 Au1'
+_cell_volume   85.12922326
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.99513090  0.00782557  0.00621105  1
+  Cd  Cd1  1  0.24458829  0.25756085  0.25652745  1
+  Cd  Cd2  1  0.74409282  0.75757182  0.75632614  1
+  Au  Au3  1  0.49464563  0.50785381  0.50680524  1

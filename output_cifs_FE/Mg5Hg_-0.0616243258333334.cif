@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Mg5Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.26778000
+_cell_length_b   6.03467734
+_cell_length_c   7.32443276
+_cell_angle_alpha   103.15123435
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   105.70891203
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg5Hg
+_chemical_formula_sum   'Mg5 Hg1'
+_cell_volume   135.10363078
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.72094600  0.44189200  0.94586300  1.0
+  Mg  Mg1  1  0.33320200  0.66640400  0.66925700  1.0
+  Mg  Mg2  1  0.05046900  0.10093800  0.59972100  1.0
+  Mg  Mg3  1  0.67341100  0.34682200  0.33380000  1.0
+  Mg  Mg4  1  0.99791400  0.99582800  0.00673100  1.0
+  Hg  Hg5  1  0.39072600  0.78145200  0.27796200  1.0

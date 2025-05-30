@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_In2AgSe3Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.16813326
+_cell_length_b   6.17525244
+_cell_length_c   11.82774925
+_cell_angle_alpha   89.83460236
+_cell_angle_beta   90.03936768
+_cell_angle_gamma   90.07975006
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2AgSe3Br
+_chemical_formula_sum   'In4 Ag2 Se6 Br2'
+_cell_volume   450.51394759
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.45515561  0.93557751  0.93128568  1
+  In  In1  1  0.48405409  0.90474188  0.42840722  1
+  In  In2  1  0.95428532  0.43493611  0.43185610  1
+  In  In3  1  0.98419452  0.40342948  0.93035388  1
+  Ag  Ag4  1  0.48249215  0.43603787  0.69865984  1
+  Ag  Ag5  1  0.98301053  0.93531281  0.19822460  1
+  Se  Se6  1  0.22500566  0.18278049  0.07415920  1
+  Se  Se7  1  0.20372309  0.67949396  0.81306630  1
+  Se  Se8  1  0.22289580  0.65684074  0.31361160  1
+  Se  Se9  1  0.70570457  0.18330538  0.31414440  1
+  Se  Se10  1  0.73174536  0.15826790  0.81321049  1
+  Se  Se11  1  0.72779512  0.68206972  0.57389808  1
+  Br  Br12  1  0.71372956  0.66620380  0.07149355  1
+  Br  Br13  1  0.21557705  0.16293757  0.57233965  1

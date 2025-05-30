@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2NaScBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.90082645
+_cell_length_b   7.90522766
+_cell_length_c   7.87995625
+_cell_angle_alpha   59.53419495
+_cell_angle_beta   59.57543564
+_cell_angle_gamma   59.79311371
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaScBr6
+_chemical_formula_sum   'K2 Na1 Sc1 Br6'
+_cell_volume   345.11660794
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.49369261  0.14223185  0.56418723  1
+  K  K1  1  0.99394566  0.64197791  0.06423765  1
+  Na  Na2  1  0.24329941  0.89257818  0.31384361  1
+  Sc  Sc3  1  0.74342877  0.39256054  0.81328112  1
+  Br  Br4  1  0.98384207  0.15343958  0.05229358  1
+  Br  Br5  1  0.98313642  0.63272834  0.57314867  1
+  Br  Br6  1  0.50512236  0.63310754  0.05178636  1
+  Br  Br7  1  0.98324525  0.15341432  0.57370573  1
+  Br  Br8  1  0.50358689  0.63155568  0.57488376  1
+  Br  Br9  1  0.50499594  0.15382724  0.05232930  1

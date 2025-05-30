@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_ErSnRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89196634
+_cell_length_b   7.50107193
+_cell_length_c   7.52204752
+_cell_angle_alpha   119.83173370
+_cell_angle_beta   90.15910339
+_cell_angle_gamma   90.02832794
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErSnRh
+_chemical_formula_sum   'Er3 Sn3 Rh3'
+_cell_volume   190.49794710
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.16086541  0.91405106  0.50578290  1
+  Er  Er1  1  0.16107398  0.72571856  0.91058129  1
+  Er  Er2  1  0.16086233  0.31877041  0.31389990  1
+  Sn  Sn3  1  0.66109031  0.05715046  0.91053182  1
+  Sn  Sn4  1  0.66102105  0.58125043  0.17086528  1
+  Sn  Sn5  1  0.66164535  0.31867263  0.64763463  1
+  Rh  Rh6  1  0.16116610  0.31860551  0.91048419  1
+  Rh  Rh7  1  0.66136205  0.98486149  0.24352702  1
+  Rh  Rh8  1  0.66134804  0.65295994  0.57533669  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_HfTiSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.57925892
+_cell_length_b   6.07743406
+_cell_length_c   6.65254307
+_cell_angle_alpha   108.78794861
+_cell_angle_beta   89.61460876
+_cell_angle_gamma   90.06213379
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfTiSe4
+_chemical_formula_sum   'Hf1 Ti1 Se4'
+_cell_volume   136.99702763
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.62698644  0.39246732  0.13075148  1
+  Ti  Ti1  1  0.12689106  0.89196920  0.13132158  1
+  Se  Se2  1  0.12730975  0.64382505  0.38569814  1
+  Se  Se3  1  0.12764882  0.14329031  0.87591666  1
+  Se  Se4  1  0.62705886  0.64864248  0.87052703  1
+  Se  Se5  1  0.62693280  0.13896705  0.38663381  1

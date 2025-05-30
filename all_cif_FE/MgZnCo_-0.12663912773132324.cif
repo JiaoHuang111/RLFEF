@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_MgZnCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97013068
+_cell_length_b   4.76049042
+_cell_length_c   5.08618355
+_cell_angle_alpha   90.06571198
+_cell_angle_beta   90.21287537
+_cell_angle_gamma   114.05173492
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgZnCo
+_chemical_formula_sum   'Mg2 Zn2 Co2'
+_cell_volume   87.78070033
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.12715554  0.00558385  0.91317993  1
+  Mg  Mg1  1  0.53944159  0.82681024  0.41315439  1
+  Zn  Zn2  1  0.83132321  0.41623509  0.16210295  1
+  Zn  Zn3  1  0.83153522  0.41574177  0.66166335  1
+  Co  Co4  1  0.23175715  0.21671975  0.40793186  1
+  Co  Co5  1  0.43425253  0.61233234  0.91300976  1

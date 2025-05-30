@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_VFe(CuO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.93779922
+_cell_length_b   3.38022923
+_cell_length_c   8.52827358
+_cell_angle_alpha   89.82476807
+_cell_angle_beta   89.88021851
+_cell_angle_gamma   90.20175934
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VFe(CuO2)2
+_chemical_formula_sum   'V1 Fe1 Cu2 O4'
+_cell_volume   84.68835658
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.27545857  0.79759204  0.28886759  1
+  Fe  Fe1  1  0.77561754  0.29803053  0.57242084  1
+  Cu  Cu2  1  0.27545869  0.79761583  0.78929090  1
+  Cu  Cu3  1  0.77577162  0.29752195  0.00711939  1
+  O  O4  1  0.27600676  0.29757565  0.84659868  1
+  O  O5  1  0.27573410  0.79778391  0.54986674  1
+  O  O6  1  0.77585608  0.79727370  0.11334169  1
+  O  O7  1  0.77557486  0.29761061  0.34630084  1

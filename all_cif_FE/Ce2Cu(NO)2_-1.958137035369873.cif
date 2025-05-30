@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ce2Cu(NO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84461141
+_cell_length_b   3.88507581
+_cell_length_c   6.80120802
+_cell_angle_alpha   106.45485687
+_cell_angle_beta   106.58812714
+_cell_angle_gamma   90.07023621
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Cu(NO)2
+_chemical_formula_sum   'Ce2 Cu1 N2 O2'
+_cell_volume   92.99840176
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.18119673  0.14945559  0.03509856  1
+  Ce  Ce1  1  0.44756621  0.41553584  0.55781966  1
+  Cu  Cu2  1  0.81605738  0.78260338  0.29397580  1
+  N  N3  1  0.81484514  0.28121921  0.29272977  1
+  N  N4  1  0.31513050  0.78156775  0.29270622  1
+  O  O5  1  0.62088305  0.59288806  0.91156292  1
+  O  O6  1  0.00676883  0.98272067  0.68091834  1

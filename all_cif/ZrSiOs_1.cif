@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrSiOs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94064808
+_cell_length_b   6.61353254
+_cell_length_c   7.42565346
+_cell_angle_alpha   89.93338776
+_cell_angle_beta   89.78713989
+_cell_angle_gamma   89.83251190
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrSiOs
+_chemical_formula_sum   'Zr4 Si4 Os4'
+_cell_volume   193.52215145
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.12179356  0.58927619  0.95929217  1
+  Zr  Zr1  1  0.62175775  0.12017561  0.45930493  1
+  Zr  Zr2  1  0.62138718  0.61950952  0.59406704  1
+  Zr  Zr3  1  0.12153626  0.09113398  0.09398325  1
+  Si  Si4  1  0.12177528  0.82546705  0.39565733  1
+  Si  Si5  1  0.62185466  0.88544685  0.89547247  1
+  Si  Si6  1  0.12190565  0.32644609  0.65961081  1
+  Si  Si7  1  0.62215680  0.38570413  0.15937434  1
+  Os  Os8  1  0.12211523  0.95518231  0.71237564  1
+  Os  Os9  1  0.12182722  0.45529306  0.34251824  1
+  Os  Os10  1  0.62158728  0.75397462  0.21266465  1
+  Os  Os11  1  0.62158459  0.25328800  0.84212250  1

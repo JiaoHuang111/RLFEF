@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_YbAgGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40359688
+_cell_length_b   7.08620310
+_cell_length_c   7.08695841
+_cell_angle_alpha   119.70223236
+_cell_angle_beta   90.08258057
+_cell_angle_gamma   89.95924377
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbAgGe
+_chemical_formula_sum   'Yb3 Ag3 Ge3'
+_cell_volume   192.09077704
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.55839914  0.71031994  0.95401865  1
+  Yb  Yb1  1  0.55851942  0.13960372  0.80658984  1
+  Yb  Yb2  1  0.55855209  0.28541127  0.37790579  1
+  Ag  Ag3  1  0.05795661  0.95453846  0.37817818  1
+  Ag  Ag4  1  0.05813890  0.46497226  0.12945126  1
+  Ag  Ag5  1  0.05809664  0.71050829  0.62808859  1
+  Ge  Ge6  1  0.05832134  0.37748685  0.71037757  1
+  Ge  Ge7  1  0.05885378  0.04355059  0.04596955  1
+  Ge  Ge8  1  0.55828470  0.71065068  0.37786162  1

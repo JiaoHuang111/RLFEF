@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CaBiIO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03664800
+_cell_length_b   4.03664800
+_cell_length_c   7.36643196
+_cell_angle_alpha   105.90179586
+_cell_angle_beta   105.90179587
+_cell_angle_gamma   89.99999998
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaBiIO2
+_chemical_formula_sum   'Ca1 Bi1 I1 O2'
+_cell_volume   110.65538396
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.66583000  0.66583000  0.33166000  1.0
+  Bi  Bi1  1  0.32535100  0.32535100  0.65070200  1.0
+  I  I2  1  0.00989500  0.00989500  0.01979000  1.0
+  O  O3  1  0.74946200  0.24946200  0.49892400  1.0
+  O  O4  1  0.24946200  0.74946200  0.49892400  1.0

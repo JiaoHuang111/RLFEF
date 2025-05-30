@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CaMn4(CuO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31690025
+_cell_length_b   6.32217312
+_cell_length_c   6.31170940
+_cell_angle_alpha   109.39620209
+_cell_angle_beta   109.39908600
+_cell_angle_gamma   109.87000275
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMn4(CuO4)3
+_chemical_formula_sum   'Ca1 Mn4 Cu3 O12'
+_cell_volume   193.43367600
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.62604582  0.50520384  0.01940319  1
+  Mn  Mn1  1  0.62592620  0.00617366  0.01902130  1
+  Mn  Mn2  1  0.12645629  0.50589967  0.51864511  1
+  Mn  Mn3  1  0.12603305  0.50529075  0.01938854  1
+  Mn  Mn4  1  0.62650752  0.00604011  0.51957101  1
+  Cu  Cu5  1  0.62611759  0.50625962  0.51917440  1
+  Cu  Cu6  1  0.12673579  0.00584023  0.01876032  1
+  Cu  Cu7  1  0.12653579  0.00616142  0.51866472  1
+  O  O8  1  0.13646610  0.33149406  0.70732886  1
+  O  O9  1  0.79957283  0.81445104  0.50137186  1
+  O  O10  1  0.80011022  0.20145610  0.88813925  1
+  O  O11  1  0.93997389  0.63883817  0.84572178  1
+  O  O12  1  0.32064575  0.02497650  0.84798473  1
+  O  O13  1  0.45779210  0.19809355  0.54272628  1
+  O  O14  1  0.93539190  0.99057227  0.19141114  1
+  O  O15  1  0.11501198  0.68084669  0.33143392  1
+  O  O16  1  0.76626474  0.32745886  0.33237797  1
+  O  O17  1  0.31331658  0.37456653  0.19459963  1
+  O  O18  1  0.45082068  0.81222677  0.15124899  1
+  O  O19  1  0.48990813  0.68427026  0.70796710  1

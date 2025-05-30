@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaNiF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53154469
+_cell_length_b   5.51942444
+_cell_length_c   6.50195551
+_cell_angle_alpha   115.07606506
+_cell_angle_beta   115.30195618
+_cell_angle_gamma   89.94951630
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaNiF4
+_chemical_formula_sum   'Ca2 Ni2 F8'
+_cell_volume   158.56443164
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.44129556  0.93820369  0.01503457  1
+  Ca  Ca1  1  0.94183266  0.43790907  0.01548413  1
+  Ni  Ni2  1  0.69209182  0.68804419  0.51650959  1
+  Ni  Ni3  1  0.19172232  0.18780592  0.51557291  1
+  F  F4  1  0.39358568  0.38738587  0.26416308  1
+  F  F5  1  0.99869090  0.99557102  0.76632559  1
+  F  F6  1  0.63501608  0.63769060  0.76762480  1
+  F  F7  1  0.24638867  0.88249487  0.26349667  1
+  F  F8  1  0.89417714  0.23921882  0.26433486  1
+  F  F9  1  0.13503644  0.49388719  0.76694030  1
+  F  F10  1  0.49878111  0.13857886  0.76782978  1
+  F  F11  1  0.74612069  0.74173260  0.26328474  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Gd3Zn5Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22259092
+_cell_length_b   7.12261963
+_cell_length_c   7.12896872
+_cell_angle_alpha   119.88522339
+_cell_angle_beta   90.04577637
+_cell_angle_gamma   89.88034058
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd3Zn5Ge
+_chemical_formula_sum   'Gd3 Zn5 Ge1'
+_cell_volume   185.89866355
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.29263148  0.74852473  0.16028161  1
+  Gd  Gd1  1  0.29275608  0.33023486  0.32914934  1
+  Gd  Gd2  1  0.29246652  0.16328467  0.74602646  1
+  Zn  Zn3  1  0.29245326  0.74645764  0.74441022  1
+  Zn  Zn4  1  0.79242933  0.50893897  0.74875355  1
+  Zn  Zn5  1  0.79230773  0.41502997  0.07625832  1
+  Zn  Zn6  1  0.79263294  0.98837030  0.98304874  1
+  Zn  Zn7  1  0.79281533  0.74502867  0.50922590  1
+  Ge  Ge8  1  0.79255289  0.07951690  0.41152856  1

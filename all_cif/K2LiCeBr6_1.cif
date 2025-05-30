@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2LiCeBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.90269613
+_cell_length_b   7.91526031
+_cell_length_c   7.89574289
+_cell_angle_alpha   59.86406326
+_cell_angle_beta   59.75931931
+_cell_angle_gamma   59.86769485
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2LiCeBr6
+_chemical_formula_sum   'K2 Li1 Ce1 Br6'
+_cell_volume   347.89012560
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.71577036  0.43735218  0.38175663  1
+  K  K1  1  0.21683353  0.93817276  0.88188535  1
+  Li  Li2  1  0.46649948  0.18719251  0.13201192  1
+  Ce  Ce3  1  0.96569914  0.68722302  0.63154954  1
+  Br  Br4  1  0.22330838  0.42938229  0.88844347  1
+  Br  Br5  1  0.70870519  0.94507384  0.37402192  1
+  Br  Br6  1  0.22403789  0.43007362  0.37367997  1
+  Br  Br7  1  0.22360596  0.94566745  0.37404004  1
+  Br  Br8  1  0.70839691  0.43003917  0.88906032  1
+  Br  Br9  1  0.70771140  0.94617885  0.88854223  1

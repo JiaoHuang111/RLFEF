@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Th5C4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.74992871
+_cell_length_b   3.72303367
+_cell_length_c   15.86177635
+_cell_angle_alpha   82.95761871
+_cell_angle_beta   82.93235779
+_cell_angle_gamma   59.34877014
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th5C4
+_chemical_formula_sum   'Th5 C4'
+_cell_volume   188.59565104
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.08270750  0.78517628  0.01093903  1
+  Th  Th1  1  0.15697120  0.86212999  0.78351045  1
+  Th  Th2  1  0.67703903  0.37887284  0.22445214  1
+  Th  Th3  1  0.94923472  0.65517527  0.40128717  1
+  Th  Th4  1  0.55323511  0.25585303  0.59892458  1
+  C  C5  1  0.72560138  0.42598218  0.06574418  1
+  C  C6  1  0.45069799  0.15642017  0.88683927  1
+  C  C7  1  0.30944866  0.01080165  0.31752616  1
+  C  C8  1  0.85667259  0.56162268  0.68209326  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_La2Mn2Se2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16577000
+_cell_length_b   4.16575100
+_cell_length_c   10.03533977
+_cell_angle_alpha   78.02511120
+_cell_angle_beta   78.01745586
+_cell_angle_gamma   90.00046770
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Mn2Se2O3
+_chemical_formula_sum   'La2 Mn2 Se2 O3'
+_cell_volume   166.47818939
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.31216800  0.31214900  0.37567600  1.0
+  La  La1  1  0.68783300  0.68784300  0.62432000  1.0
+  Mn  Mn2  1  0.50000200  0.00000400  0.00000500  1.0
+  Mn  Mn3  1  0.99999500  0.50001400  0.00000500  1.0
+  Se  Se4  1  0.89954400  0.89905900  0.20139300  1.0
+  Se  Se5  1  0.10045700  0.10094200  0.79860700  1.0
+  O  O6  1  0.50000100  0.49999600  0.99999800  1.0
+  O  O7  1  0.75000500  0.25000100  0.49999900  1.0
+  O  O8  1  0.24999500  0.74999000  0.49999800  1.0

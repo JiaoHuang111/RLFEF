@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CsFeNiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23785877
+_cell_length_b   6.33616304
+_cell_length_c   8.42925930
+_cell_angle_alpha   85.03731537
+_cell_angle_beta   75.49900055
+_cell_angle_gamma   72.95007324
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsFeNiF6
+_chemical_formula_sum   'Cs2 Fe2 Ni2 F12'
+_cell_volume   308.33862594
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.24139841  0.95166844  0.55096185  1
+  Cs  Cs1  1  0.74133378  0.45103571  0.55062842  1
+  Fe  Fe2  1  0.36254212  0.12588868  0.96219331  1
+  Fe  Fe3  1  0.86326128  0.62664622  0.96272713  1
+  Ni  Ni4  1  0.33540130  0.52938938  0.18487753  1
+  Ni  Ni5  1  0.83511001  0.02865642  0.18384279  1
+  F  F6  1  0.27015373  0.48667324  0.41289005  1
+  F  F7  1  0.25308299  0.45882335  0.98414731  1
+  F  F8  1  0.02916060  0.72766763  0.17465140  1
+  F  F9  1  0.75362045  0.95729005  0.98386306  1
+  F  F10  1  0.47512802  0.18585247  0.75009871  1
+  F  F11  1  0.43717721  0.81240654  0.90158701  1
+  F  F12  1  0.09648239  0.15691648  0.17534626  1
+  F  F13  1  0.76944655  0.98619932  0.41301325  1
+  F  F14  1  0.52666056  0.22755620  0.17365870  1
+  F  F15  1  0.97583091  0.68540651  0.74957919  1
+  F  F16  1  0.59787935  0.65204537  0.17621456  1
+  F  F17  1  0.93208408  0.31463289  0.90005398  1

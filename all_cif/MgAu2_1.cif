@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_MgAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.97529125
+_cell_length_b   5.55953169
+_cell_length_c   7.27016449
+_cell_angle_alpha   108.16931152
+_cell_angle_beta   90.54923248
+_cell_angle_gamma   105.91184998
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgAu2
+_chemical_formula_sum   'Mg2 Au4'
+_cell_volume   109.28688204
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.66682988  0.85168809  0.72641152  1
+  Mg  Mg1  1  0.29979143  0.11671090  0.42009294  1
+  Au  Au2  1  0.62885296  0.77244323  0.12067464  1
+  Au  Au3  1  0.33757260  0.19133741  0.02885622  1
+  Au  Au4  1  0.01689862  0.55078745  0.39781913  1
+  Au  Au5  1  0.95570904  0.41660067  0.75714928  1

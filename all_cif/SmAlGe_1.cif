@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SmAlGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35844040
+_cell_length_b   4.36394405
+_cell_length_c   7.90407896
+_cell_angle_alpha   89.99300385
+_cell_angle_beta   89.96867371
+_cell_angle_gamma   120.06364441
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmAlGe
+_chemical_formula_sum   'Sm2 Al2 Ge2'
+_cell_volume   130.11075489
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.17034844  0.88369215  0.36666337  1
+  Sm  Sm1  1  0.17049688  0.88353676  0.86613512  1
+  Al  Al2  1  0.83721954  0.21666142  0.61720622  1
+  Al  Al3  1  0.50370699  0.55015135  0.11648406  1
+  Ge  Ge4  1  0.50396913  0.54937178  0.61526996  1
+  Ge  Ge5  1  0.83698618  0.21689834  0.11620913  1

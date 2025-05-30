@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HgBrCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96607542
+_cell_length_b   6.28451538
+_cell_length_c   13.02542114
+_cell_angle_alpha   89.92047119
+_cell_angle_beta   89.97922516
+_cell_angle_gamma   89.95268250
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgBrCl
+_chemical_formula_sum   'Hg4 Br4 Cl4'
+_cell_volume   406.51472695
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.66532052  0.18552630  0.74187618  1
+  Hg  Hg1  1  0.66547716  0.18545252  0.24189697  1
+  Hg  Hg2  1  0.16591232  0.68563306  0.49182346  1
+  Hg  Hg3  1  0.16622747  0.68396628  0.99341977  1
+  Br  Br4  1  0.91919088  0.93640196  0.86562032  1
+  Br  Br5  1  0.91909230  0.43582472  0.61894631  1
+  Br  Br6  1  0.41933450  0.93619412  0.11551751  1
+  Br  Br7  1  0.41922048  0.43513292  0.36609080  1
+  Cl  Cl8  1  0.91876888  0.43589258  0.11494019  1
+  Cl  Cl9  1  0.41964778  0.93628401  0.61525005  1
+  Cl  Cl10  1  0.91953439  0.93703395  0.36671466  1
+  Cl  Cl11  1  0.41960540  0.43679509  0.86780387  1

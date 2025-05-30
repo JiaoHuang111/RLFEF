@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CaEuNbFeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02770805
+_cell_length_b   5.03899479
+_cell_length_c   5.44860268
+_cell_angle_alpha   80.19457245
+_cell_angle_beta   81.28081512
+_cell_angle_gamma   101.32621765
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaEuNbFeO6
+_chemical_formula_sum   'Ca1 Eu1 Nb1 Fe1 O6'
+_cell_volume   130.90394013
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.23696372  0.37685689  0.10599931  1
+  Eu  Eu1  1  0.74248457  0.87407571  0.10571010  1
+  Nb  Nb2  1  0.48573047  0.12349565  0.60782731  1
+  Fe  Fe3  1  0.98625159  0.62415725  0.60715830  1
+  O  O4  1  0.76932770  0.41940755  0.33676904  1
+  O  O5  1  0.74053890  0.87524796  0.60762733  1
+  O  O6  1  0.26895332  0.92116439  0.33612788  1
+  O  O7  1  0.23691894  0.37136763  0.60791898  1
+  O  O8  1  0.21293925  0.82334393  0.86739510  1
+  O  O9  1  0.69017571  0.32254523  0.86710966  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaMg2FeH8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73598719
+_cell_length_b   4.80333710
+_cell_length_c   5.70966244
+_cell_angle_alpha   90.05534363
+_cell_angle_beta   90.18508148
+_cell_angle_gamma   90.04909515
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMg2FeH8
+_chemical_formula_sum   'Ba1 Mg2 Fe1 H8'
+_cell_volume   129.88571487
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.80174780  0.20676833  0.42383236  1
+  Mg  Mg1  1  0.30157620  0.70732957  0.16161156  1
+  Mg  Mg2  1  0.30161715  0.70748872  0.69004321  1
+  Fe  Fe3  1  0.80118644  0.70622152  0.92570180  1
+  H  H4  1  0.05883545  0.95469266  0.92722517  1
+  H  H5  1  0.80203235  0.70659691  0.20247230  1
+  H  H6  1  0.54716337  0.95299983  0.92781627  1
+  H  H7  1  0.80221754  0.70785570  0.64967108  1
+  H  H8  1  0.06022044  0.47053894  0.92812765  1
+  H  H9  1  0.30182219  0.95155108  0.42687619  1
+  H  H10  1  0.30122936  0.46808833  0.42607340  1
+  H  H11  1  0.54635394  0.46811184  0.92774504  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Bi4PbS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.06399000
+_cell_length_b   6.99096256
+_cell_length_c   12.34296985
+_cell_angle_alpha   103.82337569
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   106.89748900
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi4PbS7
+_chemical_formula_sum   'Bi4 Pb1 S7'
+_cell_volume   324.90883867
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.12129500  0.24259000  0.93225100  1.0
+  Bi  Bi1  1  0.87976900  0.75953800  0.06823400  1.0
+  Bi  Bi2  1  0.00439300  0.00878600  0.49863900  1.0
+  Bi  Bi3  1  0.31828700  0.63657400  0.66946300  1.0
+  Pb  Pb4  1  0.68017000  0.36034000  0.31595700  1.0
+  S  S5  1  0.73452100  0.46904200  0.86184800  1.0
+  S  S6  1  0.25808300  0.51616600  0.13531000  1.0
+  S  S7  1  0.95973300  0.91946600  0.71416100  1.0
+  S  S8  1  0.02765000  0.05530000  0.28382600  1.0
+  S  S9  1  0.65954200  0.31908400  0.54928400  1.0
+  S  S10  1  0.34989500  0.69979000  0.46362100  1.0
+  S  S11  1  0.48656300  0.97312600  0.98320600  1.0

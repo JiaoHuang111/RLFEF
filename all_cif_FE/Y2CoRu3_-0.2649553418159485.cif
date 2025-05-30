@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Y2CoRu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32389164
+_cell_length_b   5.30405760
+_cell_length_c   5.29194689
+_cell_angle_alpha   90.76456451
+_cell_angle_beta   118.65584564
+_cell_angle_gamma   119.87950134
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2CoRu3
+_chemical_formula_sum   'Y2 Co1 Ru3'
+_cell_volume   107.27113278
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.19040488  0.87639576  0.24939071  1
+  Y  Y1  1  0.68882823  0.62308979  0.50252527  1
+  Co  Co2  1  0.94022244  0.25123173  0.87684697  1
+  Ru  Ru3  1  0.44099870  0.25070581  0.87716556  1
+  Ru  Ru4  1  0.44143337  0.75144112  0.87645245  1
+  Ru  Ru5  1  0.94046211  0.25084883  0.37629089  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Sr3Tl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51258516
+_cell_length_b   7.16729069
+_cell_length_c   13.98073959
+_cell_angle_alpha   94.46556854
+_cell_angle_beta   89.88497925
+_cell_angle_gamma   90.04962921
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Tl5
+_chemical_formula_sum   'Sr6 Tl10'
+_cell_volume   550.70510250
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.06344857  0.09288009  0.71051264  1
+  Sr  Sr1  1  0.56336564  0.35456461  0.12015543  1
+  Sr  Sr2  1  0.56357884  0.58664340  0.83266884  1
+  Sr  Sr3  1  0.56370968  0.85954952  0.33296880  1
+  Sr  Sr4  1  0.06294266  0.50675786  0.48482507  1
+  Sr  Sr5  1  0.06354745  0.91881239  0.00139070  1
+  Tl  Tl6  1  0.06301597  0.62641329  0.21792629  1
+  Tl  Tl7  1  0.56339777  0.32345340  0.37210524  1
+  Tl  Tl8  1  0.06370924  0.12945758  0.23813404  1
+  Tl  Tl9  1  0.56242955  0.82478231  0.09973400  1
+  Tl  Tl10  1  0.06344544  0.40680793  0.95633930  1
+  Tl  Tl11  1  0.06333534  0.99974364  0.46153992  1
+  Tl  Tl12  1  0.56302583  0.82138139  0.60028261  1
+  Tl  Tl13  1  0.56337428  0.31990865  0.61241931  1
+  Tl  Tl14  1  0.06310731  0.61427397  0.72225481  1
+  Tl  Tl15  1  0.56342959  0.09697625  0.87258857  1

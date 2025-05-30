@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_EuRh3C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25913715
+_cell_length_b   4.25023365
+_cell_length_c   4.25923443
+_cell_angle_alpha   89.77754974
+_cell_angle_beta   89.88807678
+_cell_angle_gamma   90.13004303
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuRh3C
+_chemical_formula_sum   'Eu1 Rh3 C1'
+_cell_volume   77.10113073
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.98607886  0.78327495  0.66505975  1
+  Rh  Rh1  1  0.48635688  0.78342605  0.16551539  1
+  Rh  Rh2  1  0.98580927  0.28404808  0.16538425  1
+  Rh  Rh3  1  0.48588720  0.28359374  0.66518074  1
+  C  C4  1  0.48622239  0.28352946  0.16527118  1

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Nd2IrAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11852360
+_cell_length_b   5.11283207
+_cell_length_c   5.11535072
+_cell_angle_alpha   59.83943558
+_cell_angle_beta   59.82523727
+_cell_angle_gamma   59.91979980
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd2IrAu
+_chemical_formula_sum   'Nd2 Ir1 Au1'
+_cell_volume   94.36236037
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.05162472  0.32798845  0.91080332  1
+  Nd  Nd1  1  0.55146551  0.82754958  0.41088495  1
+  Ir  Ir2  1  0.80190390  0.07720391  0.66095328  1
+  Au  Au3  1  0.30202848  0.57774425  0.16065268  1

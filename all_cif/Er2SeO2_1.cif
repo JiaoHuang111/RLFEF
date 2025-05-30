@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Er2SeO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89412618
+_cell_length_b   3.86968327
+_cell_length_c   6.78500271
+_cell_angle_alpha   89.91016388
+_cell_angle_beta   90.22768402
+_cell_angle_gamma   119.53759766
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2SeO2
+_chemical_formula_sum   'Er2 Se1 O2'
+_cell_volume   88.95439425
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.03758015  0.25891012  0.55768114  1
+  Er  Er1  1  0.70426148  0.59151614  0.14041524  1
+  Se  Se2  1  0.37096721  0.92619687  0.84896708  1
+  O  O3  1  0.03738423  0.25952074  0.22265264  1
+  O  O4  1  0.70426810  0.59162968  0.47515345  1

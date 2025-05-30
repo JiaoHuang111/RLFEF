@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ga2Fe(PO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98278600
+_cell_length_b   5.02183424
+_cell_length_c   11.28268500
+_cell_angle_alpha   89.90175430
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.74311377
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga2Fe(PO4)3
+_chemical_formula_sum   'Ga2 Fe1 P3 O12'
+_cell_volume   245.12930988
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.54153500  0.54181300  0.66510600  1.0
+  Ga  Ga1  1  0.99972200  0.45818700  0.33489400  1.0
+  Fe  Fe2  1  0.45385600  0.00000000  0.00000000  1.0
+  P  P3  1  0.45832700  0.00000000  0.50000000  1.0
+  P  P4  1  0.54300900  0.54514900  0.16932300  1.0
+  P  P5  1  0.99786000  0.45485100  0.83067700  1.0
+  O  O6  1  0.58826300  0.90301700  0.60576500  1.0
+  O  O7  1  0.31614200  0.41083000  0.27505900  1.0
+  O  O8  1  0.08873800  0.67630600  0.93694300  1.0
+  O  O9  1  0.68524600  0.09698300  0.39423500  1.0
+  O  O10  1  0.90531200  0.58917000  0.72494100  1.0
+  O  O11  1  0.41243200  0.32369400  0.06305700  1.0
+  O  O12  1  0.40982800  0.26719500  0.54035100  1.0
+  O  O13  1  0.85963300  0.58709500  0.20786300  1.0
+  O  O14  1  0.73205300  0.13898300  0.87000600  1.0
+  O  O15  1  0.14263300  0.73280500  0.45964900  1.0
+  O  O16  1  0.27253800  0.41290500  0.79213700  1.0
+  O  O17  1  0.59307000  0.86101700  0.12999400  1.0

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Eu2DySbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94644690
+_cell_length_b   5.96253061
+_cell_length_c   5.94453526
+_cell_angle_alpha   59.71017456
+_cell_angle_beta   59.74564743
+_cell_angle_gamma   59.85164261
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu2DySbO6
+_chemical_formula_sum   'Eu2 Dy1 Sb1 O6'
+_cell_volume   148.25431437
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.74733156  0.06272615  0.38457766  1
+  Eu  Eu1  1  0.24642539  0.56306970  0.88453573  1
+  Dy  Dy2  1  0.49750489  0.81316364  0.13536943  1
+  Sb  Sb3  1  0.99729562  0.31353897  0.63565773  1
+  O  O4  1  0.75846177  0.55235380  0.39627379  1
+  O  O5  1  0.23503840  0.07604006  0.87298363  1
+  O  O6  1  0.75848657  0.55250388  0.87275672  1
+  O  O7  1  0.75803101  0.07664582  0.87253398  1
+  O  O8  1  0.23456354  0.07649659  0.39638954  1
+  O  O9  1  0.23497485  0.55210185  0.39628547  1

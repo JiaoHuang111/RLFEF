@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ba2LaCoCu2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97701049
+_cell_length_b   3.98559761
+_cell_length_c   11.68228340
+_cell_angle_alpha   89.87491608
+_cell_angle_beta   89.94343567
+_cell_angle_gamma   90.07569885
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2LaCoCu2O7
+_chemical_formula_sum   'Ba2 La1 Co1 Cu2 O7'
+_cell_volume   185.17241768
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.10778421  0.47873187  0.06369894  1
+  Ba  Ba1  1  0.10799035  0.47876993  0.40769374  1
+  La  La2  1  0.10779336  0.47949237  0.74139637  1
+  Co  Co3  1  0.60764098  0.97841382  0.24073415  1
+  Cu  Cu4  1  0.60821044  0.97849035  0.58666170  1
+  Cu  Cu5  1  0.60819215  0.97849381  0.89125121  1
+  O  O6  1  0.60802013  0.47843781  0.61151481  1
+  O  O7  1  0.10785780  0.97870505  0.88191760  1
+  O  O8  1  0.60821646  0.97883034  0.40432575  1
+  O  O9  1  0.60807824  0.47843954  0.88212699  1
+  O  O10  1  0.60816985  0.47834280  0.21694146  1
+  O  O11  1  0.10791668  0.97868842  0.61198777  1
+  O  O12  1  0.10875133  0.97901356  0.21564603  1

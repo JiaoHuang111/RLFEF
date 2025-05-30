@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ScZn2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.52130079
+_cell_length_b   4.51828432
+_cell_length_c   4.49682188
+_cell_angle_alpha   60.04104996
+_cell_angle_beta   59.95924377
+_cell_angle_gamma   60.02223206
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScZn2Pt
+_chemical_formula_sum   'Sc1 Zn2 Pt1'
+_cell_volume   64.96823718
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.14718111  0.01790552  0.81562740  1
+  Zn  Zn1  1  0.64689082  0.51795673  0.31647769  1
+  Zn  Zn2  1  0.89699268  0.76784402  0.56610024  1
+  Pt  Pt3  1  0.39725897  0.26797548  0.06677234  1

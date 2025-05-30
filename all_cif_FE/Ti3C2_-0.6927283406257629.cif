@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ti3C2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.12975097
+_cell_length_b   3.07056665
+_cell_length_c   13.64549255
+_cell_angle_alpha   83.01450348
+_cell_angle_beta   83.07077789
+_cell_angle_gamma   58.75167465
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3C2
+_chemical_formula_sum   'Ti6 C4'
+_cell_volume   111.02213524
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.70914221  0.75934887  0.40429518  1
+  Ti  Ti1  1  0.87737316  0.92820674  0.90367162  1
+  Ti  Ti2  1  0.43112615  0.48368078  0.23254880  1
+  Ti  Ti3  1  0.59894484  0.64681029  0.74098068  1
+  Ti  Ti4  1  0.15157990  0.20259649  0.07019001  1
+  Ti  Ti5  1  0.32056245  0.37072295  0.56879151  1
+  C  C6  1  0.78684163  0.84005570  0.16360071  1
+  C  C7  1  0.23943591  0.29231992  0.80878854  1
+  C  C8  1  0.01175912  0.06309524  0.48661381  1
+  C  C9  1  0.51595390  0.56790906  0.98494852  1

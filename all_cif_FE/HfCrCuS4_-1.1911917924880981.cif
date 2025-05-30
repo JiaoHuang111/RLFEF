@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_HfCrCuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.97024632
+_cell_length_b   7.00611734
+_cell_length_c   6.90395069
+_cell_angle_alpha   111.20304108
+_cell_angle_beta   98.22776031
+_cell_angle_gamma   119.00161743
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfCrCuS4
+_chemical_formula_sum   'Hf2 Cr2 Cu2 S8'
+_cell_volume   253.07794874
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.61138946  0.27577668  0.82062370  1
+  Hf  Hf1  1  0.09657294  0.78175056  0.81503117  1
+  Cr  Cr2  1  0.35683155  0.53051513  0.31635952  1
+  Cr  Cr3  1  0.85811383  0.03177835  0.31729013  1
+  Cu  Cu4  1  0.35967517  0.03270154  0.31917623  1
+  Cu  Cu5  1  0.35826015  0.52978104  0.81643015  1
+  S  S6  1  0.61132807  0.56761348  0.10150285  1
+  S  S7  1  0.11121804  0.06446813  0.09808110  1
+  S  S8  1  0.59963167  0.02461855  0.06227388  1
+  S  S9  1  0.12138487  0.03336916  0.56586540  1
+  S  S10  1  0.60306603  0.99717271  0.54162842  1
+  S  S11  1  0.10595196  0.53053904  0.05119495  1
+  S  S12  1  0.60823655  0.52337933  0.57775235  1
+  S  S13  1  0.09744669  0.48834705  0.53013027  1

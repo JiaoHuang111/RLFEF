@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Eu(CrAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07085037
+_cell_length_b   4.05239534
+_cell_length_c   6.29029894
+_cell_angle_alpha   109.00862122
+_cell_angle_beta   108.99636841
+_cell_angle_gamma   90.02619171
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu(CrAs)2
+_chemical_formula_sum   'Eu1 Cr2 As2'
+_cell_volume   92.10702440
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.66995120  0.23250002  0.90353543  1
+  Cr  Cr1  1  0.42141056  0.48245171  0.40293655  1
+  Cr  Cr2  1  0.92095727  0.98224646  0.40277666  1
+  As  As3  1  0.03624610  0.59997851  0.63817161  1
+  As  As4  1  0.30246028  0.86665416  0.17127055  1

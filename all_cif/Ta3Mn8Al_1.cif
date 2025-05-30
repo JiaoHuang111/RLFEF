@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta3Mn8Al
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.70633602
+_cell_length_b   4.71647787
+_cell_length_c   7.92139006
+_cell_angle_alpha   90.05748749
+_cell_angle_beta   89.99668884
+_cell_angle_gamma   119.83987427
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3Mn8Al
+_chemical_formula_sum   'Ta3 Mn8 Al1'
+_cell_volume   152.52146847
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.92131758  0.78976679  0.42289427  1
+  Ta  Ta1  1  0.58927804  0.12240054  0.93925995  1
+  Ta  Ta2  1  0.59016323  0.12302950  0.56273049  1
+  Mn  Mn3  1  0.60059255  0.62955534  0.74993449  1
+  Mn  Mn4  1  0.08054294  0.63053882  0.75019312  1
+  Mn  Mn5  1  0.91168338  0.28388989  0.24809681  1
+  Mn  Mn6  1  0.08341928  0.11017310  0.74929494  1
+  Mn  Mn7  1  0.42741936  0.80232519  0.24692638  1
+  Mn  Mn8  1  0.42660347  0.28551209  0.24841398  1
+  Mn  Mn9  1  0.92426544  0.79102224  0.05435514  1
+  Mn  Mn10  1  0.25369146  0.45715341  0.49919981  1
+  Al  Al11  1  0.25408638  0.45679650  0.00136900  1

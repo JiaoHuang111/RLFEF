@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TmSnPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78097677
+_cell_length_b   7.62041759
+_cell_length_c   7.63610649
+_cell_angle_alpha   119.72274017
+_cell_angle_beta   90.14205933
+_cell_angle_gamma   89.90089417
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmSnPt
+_chemical_formula_sum   'Tm3 Sn3 Pt3'
+_cell_volume   191.06914908
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.12711327  0.08020551  0.50174481  1
+  Tm  Tm1  1  0.12713376  0.67475605  0.90640652  1
+  Tm  Tm2  1  0.12680066  0.48290485  0.30767956  1
+  Sn  Sn3  1  0.62764400  0.07957550  0.16871214  1
+  Sn  Sn4  1  0.62752044  0.81547290  0.64187533  1
+  Sn  Sn5  1  0.62729269  0.34258384  0.90658301  1
+  Pt  Pt6  1  0.12721960  0.08067588  0.90682101  1
+  Pt  Pt7  1  0.62723112  0.41451460  0.57343131  1
+  Pt  Pt8  1  0.62679797  0.74899226  0.24167509  1

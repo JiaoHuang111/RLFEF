@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ce3MnBi5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.64271641
+_cell_length_b   9.49397373
+_cell_length_c   9.52557373
+_cell_angle_alpha   119.94386292
+_cell_angle_beta   89.98066711
+_cell_angle_gamma   89.93850708
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3MnBi5
+_chemical_formula_sum   'Ce6 Mn2 Bi10'
+_cell_volume   520.54758157
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.89861441  0.24693249  0.89547181  1
+  Ce  Ce1  1  0.39864835  0.58076161  0.89758247  1
+  Ce  Ce2  1  0.39862257  0.24699181  0.22227672  1
+  Ce  Ce3  1  0.39840195  0.92394859  0.55737001  1
+  Ce  Ce4  1  0.89862996  0.56237549  0.55567843  1
+  Ce  Ce5  1  0.89871156  0.91418946  0.22193167  1
+  Mn  Mn6  1  0.39835930  0.58041549  0.55781537  1
+  Mn  Mn7  1  0.89835769  0.91458601  0.55823755  1
+  Bi  Bi8  1  0.89854789  0.58055079  0.90145534  1
+  Bi  Bi9  1  0.64777118  0.60208690  0.27804613  1
+  Bi  Bi10  1  0.64843255  0.87110549  0.82345206  1
+  Bi  Bi11  1  0.89883041  0.24625671  0.21790670  1
+  Bi  Bi12  1  0.39881420  0.24761190  0.89907926  1
+  Bi  Bi13  1  0.39849952  0.91413218  0.21598512  1
+  Bi  Bi14  1  0.14794566  0.59611589  0.27610776  1
+  Bi  Bi15  1  0.64868039  0.24648592  0.56002450  1
+  Bi  Bi16  1  0.14858088  0.24685392  0.56054097  1
+  Bi  Bi17  1  0.14913376  0.87674803  0.82405996  1

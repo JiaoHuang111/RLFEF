@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ce(ZnAu2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.30352592
+_cell_length_b   5.91403723
+_cell_length_c   5.91154099
+_cell_angle_alpha   105.95570374
+_cell_angle_beta   90.17225647
+_cell_angle_gamma   89.93863678
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce(ZnAu2)2
+_chemical_formula_sum   'Ce1 Zn2 Au4'
+_cell_volume   144.65884054
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.07527328  0.46041569  0.13711949  1
+  Zn  Zn1  1  0.57475597  0.10089094  0.41509444  1
+  Zn  Zn2  1  0.57485926  0.71703857  0.79779178  1
+  Au  Au3  1  0.57451117  0.19784388  0.89215750  1
+  Au  Au4  1  0.07344314  0.92541683  0.60953623  1
+  Au  Au5  1  0.07496139  0.42375904  0.62179124  1
+  Au  Au6  1  0.07457742  0.93830508  0.10497727  1

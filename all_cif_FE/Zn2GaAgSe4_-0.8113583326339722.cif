@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Zn2GaAgSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.89312172
+_cell_length_b   5.88368750
+_cell_length_c   7.01317263
+_cell_angle_alpha   114.87912750
+_cell_angle_beta   114.60305786
+_cell_angle_gamma   89.93350983
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2GaAgSe4
+_chemical_formula_sum   'Zn2 Ga1 Ag1 Se4'
+_cell_volume   196.06209264
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.05321018  0.17093568  0.57158893  1
+  Zn  Zn1  1  0.55386388  0.67068619  0.57087034  1
+  Ga  Ga2  1  0.30355686  0.92173791  0.07153224  1
+  Ag  Ag3  1  0.80465817  0.42158395  0.07083151  1
+  Se  Se4  1  0.94007981  0.02296399  0.80960190  1
+  Se  Se5  1  0.19743572  0.81530917  0.33058479  1
+  Se  Se6  1  0.66773707  0.28007978  0.33064532  1
+  Se  Se7  1  0.41057330  0.55293244  0.81021267  1

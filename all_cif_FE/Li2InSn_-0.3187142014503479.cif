@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Li2InSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91439867
+_cell_length_b   4.90170813
+_cell_length_c   4.89350700
+_cell_angle_alpha   59.87283707
+_cell_angle_beta   60.16037369
+_cell_angle_gamma   60.01267624
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2InSn
+_chemical_formula_sum   'Li2 In1 Sn1'
+_cell_volume   83.38120156
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.38293377  0.12244935  0.05339132  1
+  Li  Li1  1  0.63282388  0.37231177  0.30379874  1
+  In  In2  1  0.88277930  0.62273705  0.55249220  1
+  Sn  Sn3  1  0.13288830  0.87282079  0.80392498  1

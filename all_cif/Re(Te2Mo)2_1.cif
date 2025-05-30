@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Re(Te2Mo)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.20125580
+_cell_length_b   7.19706631
+_cell_length_c   7.24537420
+_cell_angle_alpha   93.23036957
+_cell_angle_beta   92.80165100
+_cell_angle_gamma   94.41249084
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Re(Te2Mo)2
+_chemical_formula_sum   'Re2 Te8 Mo4'
+_cell_volume   373.27022997
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.31348121  0.79923993  0.13615943  1
+  Re  Re1  1  0.00599028  0.93652761  0.98698491  1
+  Te  Te2  1  0.04199317  0.24944198  0.80480528  1
+  Te  Te3  1  0.98054624  0.60328186  0.17293637  1
+  Te  Te4  1  0.17619273  0.08439322  0.32266530  1
+  Te  Te5  1  0.84519196  0.74834543  0.66724235  1
+  Te  Te6  1  0.47851062  0.49116540  0.24393259  1
+  Te  Te7  1  0.54232132  0.32610235  0.72442651  1
+  Te  Te8  1  0.33955181  0.81136465  0.76727939  1
+  Te  Te9  1  0.67336375  0.99362385  0.22318295  1
+  Mo  Mo10  1  0.69509459  0.02595395  0.84030050  1
+  Mo  Mo11  1  0.37785077  0.13591070  0.01108621  1
+  Mo  Mo12  1  0.63951224  0.67557901  0.96418959  1
+  Mo  Mo13  1  0.74598902  0.31969020  0.04511948  1

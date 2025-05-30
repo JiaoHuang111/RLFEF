@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaGaSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55733776
+_cell_length_b   4.55409145
+_cell_length_c   17.61881638
+_cell_angle_alpha   89.73920441
+_cell_angle_beta   90.01773071
+_cell_angle_gamma   121.16851044
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaGaSn
+_chemical_formula_sum   'Ca4 Ga4 Sn4'
+_cell_volume   312.88123510
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.36000255  0.59001541  0.95533168  1
+  Ca  Ca1  1  0.36038965  0.59010726  0.45079324  1
+  Ca  Ca2  1  0.36029354  0.59012073  0.72388858  1
+  Ca  Ca3  1  0.36063218  0.58999664  0.20970669  1
+  Ga  Ga4  1  0.69458580  0.25664976  0.66514784  1
+  Ga  Ga5  1  0.69379044  0.25647277  0.51499158  1
+  Ga  Ga6  1  0.02751005  0.92343676  0.03056528  1
+  Ga  Ga7  1  0.69448817  0.25688902  0.35599381  1
+  Sn  Sn8  1  0.02721725  0.92293006  0.58880275  1
+  Sn  Sn9  1  0.69441324  0.25665408  0.83814162  1
+  Sn  Sn10  1  0.69405007  0.25679284  0.08886554  1
+  Sn  Sn11  1  0.02729274  0.92269862  0.31684360  1

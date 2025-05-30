@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ti4Al2CN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.02987051
+_cell_length_b   3.01035023
+_cell_length_c   13.39419556
+_cell_angle_alpha   89.84328461
+_cell_angle_beta   89.80769348
+_cell_angle_gamma   119.96320343
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4Al2CN
+_chemical_formula_sum   'Ti4 Al2 C1 N1'
+_cell_volume   105.83789518
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.65413767  0.88497055  0.87716097  1
+  Ti  Ti1  1  0.65492183  0.88491380  0.20923516  1
+  Ti  Ti2  1  0.32136971  0.21860074  0.37803164  1
+  Ti  Ti3  1  0.65445065  0.88471782  0.54728049  1
+  Al  Al4  1  0.32134244  0.21832703  0.04962200  1
+  Al  Al5  1  0.32171813  0.21848847  0.71004438  1
+  C  C6  1  0.98803031  0.55172771  0.46010092  1
+  N  N7  1  0.98762977  0.55185318  0.95969206  1

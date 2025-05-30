@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaCdSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71912384
+_cell_length_b   7.55119467
+_cell_length_c   10.16963196
+_cell_angle_alpha   105.22110748
+_cell_angle_beta   103.34466553
+_cell_angle_gamma   89.96355438
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCdSb
+_chemical_formula_sum   'Na4 Cd4 Sb4'
+_cell_volume   339.54590314
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.20374238  0.38720068  0.29267392  1
+  Na  Na1  1  0.84491122  0.31133649  0.58060318  1
+  Na  Na2  1  0.45561647  0.63719702  0.79311562  1
+  Na  Na3  1  0.26472428  0.90774554  0.41201979  1
+  Cd  Cd4  1  0.92241609  0.94759601  0.72879547  1
+  Cd  Cd5  1  0.63930744  0.67966348  0.17182884  1
+  Cd  Cd6  1  0.08764476  0.93730378  0.05702927  1
+  Cd  Cd7  1  0.56059754  0.25199372  0.99785930  1
+  Sb  Sb8  1  0.05644334  0.52929980  0.00018287  1
+  Sb  Sb9  1  0.40894911  0.16243169  0.71341789  1
+  Sb  Sb10  1  0.79152435  0.65966880  0.47350326  1
+  Sb  Sb11  1  0.67626107  0.07315526  0.23192269  1

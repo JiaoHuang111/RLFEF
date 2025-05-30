@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ce2SO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97762156
+_cell_length_b   3.95972848
+_cell_length_c   6.80468035
+_cell_angle_alpha   89.79656219
+_cell_angle_beta   89.86614990
+_cell_angle_gamma   119.75428009
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2SO2
+_chemical_formula_sum   'Ce2 S1 O2'
+_cell_volume   93.04427673
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.12830307  0.75626129  0.06581166  1
+  Ce  Ce1  1  0.46095631  0.42414120  0.62005872  1
+  S  S2  1  0.79461378  0.09016378  0.34288058  1
+  O  O3  1  0.12780797  0.75665677  0.71420157  1
+  O  O4  1  0.46160400  0.42259452  0.97008473  1

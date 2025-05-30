@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CsScI3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11797810
+_cell_length_b   8.45865345
+_cell_length_c   8.43244934
+_cell_angle_alpha   59.48529816
+_cell_angle_beta   89.90156555
+_cell_angle_gamma   90.21189880
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsScI3
+_chemical_formula_sum   'Cs2 Sc2 I6'
+_cell_volume   437.38067884
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.21608585  0.44312623  0.24095674  1
+  Cs  Cs1  1  0.71615976  0.11063571  0.90850204  1
+  Sc  Sc2  1  0.96651250  0.77723587  0.57505554  1
+  Sc  Sc3  1  0.46677867  0.77605611  0.57543129  1
+  I  I4  1  0.21675400  0.93715662  0.25334135  1
+  I  I5  1  0.71692723  0.61296004  0.41342071  1
+  I  I6  1  0.71663493  0.09814492  0.41317645  1
+  I  I7  1  0.21738562  0.93771869  0.73835444  1
+  I  I8  1  0.21645881  0.45251927  0.73795217  1
+  I  I9  1  0.71702474  0.61360592  0.89616555  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Tb2InNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07342625
+_cell_length_b   4.23122931
+_cell_length_c   6.86575174
+_cell_angle_alpha   89.90506744
+_cell_angle_beta   107.08164215
+_cell_angle_gamma   90.19688416
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2InNi2
+_chemical_formula_sum   'Tb2 In1 Ni2'
+_cell_volume   113.11455399
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.70640570  0.91662246  0.40891078  1
+  Tb  Tb1  1  0.36302891  0.41685086  0.73319316  1
+  In  In2  1  0.07739462  0.41511026  0.15516254  1
+  Ni  Ni3  1  0.92489493  0.91723484  0.85203040  1
+  Ni  Ni4  1  0.50018972  0.91671789  0.00316380  1

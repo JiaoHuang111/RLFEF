@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Rb3TaO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.92412043
+_cell_length_b   5.95683956
+_cell_length_c   6.38212442
+_cell_angle_alpha   90.41229248
+_cell_angle_beta   89.66324615
+_cell_angle_gamma   89.98457336
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3TaO8
+_chemical_formula_sum   'Rb3 Ta1 O8'
+_cell_volume   225.20927986
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.25472426  0.31373051  0.53113192  1
+  Rb  Rb1  1  0.25629666  0.81680375  0.05203864  1
+  Rb  Rb2  1  0.75626147  0.33291420  0.08060288  1
+  Ta  Ta3  1  0.75580341  0.81382608  0.60173118  1
+  O  O4  1  0.55839372  0.60726315  0.75505167  1
+  O  O5  1  0.25602195  0.31597704  0.06181227  1
+  O  O6  1  0.75423372  0.01560002  0.39159387  1
+  O  O7  1  0.55826116  0.01510280  0.75434107  1
+  O  O8  1  0.52913374  0.71897346  0.39264405  1
+  O  O9  1  0.95546854  0.60669535  0.75450814  1
+  O  O10  1  0.95541334  0.01514972  0.75489473  1
+  O  O11  1  0.95476860  0.71881270  0.39293501  1

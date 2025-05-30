@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ti2CdO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.27841425
+_cell_length_b   6.50413752
+_cell_length_c   9.04370308
+_cell_angle_alpha   104.24893951
+_cell_angle_beta   90.80231476
+_cell_angle_gamma   104.27755737
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2CdO5
+_chemical_formula_sum   'Ti4 Cd2 O10'
+_cell_volume   180.56159976
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.92453355  0.47911710  0.54312128  1
+  Ti  Ti1  1  0.60397971  0.83415931  0.87654352  1
+  Ti  Ti2  1  0.28929347  0.21135801  0.20355259  1
+  Ti  Ti3  1  0.00376175  0.63579941  0.17221220  1
+  Cd  Cd4  1  0.33961549  0.30802345  0.84421521  1
+  Cd  Cd5  1  0.65953392  0.95002812  0.47127154  1
+  O  O6  1  0.46404168  0.55758643  0.28932920  1
+  O  O7  1  0.99001551  0.60680032  0.78937924  1
+  O  O8  1  0.04840300  0.72495723  0.51020122  1
+  O  O9  1  0.36075103  0.34567258  0.58592492  1
+  O  O10  1  0.85947448  0.34597865  0.08676515  1
+  O  O11  1  0.51648712  0.66353506  0.02920493  1
+  O  O12  1  0.80605912  0.24497803  0.34653175  1
+  O  O13  1  0.69686520  0.02891649  0.74683225  1
+  O  O14  1  0.19003472  0.00879951  0.97371471  1
+  O  O15  1  0.14523751  0.92197412  0.26004252  1

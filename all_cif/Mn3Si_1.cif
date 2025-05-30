@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Mn3Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98978448
+_cell_length_b   3.98741293
+_cell_length_c   3.95816970
+_cell_angle_alpha   59.75801086
+_cell_angle_beta   59.44359589
+_cell_angle_gamma   59.98130035
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3Si
+_chemical_formula_sum   'Mn3 Si1'
+_cell_volume   44.24924489
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.63715750  0.57317352  0.82397181  1
+  Mn  Mn1  1  0.38720137  0.32375544  0.57317984  1
+  Mn  Mn2  1  0.88737255  0.82344681  0.07280514  1
+  Si  Si3  1  0.13722262  0.07316280  0.32365179  1

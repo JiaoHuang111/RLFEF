@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Na4HgP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02391481
+_cell_length_b   5.01466560
+_cell_length_c   7.98593664
+_cell_angle_alpha   71.63578796
+_cell_angle_beta   71.71189117
+_cell_angle_gamma   59.90084839
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4HgP2
+_chemical_formula_sum   'Na4 Hg1 P2'
+_cell_volume   162.19736668
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.57273781  0.82040030  0.57615095  1
+  Na  Na1  1  0.03121906  0.27370557  0.19062904  1
+  Na  Na2  1  0.76753855  0.00996087  0.98196530  1
+  Na  Na3  1  0.17162436  0.41949347  0.76867086  1
+  Hg  Hg4  1  0.31148383  0.55524981  0.34384617  1
+  P  P5  1  0.42517301  0.67235035  0.00280249  1
+  P  P6  1  0.90036315  0.15202591  0.58346450  1

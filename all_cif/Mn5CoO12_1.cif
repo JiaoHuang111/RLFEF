@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Mn5CoO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.81548834
+_cell_length_b   4.80924559
+_cell_length_c   8.39734840
+_cell_angle_alpha   90.13062286
+_cell_angle_beta   90.19207001
+_cell_angle_gamma   89.35816193
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn5CoO12
+_chemical_formula_sum   'Mn5 Co1 O12'
+_cell_volume   194.45928323
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.70978308  0.38870591  0.26320258  1
+  Mn  Mn1  1  0.71026808  0.89028502  0.95034283  1
+  Mn  Mn2  1  0.21077451  0.38950586  0.07265212  1
+  Mn  Mn3  1  0.21086176  0.89000732  0.76045173  1
+  Mn  Mn4  1  0.21010746  0.38816476  0.45776972  1
+  Co  Co5  1  0.71018094  0.88951719  0.57032156  1
+  O  O6  1  0.53119749  0.61076355  0.09253378  1
+  O  O7  1  0.53265613  0.70044732  0.76092273  1
+  O  O8  1  0.88599318  0.15773687  0.09178104  1
+  O  O9  1  0.88892716  0.07922675  0.76099664  1
+  O  O10  1  0.03254170  0.66035670  0.93238956  1
+  O  O11  1  0.02947047  0.58097816  0.26087934  1
+  O  O12  1  0.53214008  0.60572153  0.43270883  1
+  O  O13  1  0.39041758  0.19882460  0.26119763  1
+  O  O14  1  0.89051878  0.15955079  0.43262237  1
+  O  O15  1  0.38691774  0.10175472  0.59138107  1
+  O  O16  1  0.03019313  0.66278446  0.59264129  1
+  O  O17  1  0.39021266  0.10369487  0.93256783  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_RbNaCd3O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.46489644
+_cell_length_b   6.42689943
+_cell_length_c   7.03179073
+_cell_angle_alpha   90.37095642
+_cell_angle_beta   89.97958374
+_cell_angle_gamma   107.03953552
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNaCd3O4
+_chemical_formula_sum   'Rb1 Na1 Cd3 O4'
+_cell_volume   149.71062287
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.38127360  0.61599809  0.34824908  1
+  Na  Na1  1  0.47029290  0.80779010  0.90024370  1
+  Cd  Cd2  1  0.67451441  0.19789430  0.13837937  1
+  Cd  Cd3  1  0.09097062  0.03886839  0.48426381  1
+  Cd  Cd4  1  0.78150928  0.42474616  0.76256996  1
+  O  O5  1  0.27072322  0.39954132  0.96799403  1
+  O  O6  1  0.95353961  0.77412319  0.67157400  1
+  O  O7  1  0.69592774  0.25392073  0.46748292  1
+  O  O8  1  0.04944020  0.94643104  0.16918039  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_DyGa2Cu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18086147
+_cell_length_b   5.12183523
+_cell_length_c   5.14532614
+_cell_angle_alpha   118.89293671
+_cell_angle_beta   89.85578918
+_cell_angle_gamma   90.19383240
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyGa2Cu3
+_chemical_formula_sum   'Dy1 Ga2 Cu3'
+_cell_volume   96.46498200
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.46516010  0.82644266  0.20556608  1
+  Ga  Ga1  1  0.96516633  0.32126567  0.19538422  1
+  Ga  Ga2  1  0.46557558  0.49658683  0.55214328  1
+  Cu  Cu3  1  0.96516651  0.82761168  0.70717502  1
+  Cu  Cu4  1  0.46492273  0.15950926  0.86841017  1
+  Cu  Cu5  1  0.96488100  0.32286295  0.70710713  1

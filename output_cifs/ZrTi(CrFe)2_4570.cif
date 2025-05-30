@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrTi(CrFe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.90368670
+_cell_length_b   4.95146978
+_cell_length_c   7.92879010
+_cell_angle_alpha   89.93277041
+_cell_angle_beta   89.99236315
+_cell_angle_gamma   119.67151520
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTi(CrFe)2
+_chemical_formula_sum   'Zr2 Ti2 Cr4 Fe4'
+_cell_volume   167.27151386
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.66627600  0.33244000  0.07115500  1.0
+  Zr  Zr1  1  0.33337600  0.66675500  0.93416400  1.0
+  Ti  Ti2  1  0.33357200  0.66711000  0.55695100  1.0
+  Ti  Ti3  1  0.66596800  0.33187000  0.44257300  1.0
+  Cr  Cr4  1  0.99897900  0.99818400  0.50049800  1.0
+  Cr  Cr5  1  0.99947200  0.99910700  0.99808000  1.0
+  Cr  Cr6  1  0.83056900  0.17251900  0.74015900  1.0
+  Cr  Cr7  1  0.34203000  0.17248700  0.74015500  1.0
+  Fe  Fe8  1  0.82868100  0.65731700  0.74245000  1.0
+  Fe  Fe9  1  0.16926200  0.83124700  0.25798900  1.0
+  Fe  Fe10  1  0.66198000  0.83127500  0.25799600  1.0
+  Fe  Fe11  1  0.16983400  0.33968900  0.25783100  1.0

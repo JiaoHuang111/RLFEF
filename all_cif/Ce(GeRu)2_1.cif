@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ce(GeRu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28091764
+_cell_length_b   4.28524208
+_cell_length_c   5.85225439
+_cell_angle_alpha   111.51290131
+_cell_angle_beta   111.36885071
+_cell_angle_gamma   89.98783875
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce(GeRu)2
+_chemical_formula_sum   'Ce1 Ge2 Ru2'
+_cell_volume   91.90355607
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.97292346  0.48030278  0.85454619  1
+  Ge  Ge1  1  0.60664499  0.11399101  0.11739885  1
+  Ge  Ge2  1  0.34198087  0.85012919  0.59135556  1
+  Ru  Ru3  1  0.72362220  0.73004138  0.35361207  1
+  Ru  Ru4  1  0.22314426  0.22986621  0.35387716  1

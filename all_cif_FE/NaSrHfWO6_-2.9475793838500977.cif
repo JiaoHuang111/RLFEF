@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NaSrHfWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75130749
+_cell_length_b   5.75667000
+_cell_length_c   5.75060034
+_cell_angle_alpha   59.80985641
+_cell_angle_beta   59.81263733
+_cell_angle_gamma   59.88055420
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSrHfWO6
+_chemical_formula_sum   'Na1 Sr1 Hf1 W1 O6'
+_cell_volume   134.12194035
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.99656856  0.65353125  0.47730985  1
+  Sr  Sr1  1  0.49703076  0.15259084  0.97729683  1
+  Hf  Hf2  1  0.74657482  0.40347028  0.22767128  1
+  W  W3  1  0.24621734  0.90362263  0.72794408  1
+  O  O4  1  0.49399829  0.15035599  0.47968721  1
+  O  O5  1  0.49383062  0.65703994  0.97497982  1
+  O  O6  1  0.99919784  0.15051930  0.47955701  1
+  O  O7  1  0.99956596  0.65650433  0.97463489  1
+  O  O8  1  0.99954683  0.15092592  0.97424108  1
+  O  O9  1  0.49367979  0.65615398  0.47924948  1

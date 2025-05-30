@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr2NdMn2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91552949
+_cell_length_b   6.15001297
+_cell_length_c   7.16588688
+_cell_angle_alpha   98.97661591
+_cell_angle_beta   105.39736938
+_cell_angle_gamma   90.01028442
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2NdMn2O7
+_chemical_formula_sum   'Sr2 Nd1 Mn2 O7'
+_cell_volume   164.17046274
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.74254948  0.94439036  0.32728449  1
+  Sr  Sr1  1  0.84407234  0.49291766  0.53505296  1
+  Nd  Nd2  1  0.48700511  0.10661559  0.82138282  1
+  Mn  Mn3  1  0.06130587  0.71277505  0.96653390  1
+  Mn  Mn4  1  0.17749225  0.32879552  0.19833371  1
+  O  O5  1  0.66624063  0.29891658  0.17786905  1
+  O  O6  1  0.32543752  0.22078553  0.49253419  1
+  O  O7  1  0.22269134  0.63889903  0.29332578  1
+  O  O8  1  0.01679884  0.38295597  0.87652475  1
+  O  O9  1  0.92242914  0.88382137  0.68362385  1
+  O  O10  1  0.55133808  0.72735506  0.94827670  1
+  O  O11  1  0.11449342  0.02476527  0.07381126  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs2KEuCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.14733696
+_cell_length_b   8.16396809
+_cell_length_c   8.13710117
+_cell_angle_alpha   59.62849426
+_cell_angle_beta   59.64661026
+_cell_angle_gamma   60.11842728
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2KEuCl6
+_chemical_formula_sum   'Cs2 K1 Eu1 Cl6'
+_cell_volume   380.93725177
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.67427707  0.11029398  0.10637873  1
+  Cs  Cs1  1  0.17374948  0.61083210  0.60649145  1
+  K  K2  1  0.42327574  0.86101198  0.85683298  1
+  Eu  Eu3  1  0.92377323  0.36065730  0.35602373  1
+  Cl  Cl4  1  0.68706506  0.12415589  0.59305173  1
+  Cl  Cl5  1  0.16000745  0.59800249  0.12024973  1
+  Cl  Cl6  1  0.16080710  0.12415521  0.12030512  1
+  Cl  Cl7  1  0.16050933  0.12339844  0.59318990  1
+  Cl  Cl8  1  0.68624169  0.59813827  0.12016692  1
+  Cl  Cl9  1  0.68699503  0.59842449  0.59319079  1

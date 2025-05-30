@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96422672
+_cell_length_b   5.95959282
+_cell_length_c   6.37788773
+_cell_angle_alpha   63.31382751
+_cell_angle_beta   62.71469879
+_cell_angle_gamma   60.73973846
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaClO4
+_chemical_formula_sum   'Na2 Cl2 O8'
+_cell_volume   168.20164907
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.54232627  0.77532011  0.87606359  1
+  Na  Na1  1  0.04242823  0.27508518  0.37512794  1
+  Cl  Cl2  1  0.32240188  0.56157577  0.67499614  1
+  Cl  Cl3  1  0.82248837  0.06032974  0.17557491  1
+  O  O4  1  0.10825749  0.99472779  0.09734389  1
+  O  O5  1  0.27086294  0.49442345  0.95223969  1
+  O  O6  1  0.60810566  0.49707881  0.59686953  1
+  O  O7  1  0.77077436  0.99503839  0.45254171  1
+  O  O8  1  0.23037373  0.46257111  0.55050570  1
+  O  O9  1  0.73168772  0.96312022  0.05086616  1
+  O  O10  1  0.76865220  0.34365505  0.09851428  1
+  O  O11  1  0.27184966  0.84335595  0.59824568  1

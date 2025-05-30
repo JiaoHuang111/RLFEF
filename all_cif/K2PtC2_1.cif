@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_K2PtC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16495705
+_cell_length_b   5.29764843
+_cell_length_c   5.35360575
+_cell_angle_alpha   60.52111816
+_cell_angle_beta   89.96020508
+_cell_angle_gamma   89.73678589
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2PtC2
+_chemical_formula_sum   'K2 Pt1 C2'
+_cell_volume   127.51998398
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.54215896  0.71610117  0.73869795  1
+  K  K1  1  0.09433554  0.04634970  0.07064206  1
+  Pt  Pt2  1  0.83072966  0.38402826  0.40703008  1
+  C  C3  1  0.20220001  0.38455796  0.40670598  1
+  C  C4  1  0.44251066  0.38418692  0.40528804  1

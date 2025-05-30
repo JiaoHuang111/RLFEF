@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_In2(HgTe2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40822500
+_cell_length_b   8.04741729
+_cell_length_c   9.17613465
+_cell_angle_alpha   108.04229353
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   113.46283928
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2(HgTe2)3
+_chemical_formula_sum   'In2 Hg3 Te6'
+_cell_volume   408.59371669
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.98666200  0.99971100  0.49450100  1.0
+  In  In1  1  0.32028600  0.66695600  0.17216600  1.0
+  Hg  Hg2  1  0.00270600  0.01722600  0.01295400  1.0
+  Hg  Hg3  1  0.71197233  0.33333333  0.83333300  1.0
+  Hg  Hg4  1  0.31881400  0.64944100  0.65371300  1.0
+  Te  Te5  1  0.28683800  0.02566500  0.26356700  1.0
+  Te  Te6  1  0.89505000  0.34280800  0.11536900  1.0
+  Te  Te7  1  0.58158100  0.66557000  0.91848100  1.0
+  Te  Te8  1  0.24934400  0.00109700  0.74818600  1.0
+  Te  Te9  1  0.88557500  0.32385800  0.55129700  1.0
+  Te  Te10  1  0.59450700  0.64100200  0.40310000  1.0

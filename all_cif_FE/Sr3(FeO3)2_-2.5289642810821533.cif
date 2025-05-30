@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Sr3(FeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.60378647
+_cell_length_b   6.48538733
+_cell_length_c   7.19564629
+_cell_angle_alpha   93.36615753
+_cell_angle_beta   104.73503113
+_cell_angle_gamma   90.07282257
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3(FeO3)2
+_chemical_formula_sum   'Sr3 Fe2 O6'
+_cell_volume   162.34189214
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.29513949  0.25444183  0.63312745  1
+  Sr  Sr1  1  0.02846762  0.04914308  0.10277983  1
+  Sr  Sr2  1  0.65771216  0.66038793  0.36250746  1
+  Fe  Fe3  1  0.34233227  0.78768277  0.73387933  1
+  Fe  Fe4  1  0.98066497  0.50842029  0.00121641  1
+  O  O5  1  0.12509400  0.41399378  0.29093963  1
+  O  O6  1  0.82970947  0.54668605  0.70310587  1
+  O  O7  1  0.48851523  0.73677564  0.02476707  1
+  O  O8  1  0.19623770  0.90678787  0.43863225  1
+  O  O9  1  0.47540519  0.32560715  0.98455012  1
+  O  O10  1  0.84860045  0.97556776  0.75324571  1

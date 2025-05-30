@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_PaBi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.67956257
+_cell_length_b   4.70236397
+_cell_length_c   6.29369354
+_cell_angle_alpha   111.87773132
+_cell_angle_beta   112.00979614
+_cell_angle_gamma   89.93238068
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaBi3
+_chemical_formula_sum   'Pa1 Bi3'
+_cell_volume   117.59890071
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.94515425  0.46117780  0.94839424  1
+  Bi  Bi1  1  0.44428015  0.96108371  0.94777590  1
+  Bi  Bi2  1  0.69474483  0.71097392  0.44755134  1
+  Bi  Bi3  1  0.19483210  0.21125443  0.44855884  1

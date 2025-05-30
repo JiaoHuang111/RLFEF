@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ga3NO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09776592
+_cell_length_b   5.45358467
+_cell_length_c   5.46425724
+_cell_angle_alpha   98.50498962
+_cell_angle_beta   89.74069977
+_cell_angle_gamma   89.86645508
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga3NO3
+_chemical_formula_sum   'Ga6 N2 O6'
+_cell_volume   150.23953967
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.12168933  0.56673449  0.04308514  1
+  Ga  Ga1  1  0.09257226  0.31741351  0.45369506  1
+  Ga  Ga2  1  0.54607803  0.07855531  0.05020798  1
+  Ga  Ga3  1  0.62100649  0.78686774  0.41665736  1
+  Ga  Ga4  1  0.62015545  0.43642616  0.75890839  1
+  Ga  Ga5  1  0.06736786  0.93853873  0.75818956  1
+  N  N6  1  0.30564407  0.26123738  0.85499966  1
+  N  N7  1  0.85948867  0.61473995  0.60052705  1
+  O  O8  1  0.36581707  0.76084059  0.85917485  1
+  O  O9  1  0.35853514  0.06509823  0.35726765  1
+  O  O10  1  0.32160959  0.56397021  0.33720377  1
+  O  O11  1  0.81832039  0.35645533  0.09888139  1
+  O  O12  1  0.82086235  0.11586657  0.59838140  1
+  O  O13  1  0.85791379  0.85606182  0.09887648  1

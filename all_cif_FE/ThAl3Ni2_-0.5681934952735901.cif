@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ThAl3Ni2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25843620
+_cell_length_b   5.16542006
+_cell_length_c   5.17651176
+_cell_angle_alpha   61.16514969
+_cell_angle_beta   90.40183258
+_cell_angle_gamma   89.98628235
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThAl3Ni2
+_chemical_formula_sum   'Th1 Al3 Ni2'
+_cell_volume   99.74460076
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.45986024  0.32982516  0.25994521  1
+  Al  Al1  1  0.95965266  0.82903463  0.27173048  1
+  Al  Al2  1  0.95965004  0.34695223  0.74987680  1
+  Al  Al3  1  0.45941478  0.98819286  0.91035259  1
+  Ni  Ni4  1  0.46007377  0.66367000  0.59384286  1
+  Ni  Ni5  1  0.96007192  0.83298510  0.76097965  1

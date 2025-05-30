@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Tb2ZnIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95638943
+_cell_length_b   4.95981455
+_cell_length_c   4.94972992
+_cell_angle_alpha   59.96835327
+_cell_angle_beta   59.91263962
+_cell_angle_gamma   60.03175735
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2ZnIr
+_chemical_formula_sum   'Tb2 Zn1 Ir1'
+_cell_volume   85.98246818
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.77130437  0.40693468  0.10375260  1
+  Tb  Tb1  1  0.27104264  0.90686041  0.60350031  1
+  Zn  Zn2  1  0.52158439  0.15701330  0.85276842  1
+  Ir  Ir3  1  0.02154670  0.65752190  0.35355344  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K3RhF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88122559
+_cell_length_b   5.92798424
+_cell_length_c   5.94549131
+_cell_angle_alpha   101.11574554
+_cell_angle_beta   100.99797821
+_cell_angle_gamma   100.20281219
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3RhF6
+_chemical_formula_sum   'K3 Rh1 F6'
+_cell_volume   194.67243319
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.09276480  0.19902085  0.36872327  1
+  K  K1  1  0.59326863  0.20018037  0.86840457  1
+  K  K2  1  0.09331272  0.69962692  0.86903727  1
+  Rh  Rh3  1  0.59312522  0.69880104  0.36911273  1
+  F  F4  1  0.33748034  0.85555547  0.53453285  1
+  F  F5  1  0.84932792  0.53948843  0.21206312  1
+  F  F6  1  0.59079081  0.47706935  0.60366863  1
+  F  F7  1  0.34899640  0.46111414  0.14054383  1
+  F  F8  1  0.84063923  0.93603247  0.60419595  1
+  F  F9  1  0.58829242  0.93303329  0.14723356  1

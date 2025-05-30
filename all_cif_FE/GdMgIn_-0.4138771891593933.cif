@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_GdMgIn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.67236471
+_cell_length_b   7.58321667
+_cell_length_c   7.60458899
+_cell_angle_alpha   119.92743683
+_cell_angle_beta   90.09562683
+_cell_angle_gamma   90.02672577
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdMgIn
+_chemical_formula_sum   'Gd3 Mg3 In3'
+_cell_volume   233.51381264
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.81124908  0.49464539  0.48563215  1
+  Gd  Gd1  1  0.81140208  0.35723358  0.92001683  1
+  Gd  Gd2  1  0.81163001  0.92458200  0.05499404  1
+  Mg  Mg3  1  0.31140122  0.16691788  0.48624581  1
+  Mg  Mg4  1  0.31174350  0.68196720  0.24540588  1
+  Mg  Mg5  1  0.31176713  0.92393625  0.72876251  1
+  In  In6  1  0.31158400  0.25781783  0.15381563  1
+  In  In7  1  0.81169462  0.92423159  0.48660517  1
+  In  In8  1  0.31155989  0.59094852  0.81908405  1

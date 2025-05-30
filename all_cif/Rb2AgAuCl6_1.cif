@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2AgAuCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30976057
+_cell_length_b   7.33669186
+_cell_length_c   7.32183123
+_cell_angle_alpha   59.73244095
+_cell_angle_beta   59.74603271
+_cell_angle_gamma   59.67584610
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2AgAuCl6
+_chemical_formula_sum   'Rb2 Ag1 Au1 Cl6'
+_cell_volume   275.87877111
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.23790634  0.12306739  0.89424580  1
+  Rb  Rb1  1  0.73791033  0.62240708  0.39431733  1
+  Ag  Ag2  1  0.98816431  0.87326407  0.64429069  1
+  Au  Au3  1  0.48777246  0.37345916  0.14447305  1
+  Cl  Cl4  1  0.24051073  0.62129176  0.39045528  1
+  Cl  Cl5  1  0.73467714  0.12629135  0.39138296  1
+  Cl  Cl6  1  0.24022275  0.12661736  0.39107522  1
+  Cl  Cl7  1  0.73500437  0.12591349  0.89653414  1
+  Cl  Cl8  1  0.73493630  0.62062216  0.89618981  1
+  Cl  Cl9  1  0.24043763  0.62127072  0.89675844  1

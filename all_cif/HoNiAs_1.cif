@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_HoNiAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83859491
+_cell_length_b   3.98002195
+_cell_length_c   3.99109983
+_cell_angle_alpha   60.01330566
+_cell_angle_beta   89.59605408
+_cell_angle_gamma   90.12289429
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoNiAs
+_chemical_formula_sum   'Ho1 Ni1 As1'
+_cell_volume   52.81035569
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.01938532  0.21867408  0.44117329  1
+  Ni  Ni1  1  0.51941305  0.88632673  0.10739688  1
+  As  As2  1  0.52008408  0.55387461  0.77290195  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CrRe13B6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.25195456
+_cell_length_b   3.23905683
+_cell_length_c   24.91324234
+_cell_angle_alpha   89.75528717
+_cell_angle_beta   90.23638916
+_cell_angle_gamma   120.32417297
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrRe13B6
+_chemical_formula_sum   'Cr1 Re13 B6'
+_cell_volume   226.51182589
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.96346599  0.47165522  0.74738288  1
+  Re  Re1  1  0.29737541  0.13825449  0.16278365  1
+  Re  Re2  1  0.96434337  0.47208723  0.24025653  1
+  Re  Re3  1  0.63004619  0.80512768  0.08869970  1
+  Re  Re4  1  0.29670256  0.13833864  0.36434713  1
+  Re  Re5  1  0.96296030  0.47207934  0.44590560  1
+  Re  Re6  1  0.62990069  0.80568457  0.53523093  1
+  Re  Re7  1  0.29648051  0.13894211  0.62864906  1
+  Re  Re8  1  0.63071114  0.80495256  0.69274282  1
+  Re  Re9  1  0.29592848  0.13874818  0.01147659  1
+  Re  Re10  1  0.63007689  0.80512941  0.94497865  1
+  Re  Re11  1  0.63037378  0.80523592  0.30611667  1
+  Re  Re12  1  0.29761457  0.13844517  0.81057268  1
+  Re  Re13  1  0.96346033  0.47175610  0.87871146  1
+  B  B14  1  0.63000631  0.80491722  0.19822726  1
+  B  B15  1  0.96402216  0.47167748  0.02748028  1
+  B  B16  1  0.29701108  0.13861603  0.48600146  1
+  B  B17  1  0.63010037  0.80533385  0.41119885  1
+  B  B18  1  0.96298414  0.47179386  0.59165782  1
+  B  B19  1  0.63030720  0.80521607  0.81162852  1

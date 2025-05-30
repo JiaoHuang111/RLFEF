@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Ho3Si2(SnRh3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.50368300
+_cell_length_b   9.81887600
+_cell_length_c   9.81887595
+_cell_angle_alpha   120.00000015
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3Si2(SnRh3)3
+_chemical_formula_sum   'Ho3 Si2 Sn3 Rh9'
+_cell_volume   292.53577554
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.50000000  0.59991800  0.59991800  1.0
+  Ho  Ho1  1  0.50000000  1.00000000  0.40008200  1.0
+  Ho  Ho2  1  0.50000000  0.40008200  1.00000000  1.0
+  Si  Si3  1  0.50000000  0.66666667  0.33333333  1.0
+  Si  Si4  1  0.50000000  0.33333333  0.66666667  1.0
+  Sn  Sn5  1  0.50000000  0.23938600  0.23938600  1.0
+  Sn  Sn6  1  0.50000000  1.00000000  0.76061400  1.0
+  Sn  Sn7  1  0.50000000  0.76061400  1.00000000  1.0
+  Rh  Rh8  1  0.00000000  0.18408100  0.70140900  1.0
+  Rh  Rh9  1  1.00000000  0.51732800  0.81592000  1.0
+  Rh  Rh10  1  1.00000000  0.29859200  0.48267300  1.0
+  Rh  Rh11  1  1.00000000  0.70140800  0.18408000  1.0
+  Rh  Rh12  1  0.00000000  0.81591900  0.51732700  1.0
+  Rh  Rh13  1  0.00000000  0.48267200  0.29859100  1.0
+  Rh  Rh14  1  1.00000000  0.83454400  0.83454400  1.0
+  Rh  Rh15  1  0.00000000  1.00000000  0.16545600  1.0
+  Rh  Rh16  1  0.00000000  0.16545600  0.00000000  1.0

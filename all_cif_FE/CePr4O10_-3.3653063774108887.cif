@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_CePr4O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00677776
+_cell_length_b   6.94194746
+_cell_length_c   9.27216911
+_cell_angle_alpha   94.68088531
+_cell_angle_beta   89.92733765
+_cell_angle_gamma   106.39813995
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CePr4O10
+_chemical_formula_sum   'Ce1 Pr4 O10'
+_cell_volume   246.52405301
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.91594738  0.02254072  0.91545600  1
+  Pr  Pr1  1  0.78574079  0.76167178  0.45811477  1
+  Pr  Pr2  1  0.49785089  0.18097961  0.26265755  1
+  Pr  Pr3  1  0.07605601  0.34221032  0.61348397  1
+  Pr  Pr4  1  0.20548290  0.60099769  0.07435898  1
+  O  O5  1  0.95801103  0.11666187  0.39897081  1
+  O  O6  1  0.89882952  0.99430209  0.68511623  1
+  O  O7  1  0.23575750  0.67187250  0.57332921  1
+  O  O8  1  0.32421017  0.83659452  0.29695734  1
+  O  O9  1  0.39525896  0.98493969  0.99227262  1
+  O  O10  1  0.76289868  0.71457553  0.95741403  1
+  O  O11  1  0.07690559  0.34999567  0.85936207  1
+  O  O12  1  0.66721493  0.53500539  0.23176210  1
+  O  O13  1  0.60215348  0.39409518  0.51478249  1
+  O  O14  1  0.01957647  0.23682775  0.12571417  1

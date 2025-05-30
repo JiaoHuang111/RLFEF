@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaSiPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99640512
+_cell_length_b   5.97646284
+_cell_length_c   7.17523861
+_cell_angle_alpha   89.90614319
+_cell_angle_beta   90.02870178
+_cell_angle_gamma   90.03295135
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaSiPt
+_chemical_formula_sum   'Ca4 Si4 Pt4'
+_cell_volume   257.14070446
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.36093950  0.03999707  0.34469464  1
+  Ca  Ca1  1  0.61107546  0.28952193  0.84425163  1
+  Ca  Ca2  1  0.11068004  0.78912967  0.84434539  1
+  Ca  Ca3  1  0.86082119  0.53909039  0.34435558  1
+  Si  Si4  1  0.85894829  0.03984535  0.51928461  1
+  Si  Si5  1  0.10897564  0.28919888  0.01837229  1
+  Si  Si6  1  0.35903409  0.53990376  0.51936501  1
+  Si  Si7  1  0.60870141  0.78829372  0.01909260  1
+  Pt  Pt8  1  0.85872698  0.03537178  0.17366709  1
+  Pt  Pt9  1  0.10954883  0.28653172  0.67484355  1
+  Pt  Pt10  1  0.35869637  0.53554207  0.17371151  1
+  Pt  Pt11  1  0.60964042  0.78659534  0.67521358  1

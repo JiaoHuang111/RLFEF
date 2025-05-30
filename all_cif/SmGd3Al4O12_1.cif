@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SmGd3Al4O12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31493473
+_cell_length_b   5.45438910
+_cell_length_c   7.56205988
+_cell_angle_alpha   90.25674438
+_cell_angle_beta   89.78512573
+_cell_angle_gamma   89.81802368
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmGd3Al4O12
+_chemical_formula_sum   'Sm1 Gd3 Al4 O12'
+_cell_volume   219.21715392
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.24462922  0.27051347  0.57343704  1
+  Gd  Gd1  1  0.72007459  0.77015483  0.57293016  1
+  Gd  Gd2  1  0.74329644  0.86442202  0.07294324  1
+  Gd  Gd3  1  0.21961765  0.36412758  0.07325194  1
+  Al  Al4  1  0.23245925  0.81704199  0.32387200  1
+  Al  Al5  1  0.73205459  0.31688914  0.32368168  1
+  Al  Al6  1  0.73187840  0.31664610  0.82394278  1
+  Al  Al7  1  0.23209517  0.81575352  0.82364011  1
+  O  O8  1  0.65096378  0.29974005  0.07356209  1
+  O  O9  1  0.52129489  0.03043517  0.78026539  1
+  O  O10  1  0.44525737  0.53016710  0.36540481  1
+  O  O11  1  0.02114625  0.10400826  0.86530197  1
+  O  O12  1  0.31261489  0.79857260  0.07341654  1
+  O  O13  1  0.94549847  0.60391206  0.86520791  1
+  O  O14  1  0.15044624  0.83647585  0.57330412  1
+  O  O15  1  0.81237757  0.33385599  0.57331860  1
+  O  O16  1  0.02231651  0.10380419  0.27972335  1
+  O  O17  1  0.94562268  0.60519660  0.28000733  1
+  O  O18  1  0.52102965  0.03063220  0.36640185  1
+  O  O19  1  0.44522515  0.52991331  0.78013319  1

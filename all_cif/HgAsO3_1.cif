@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_HgAsO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30448055
+_cell_length_b   5.29607964
+_cell_length_c   6.09810734
+_cell_angle_alpha   99.80495453
+_cell_angle_beta   99.69645691
+_cell_angle_gamma   119.89027405
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgAsO3
+_chemical_formula_sum   'Hg2 As2 O6'
+_cell_volume   139.77581325
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.95876473  0.02797371  0.09436711  1
+  Hg  Hg1  1  0.45871857  0.52116138  0.09218199  1
+  As  As2  1  0.79691660  0.19227929  0.59283698  1
+  As  As3  1  0.14596075  0.84404069  0.59240347  1
+  O  O4  1  0.03832047  0.46395117  0.40118361  1
+  O  O5  1  0.11571620  0.17428051  0.77511668  1
+  O  O6  1  0.81958675  0.85510087  0.39987195  1
+  O  O7  1  0.91635144  0.58318490  0.77489436  1
+  O  O8  1  0.53440684  0.96599823  0.77540964  1
+  O  O9  1  0.41671968  0.08417003  0.40134442  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Pr(NiBi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.68434238
+_cell_length_b   4.70495462
+_cell_length_c   10.23885536
+_cell_angle_alpha   89.93213654
+_cell_angle_beta   89.94958496
+_cell_angle_gamma   90.05809784
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr(NiBi)2
+_chemical_formula_sum   'Pr2 Ni4 Bi4'
+_cell_volume   225.66010275
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.49034682  0.17633161  0.11521298  1
+  Pr  Pr1  1  0.99045616  0.67576474  0.64739615  1
+  Ni  Ni2  1  0.49013519  0.67594457  0.88249022  1
+  Ni  Ni3  1  0.49041951  0.17597689  0.50662118  1
+  Ni  Ni4  1  0.99025357  0.17602307  0.88101184  1
+  Ni  Ni5  1  0.99019974  0.67590868  0.26102638  1
+  Bi  Bi6  1  0.99017352  0.17626707  0.38310573  1
+  Bi  Bi7  1  0.99006909  0.67611200  0.00455606  1
+  Bi  Bi8  1  0.48996460  0.17623247  0.75868934  1
+  Bi  Bi9  1  0.49030283  0.67664289  0.38301057  1

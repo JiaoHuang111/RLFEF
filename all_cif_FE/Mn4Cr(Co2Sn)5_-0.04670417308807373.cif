@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Mn4Cr(Co2Sn)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.58302879
+_cell_length_b   4.62866354
+_cell_length_c   15.50131989
+_cell_angle_alpha   81.31622314
+_cell_angle_beta   81.40787506
+_cell_angle_gamma   60.37311935
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn4Cr(Co2Sn)5
+_chemical_formula_sum   'Mn4 Cr1 Co10 Sn5'
+_cell_volume   281.49515937
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.22068733  0.55803853  0.13001031  1
+  Mn  Mn1  1  0.01488184  0.35371903  0.73958051  1
+  Mn  Mn2  1  0.85187584  0.18864852  0.23140667  1
+  Mn  Mn3  1  0.58864313  0.92699212  0.01180498  1
+  Cr  Cr4  1  0.34958822  0.68856794  0.73486048  1
+  Co  Co5  1  0.22252057  0.06888452  0.61988443  1
+  Co  Co6  1  0.89470869  0.23330386  0.09547157  1
+  Co  Co7  1  0.75763720  0.09915739  0.51117396  1
+  Co  Co8  1  0.47343701  0.31730729  0.86868203  1
+  Co  Co9  1  0.25752026  0.59733957  0.00128826  1
+  Co  Co10  1  0.10971444  0.45059264  0.45763871  1
+  Co  Co11  1  0.89081120  0.72435820  0.61765146  1
+  Co  Co12  1  0.16435720  0.50237226  0.28891236  1
+  Co  Co13  1  0.55250692  0.38958418  0.63645875  1
+  Co  Co14  1  0.13408640  0.96870661  0.86852181  1
+  Sn  Sn15  1  0.80325633  0.14184572  0.37282184  1
+  Sn  Sn16  1  0.94132894  0.28618205  0.95612872  1
+  Sn  Sn17  1  0.67530274  0.00708984  0.75997382  1
+  Sn  Sn18  1  0.52924538  0.86829776  0.19320346  1
+  Sn  Sn19  1  0.42550713  0.76276809  0.50298780  1

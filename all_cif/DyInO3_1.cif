@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_DyInO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55521631
+_cell_length_b   5.92994308
+_cell_length_c   8.22210121
+_cell_angle_alpha   89.85654449
+_cell_angle_beta   89.71861267
+_cell_angle_gamma   90.00935364
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyInO3
+_chemical_formula_sum   'Dy4 In4 O12'
+_cell_volume   270.84929693
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.88146174  0.81998831  0.98472083  1
+  Dy  Dy1  1  0.33307260  0.31942502  0.98508060  1
+  Dy  Dy2  1  0.38167319  0.45752406  0.48466554  1
+  Dy  Dy3  1  0.83292246  0.95856279  0.48466921  1
+  In  In4  1  0.85782456  0.38919884  0.23503681  1
+  In  In5  1  0.35830638  0.88745648  0.73461151  1
+  In  In6  1  0.85853529  0.38875932  0.73472238  1
+  In  In7  1  0.35840324  0.88838005  0.23480567  1
+  O  O8  1  0.54291862  0.20031989  0.30929294  1
+  O  O9  1  0.70998651  0.45976254  0.98398685  1
+  O  O10  1  0.17073208  0.57791024  0.15691882  1
+  O  O11  1  0.20930712  0.81618881  0.48425317  1
+  O  O12  1  0.54287457  0.20087656  0.65666664  1
+  O  O13  1  0.17149948  0.57645094  0.80960643  1
+  O  O14  1  0.00345852  0.31544310  0.48453417  1
+  O  O15  1  0.50416821  0.95886481  0.98484790  1
+  O  O16  1  0.67108166  0.70058781  0.65757573  1
+  O  O17  1  0.04201678  0.07680348  0.80978811  1
+  O  O18  1  0.67080230  0.70039076  0.31012559  1
+  O  O19  1  0.04279857  0.07707880  0.15661441  1

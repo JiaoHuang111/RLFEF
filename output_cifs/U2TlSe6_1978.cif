@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_U2TlSe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05687600
+_cell_length_b   5.51855800
+_cell_length_c   11.55685898
+_cell_angle_alpha   103.81317901
+_cell_angle_beta   100.10881008
+_cell_angle_gamma   90.00000001
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2TlSe6
+_chemical_formula_sum   'U2 Tl1 Se6'
+_cell_volume   247.11520733
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.81963300  0.31963300  0.63926600  1.0
+  U  U1  1  0.18036700  0.68036700  0.36073400  1.0
+  Tl  Tl2  1  0.00000000  0.00000000  0.00000000  1.0
+  Se  Se3  1  0.22556200  0.22556200  0.45112400  1.0
+  Se  Se4  1  0.77443800  0.77443800  0.54887600  1.0
+  Se  Se5  1  0.39442500  0.14804700  0.78885000  1.0
+  Se  Se6  1  0.60557500  0.85195300  0.21115000  1.0
+  Se  Se7  1  0.60557500  0.35919700  0.21115000  1.0
+  Se  Se8  1  0.39442500  0.64080300  0.78885000  1.0

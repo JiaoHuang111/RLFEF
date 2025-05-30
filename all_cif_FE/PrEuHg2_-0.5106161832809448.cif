@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_PrEuHg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50366163
+_cell_length_b   5.51768875
+_cell_length_c   5.49935341
+_cell_angle_alpha   59.59424591
+_cell_angle_beta   59.80394363
+_cell_angle_gamma   59.95542526
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrEuHg2
+_chemical_formula_sum   'Pr1 Eu1 Hg2'
+_cell_volume   117.50793043
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.05236436  0.53449398  0.97833413  1
+  Eu  Eu1  1  0.55227214  0.03466306  0.47819242  1
+  Hg  Hg2  1  0.30268097  0.78463531  0.22773272  1
+  Hg  Hg3  1  0.80268925  0.28445747  0.72804707  1

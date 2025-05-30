@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BaCo2(AsO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98041477
+_cell_length_b   4.98696723
+_cell_length_c   8.54271260
+_cell_angle_alpha   89.50023642
+_cell_angle_beta   74.01988662
+_cell_angle_gamma   61.18855769
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCo2(AsO4)2
+_chemical_formula_sum   'Ba1 Co2 As2 O8'
+_cell_volume   176.78171182
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.99932300  0.00109800  0.00019900  1.0
+  Co  Co1  1  0.33020200  0.82959700  0.49472800  1.0
+  Co  Co2  1  0.66711900  0.17243800  0.50617600  1.0
+  As  As3  1  0.15091500  0.41945900  0.28479300  1.0
+  As  As4  1  0.84922000  0.58044300  0.71518800  1.0
+  O  O5  1  0.89725100  0.22248300  0.65534500  1.0
+  O  O6  1  0.56093700  0.88422600  0.64483900  1.0
+  O  O7  1  0.21929200  0.56848600  0.65156100  1.0
+  O  O8  1  0.10530500  0.77617600  0.34449900  1.0
+  O  O9  1  0.43939700  0.11487500  0.35526900  1.0
+  O  O10  1  0.28341000  0.35285900  0.07592100  1.0
+  O  O11  1  0.71557600  0.64953400  0.92391000  1.0
+  O  O12  1  0.78205300  0.42832700  0.34757200  1.0

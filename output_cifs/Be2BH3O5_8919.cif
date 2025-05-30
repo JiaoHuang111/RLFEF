@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Be2BH3O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43098300
+_cell_length_b   4.46280250
+_cell_length_c   5.40791255
+_cell_angle_alpha   87.60282055
+_cell_angle_beta   89.47273149
+_cell_angle_gamma   60.25259153
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be2BH3O5
+_chemical_formula_sum   'Be2 B1 H3 O5'
+_cell_volume   92.75751374
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.67312100  0.65755200  0.60609300  1.0
+  Be  Be1  1  0.33135200  0.34005000  0.40064600  1.0
+  B  B2  1  0.00019400  0.99984300  0.49823800  1.0
+  H  H3  1  0.45952600  0.46216600  0.01403100  1.0
+  H  H4  1  0.07715700  0.46688500  0.01467600  1.0
+  H  H5  1  0.57190300  0.85977200  0.97302600  1.0
+  O  O6  1  0.32381500  0.35256300  0.09258000  1.0
+  O  O7  1  0.68870800  0.00134700  0.49906800  1.0
+  O  O8  1  0.30865500  0.69132200  0.49956200  1.0
+  O  O9  1  0.00058500  0.30830300  0.49665200  1.0
+  O  O10  1  0.69338200  0.62879800  0.90624800  1.0

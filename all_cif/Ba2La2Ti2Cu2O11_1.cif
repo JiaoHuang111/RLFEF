@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ba2La2Ti2Cu2O11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69634533
+_cell_length_b   5.70850992
+_cell_length_c   7.94349670
+_cell_angle_alpha   89.99349976
+_cell_angle_beta   89.88299561
+_cell_angle_gamma   89.92353058
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2La2Ti2Cu2O11
+_chemical_formula_sum   'Ba2 La2 Ti2 Cu2 O11'
+_cell_volume   258.30302637
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.53879350  0.68795353  0.71918958  1
+  Ba  Ba1  1  0.03842212  0.18819271  0.21989326  1
+  La  La2  1  0.53901744  0.68777233  0.21932648  1
+  La  La3  1  0.03876425  0.18777397  0.71731299  1
+  Ti  Ti4  1  0.03887582  0.68755156  0.46897933  1
+  Ti  Ti5  1  0.53902632  0.18786624  0.96451610  1
+  Cu  Cu6  1  0.03914157  0.68698913  0.97109234  1
+  Cu  Cu7  1  0.53898680  0.18697250  0.46821713  1
+  O  O8  1  0.28870681  0.93558747  0.46219873  1
+  O  O9  1  0.77112132  0.43317705  0.98962402  1
+  O  O10  1  0.78935879  0.43362728  0.46232331  1
+  O  O11  1  0.78894281  0.93221629  0.46186954  1
+  O  O12  1  0.53896821  0.18824933  0.73082292  1
+  O  O13  1  0.77059859  0.95310640  0.99015021  1
+  O  O14  1  0.03881249  0.68815154  0.71301287  1
+  O  O15  1  0.03943698  0.68864644  0.23305172  1
+  O  O16  1  0.30883396  0.43257311  0.98961174  1
+  O  O17  1  0.28919438  0.43350866  0.46224025  1
+  O  O18  1  0.30944508  0.95466334  0.98981500  1

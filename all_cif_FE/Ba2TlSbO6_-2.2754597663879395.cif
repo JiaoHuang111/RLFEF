@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2TlSbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.20819044
+_cell_length_b   6.21576452
+_cell_length_c   6.20452309
+_cell_angle_alpha   59.66520309
+_cell_angle_beta   59.75225449
+_cell_angle_gamma   59.82480240
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2TlSbO6
+_chemical_formula_sum   'Ba2 Tl1 Sb1 O6'
+_cell_volume   168.32675712
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.81760556  0.64653039  0.99477625  1
+  Ba  Ba1  1  0.31675372  0.14709629  0.49473721  1
+  Tl  Tl2  1  0.56699693  0.39733040  0.74482405  1
+  Sb  Sb3  1  0.06747951  0.89736682  0.24505067  1
+  O  O4  1  0.29430065  0.66859853  0.01637934  1
+  O  O5  1  0.83986604  0.67002511  0.47168255  1
+  O  O6  1  0.83971155  0.12554695  0.01615334  1
+  O  O7  1  0.83995557  0.12515858  0.47171378  1
+  O  O8  1  0.29430506  0.12606071  0.01605928  1
+  O  O9  1  0.29434499  0.66944277  0.47188243  1

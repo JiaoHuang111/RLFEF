@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_AlVNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07086754
+_cell_length_b   4.08407402
+_cell_length_c   4.07524109
+_cell_angle_alpha   60.17903137
+_cell_angle_beta   60.10801315
+_cell_angle_gamma   59.99828339
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlVNi2
+_chemical_formula_sum   'Al1 V1 Ni2'
+_cell_volume   48.01220205
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.34965244  0.37288812  0.43549675  1
+  V  V1  1  0.84984994  0.87291557  0.93598056  1
+  Ni  Ni2  1  0.09986134  0.12317226  0.18524611  1
+  Ni  Ni3  1  0.59967208  0.62330848  0.68566287  1

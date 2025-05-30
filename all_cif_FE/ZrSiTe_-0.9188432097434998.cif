@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ZrSiTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.71754146
+_cell_length_b   3.68466640
+_cell_length_c   9.88567448
+_cell_angle_alpha   89.82843018
+_cell_angle_beta   89.97988892
+_cell_angle_gamma   90.07653046
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrSiTe
+_chemical_formula_sum   'Zr2 Si2 Te2'
+_cell_volume   135.41224473
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.65974748  0.48712498  0.22722070  1
+  Zr  Zr1  1  0.15984660  0.98654795  0.63819885  1
+  Si  Si2  1  0.15952352  0.48689377  0.43159291  1
+  Si  Si3  1  0.66011500  0.98701203  0.43171766  1
+  Te  Te4  1  0.15965998  0.98697054  0.08223865  1
+  Te  Te5  1  0.65990913  0.48700309  0.77755123  1

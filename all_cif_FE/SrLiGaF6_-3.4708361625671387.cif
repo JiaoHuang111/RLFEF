@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_SrLiGaF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11984730
+_cell_length_b   5.12929869
+_cell_length_c   10.57530594
+_cell_angle_alpha   89.75691223
+_cell_angle_beta   89.75647736
+_cell_angle_gamma   120.27209473
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLiGaF6
+_chemical_formula_sum   'Sr2 Li2 Ga2 F12'
+_cell_volume   239.84213589
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.76415163  0.62472868  0.92017686  1
+  Sr  Sr1  1  0.76420236  0.62533760  0.41957214  1
+  Li  Li2  1  0.42995027  0.95750588  0.67033970  1
+  Li  Li3  1  0.09610724  0.29060674  0.17029010  1
+  Ga  Ga4  1  0.09500183  0.29089260  0.67141992  1
+  Ga  Ga5  1  0.42897379  0.95897144  0.17059529  1
+  F  F6  1  0.11766680  0.60602051  0.56576121  1
+  F  F7  1  0.39670452  0.60857564  0.77644908  1
+  F  F8  1  0.40829298  0.25140196  0.06561986  1
+  F  F9  1  0.13396010  0.64244694  0.06566150  1
+  F  F10  1  0.74595863  0.97498566  0.06578909  1
+  F  F11  1  0.74625993  0.25017926  0.27620849  1
+  F  F12  1  0.13562116  0.97540700  0.27590835  1
+  F  F13  1  0.78813708  0.99926084  0.56617558  1
+  F  F14  1  0.12229183  0.99980253  0.77644008  1
+  F  F15  1  0.78892756  0.27724877  0.77685881  1
+  F  F16  1  0.41096270  0.64223456  0.27603018  1
+  F  F17  1  0.39832348  0.27807912  0.56573683  1

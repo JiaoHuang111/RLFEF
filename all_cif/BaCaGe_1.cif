@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaCaGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02019644
+_cell_length_b   8.48723507
+_cell_length_c   9.35117054
+_cell_angle_alpha   89.97243500
+_cell_angle_beta   89.87849426
+_cell_angle_gamma   90.01079559
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCaGe
+_chemical_formula_sum   'Ba4 Ca4 Ge4'
+_cell_volume   398.42986559
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.75598437  0.88913536  0.48760328  1
+  Ba  Ba1  1  0.25622651  0.35930049  0.98363733  1
+  Ba  Ba2  1  0.75604379  0.39464185  0.36311513  1
+  Ba  Ba3  1  0.75594211  0.01172727  0.06879115  1
+  Ca  Ca4  1  0.25602895  0.72666240  0.24267904  1
+  Ca  Ca5  1  0.25612515  0.85484809  0.81753087  1
+  Ca  Ca6  1  0.25606987  0.22715317  0.59504747  1
+  Ca  Ca7  1  0.75595695  0.51963246  0.74309015  1
+  Ge  Ge8  1  0.75607473  0.63049358  0.06811357  1
+  Ge  Ge9  1  0.25630438  0.60340899  0.57114065  1
+  Ge  Ge10  1  0.25596538  0.10155021  0.28774434  1
+  Ge  Ge11  1  0.75628191  0.13355622  0.74485052  1

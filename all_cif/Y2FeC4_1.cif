@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Y2FeC4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98329449
+_cell_length_b   6.61157179
+_cell_length_c   6.64535093
+_cell_angle_alpha   69.56748199
+_cell_angle_beta   67.85056305
+_cell_angle_gamma   67.52561188
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2FeC4
+_chemical_formula_sum   'Y4 Fe2 C8'
+_cell_volume   181.93412670
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.44611681  0.48443303  0.73754925  1
+  Y  Y1  1  0.15059671  0.10007703  0.69813776  1
+  Y  Y2  1  0.94951427  0.79843330  0.40507141  1
+  Y  Y3  1  0.64996403  0.78753281  0.01568097  1
+  Fe  Fe4  1  0.02492392  0.31776059  0.22267991  1
+  Fe  Fe5  1  0.52600467  0.31757751  0.22312810  1
+  C  C6  1  0.71871710  0.19788043  0.46298525  1
+  C  C7  1  0.66427940  0.07874523  0.68534321  1
+  C  C8  1  0.87006634  0.38978305  0.96884376  1
+  C  C9  1  0.61315238  0.54770797  0.34547350  1
+  C  C10  1  0.92770749  0.50642836  0.75491810  1
+  C  C11  1  0.21916056  0.54627794  0.11072493  1
+  C  C12  1  0.43024570  0.81425583  0.42116252  1
+  C  C13  1  0.36993051  0.05725110  0.30621681  1

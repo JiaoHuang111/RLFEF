@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NbCoAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.59069133
+_cell_length_b   7.37253332
+_cell_length_c   7.51715231
+_cell_angle_alpha   118.91287994
+_cell_angle_beta   90.17546844
+_cell_angle_gamma   90.18872833
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbCoAs
+_chemical_formula_sum   'Nb4 Co4 As4'
+_cell_volume   174.19043961
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.43130833  0.31415313  0.78188753  1
+  Nb  Nb1  1  0.43130979  0.93097550  0.35275075  1
+  Nb  Nb2  1  0.43134430  0.89850146  0.86966795  1
+  Nb  Nb3  1  0.93134880  0.61670357  0.39743006  1
+  Co  Co4  1  0.93129796  0.27137661  0.01043245  1
+  Co  Co5  1  0.93163639  0.27299085  0.50020075  1
+  Co  Co6  1  0.43094879  0.27396661  0.25291777  1
+  Co  Co7  1  0.93131101  0.66505635  0.01603600  1
+  As  As8  1  0.93115282  0.02261293  0.65484273  1
+  As  As9  1  0.43133923  0.52251124  0.58893275  1
+  As  As10  1  0.43147349  0.52514005  0.12723981  1
+  As  As11  1  0.93140584  0.03952238  0.15807830  1

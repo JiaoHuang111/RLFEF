@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Nd2FeSi2Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16835785
+_cell_length_b   4.22332144
+_cell_length_c   7.61297655
+_cell_angle_alpha   106.29335022
+_cell_angle_beta   105.99457550
+_cell_angle_gamma   90.09491730
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd2FeSi2Ru
+_chemical_formula_sum   'Nd2 Fe1 Si2 Ru1'
+_cell_volume   123.20510871
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.05702838  0.25191468  0.86774766  1
+  Nd  Nd1  1  0.30699646  0.00371739  0.36911446  1
+  Fe  Fe2  1  0.89359635  0.58705610  0.53947407  1
+  Si  Si3  1  0.72428954  0.41991988  0.20888352  1
+  Si  Si4  1  0.46846053  0.66389418  0.69394416  1
+  Ru  Ru5  1  0.64157832  0.83747596  0.03900228  1

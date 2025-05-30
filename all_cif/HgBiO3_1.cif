@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_HgBiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.85310698
+_cell_length_b   3.84866524
+_cell_length_c   14.39115334
+_cell_angle_alpha   90.13982391
+_cell_angle_beta   89.98602295
+_cell_angle_gamma   121.28253937
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgBiO3
+_chemical_formula_sum   'Hg2 Bi2 O6'
+_cell_volume   182.38402008
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.02774008  0.37098449  0.58393258  1
+  Hg  Hg1  1  0.02916691  0.37112278  0.29689774  1
+  Bi  Bi2  1  0.36088300  0.03714123  0.08190044  1
+  Bi  Bi3  1  0.36134914  0.03755917  0.78823078  1
+  O  O4  1  0.02890282  0.37065792  0.79900503  1
+  O  O5  1  0.36078992  0.03700402  0.24908580  1
+  O  O6  1  0.36133930  0.03790823  0.93684483  1
+  O  O7  1  0.02904481  0.37095550  0.44006008  1
+  O  O8  1  0.69610769  0.70383757  0.09082918  1
+  O  O9  1  0.69533455  0.70397103  0.66091383  1

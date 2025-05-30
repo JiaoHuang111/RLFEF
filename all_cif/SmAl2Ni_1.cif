@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_SmAl2Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08134508
+_cell_length_b   4.52877569
+_cell_length_c   8.20731735
+_cell_angle_alpha   89.84158325
+_cell_angle_beta   90.08403778
+_cell_angle_gamma   89.82601166
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmAl2Ni
+_chemical_formula_sum   'Sm2 Al4 Ni2'
+_cell_volume   151.69847636
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.91496027  0.28444904  0.88938260  1
+  Sm  Sm1  1  0.41511667  0.78445512  0.38875818  1
+  Al  Al2  1  0.91530722  0.78441280  0.11153277  1
+  Al  Al3  1  0.91507483  0.28459233  0.33284304  1
+  Al  Al4  1  0.41535944  0.28423271  0.61200726  1
+  Al  Al5  1  0.41560790  0.78457212  0.83506173  1
+  Ni  Ni6  1  0.91519791  0.78451788  0.65174156  1
+  Ni  Ni7  1  0.41524911  0.28460476  0.15125416  1

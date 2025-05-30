@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K3DyCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.96782207
+_cell_length_b   7.97496986
+_cell_length_c   7.97674417
+_cell_angle_alpha   59.88397217
+_cell_angle_beta   59.76486588
+_cell_angle_gamma   59.82548141
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3DyCl6
+_chemical_formula_sum   'K3 Dy1 Cl6'
+_cell_volume   356.98312425
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.87820089  0.91601390  0.23283067  1
+  K  K1  1  0.12781993  0.16539620  0.48284832  1
+  K  K2  1  0.62820965  0.66696978  0.98229218  1
+  Dy  Dy3  1  0.37796736  0.41577634  0.73254681  1
+  Cl  Cl4  1  0.61234814  0.18289368  0.49791527  1
+  Cl  Cl5  1  0.14323804  0.18344176  0.96614033  1
+  Cl  Cl6  1  0.61211485  0.18303058  0.96598995  1
+  Cl  Cl7  1  0.14397039  0.65000993  0.96612895  1
+  Cl  Cl8  1  0.14386164  0.65017766  0.49823838  1
+  Cl  Cl9  1  0.61180985  0.65072823  0.49742290  1

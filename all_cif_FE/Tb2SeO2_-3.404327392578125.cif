@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Tb2SeO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89063406
+_cell_length_b   3.87397885
+_cell_length_c   6.75381660
+_cell_angle_alpha   106.59453583
+_cell_angle_beta   106.46734619
+_cell_angle_gamma   90.25590515
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2SeO2
+_chemical_formula_sum   'Tb2 Se1 O2'
+_cell_volume   93.14873154
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.76405227  0.46954319  0.11278579  1
+  Tb  Tb1  1  0.45000082  0.15690108  0.48893467  1
+  Se  Se2  1  0.10564981  0.81184363  0.79936308  1
+  O  O3  1  0.35625723  0.56243068  0.29967171  1
+  O  O4  1  0.85697579  0.06206811  0.30017659  1

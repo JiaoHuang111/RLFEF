@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_Lu2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.51376607
+_cell_length_b   3.51376607
+_cell_length_c   6.21722278
+_cell_angle_alpha   73.58555718
+_cell_angle_beta   73.58555718
+_cell_angle_gamma   59.99999871
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2C
+_chemical_formula_sum   'Lu2 C1'
+_cell_volume   62.83868016
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.24088400  0.24088400  0.27734800  1.0
+  Lu  Lu1  1  0.75911600  0.75911600  0.72265200  1.0
+  C  C2  1  0.50000000  0.50000000  0.50000000  1.0
